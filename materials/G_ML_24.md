@@ -150,7 +150,7 @@ An oberster Stelle steht der erste Arbeitsschritt.
 <br>
 <br>
 
-![Maler_lustig](../assets/img/maler_mini_holzwand.jpg"                                                                           [_Quelle: Pixabay, Ralphs-Fotos_](https://pixabay.com/de/photos/maler-malerei-lackierer-3177366/)")<!-- style="width: 500px" -->
+![Maler_lustig](../assets/img/maler_mini_holzwand.jpg "[_Quelle: Pixabay, Ralphs-Fotos_](https://pixabay.com/de/photos/maler-malerei-lackierer-3177366/)")<!-- style="width: 500px" -->
 
 
 </div>
@@ -183,7 +183,7 @@ An oberster Stelle steht der erste Arbeitsschritt.
 <br>
 <br>
 
-![Maler_lustig](../assets/img/maler_mini.jpg"                                                                           [_Quelle: Pixabay, Alexas-Fotos_](https://pixabay.com/photos/painter-to-brush-work-figure-1116746/)")<!-- style="width: 500px" -->
+![Maler_lustig](../assets/img/maler_mini.jpg "[_Quelle: Pixabay, Alexas-Fotos_](https://pixabay.com/photos/painter-to-brush-work-figure-1116746/)")<!-- style="width: 500px" -->
 
 
 </div>
@@ -216,7 +216,7 @@ An oberster Stelle steht der erste Arbeitsschritt.
 <br>
 <br>
 
-![Maler_lustig](../assets/img/maler_mini_back.jpg"                                                                           [_Quelle: Pixabay, Alexas-Fotos_](https://pixabay.com/photos/painter-to-brush-work-figure-1116763/)")<!-- style="width: 500px" -->
+![Maler_lustig](../assets/img/maler_mini_back.jpg "[_Quelle: Pixabay, Alexas-Fotos_](https://pixabay.com/photos/painter-to-brush-work-figure-1116763/)")<!-- style="width: 500px" -->
 
 
 </div>
@@ -277,7 +277,7 @@ Mit welchen Methoden kann die Haftfestigkeit alter Anstriche geprüft werden?
 </div>
 <div class="flex-child">
 
-![Fragezeichen](../assets/img/fragezeichen.jpg"                         _Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 250px; width: 100%" -->
+![Fragezeichen](../assets/img/fragezeichen.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 250px; width: 100%" -->
 
 </div>
 </section>
@@ -302,7 +302,7 @@ Wie prüft man am besten die Saugfähigkeit eines Untergrunds?
 </div>
 <div class="flex-child-3">
 
-![Untergrund](../assets/img/putz.jpg"                          _Quelle: Pixabay, geralt_")<!-- style="max-width: 350px; width: 100%" -->
+![Untergrund](../assets/img/putz.jpg " _Quelle: Pixabay, geralt_")<!-- style="max-width: 350px; width: 100%" -->
 
 </div>
 </section>

@@ -53,7 +53,7 @@ Wir wünschen Ihnen viel Erfolg und Spaß beim Beantworten der Fragen!
 
 <br>
 <center>
-![Tischlerwerkstatt](img/kappsaege_dewalt.jpg"_Foto: Pixabay, ekenamillwork_")<!-- style="max-width: 600px; width: 100%" -->
+![Tischlerwerkstatt](../assets/img/kappsaege_dewalt.jpg "_Foto: Pixabay, ekenamillwork_")<!-- style="max-width: 600px; width: 100%" -->
 </center>
 
 ## Vorbereiten der Oberfläche - Spezialfragen
@@ -113,7 +113,8 @@ Woran kann das liegen?
 
 </div>
 <div class="flex-child-2 center">
-![Tischlerwerkstatt](img/woodboard.jpg"_Quelle: Pixabay, Tyli Jura_") <!-- style="max-width: 300px; width: 100%" -->
+
+![Tischlerwerkstatt](../assets/img/woodboard.jpg "_Quelle: Pixabay, Tyli Jura_") <!-- style="max-width: 300px; width: 100%" -->
 
 </div>
 </section>
@@ -259,7 +260,7 @@ Welche Gefahr besteht beim Lagern von ölgetränkten Lappen in einem Eimer?
 </section>
 
 <center>
-![Sicher](img/sicher_aus_schildern.jpg"_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 500px; width: 100%" -->
+![Sicher](../assets/img/sicher_aus_schildern.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 500px; width: 100%" -->
 </center>
 
 ## Geschafft! 🙌

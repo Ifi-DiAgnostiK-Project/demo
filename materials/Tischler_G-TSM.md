@@ -71,7 +71,7 @@ Testen Sie Ihr Wissen zum sicheren Umgang mit Holzbearbeitungsmaschinen!
 
 <center>
 
-![Tischler_mit_Handmaschine](img/Man_zuschneiden.jpg" [_Quelle: Freepik, gpointstudio_](https://www.freepik.com/free-photo/carpenter-cutting-plank-by-circular-saw_11230030.htm#fromView=search&page=1&position=8&uuid=97824b16-cb12-47ce-88e1-8d3d56bdf004&query=carpenter)")<!-- style="max-width: 450px; width: 100%" -->
+![Tischler_mit_Handmaschine](../assets/img/Man_zuschneiden.jpg "[_Quelle: Freepik, gpointstudio_](https://www.freepik.com/free-photo/carpenter-cutting-plank-by-circular-saw_11230030.htm#fromView=search&page=1&position=8&uuid=97824b16-cb12-47ce-88e1-8d3d56bdf004&query=carpenter)")<!-- style="max-width: 450px; width: 100%" -->
 
 </center>
 
@@ -103,7 +103,7 @@ Die Werkstücke sind festzuspannen und gegen Verschieben zu sichern.
 
 <center>
 
-![Tischler_](img/man_Handkreissaege_gloves.jpg" [_Quelle: Freepik, gpointstudio_](https://www.freepik.com/free-photo/hard-working-carpenter-cutting-wooden-plank_11230060.htm#from_element=cross_selling__photo)")<!-- style="max-width: 400px; width: 100%" -->
+![Tischler_](../assets/img/man_Handkreissaege_gloves.jpg "[_Quelle: Freepik, gpointstudio_](https://www.freepik.com/free-photo/hard-working-carpenter-cutting-wooden-plank_11230060.htm#from_element=cross_selling__photo)")<!-- style="max-width: 400px; width: 100%" -->
 
 </center>
 
@@ -124,7 +124,7 @@ Die Kreissäge<!-- style="font-weight: bolder; font-size: 12pt; color: blue;"-->
 <br>
 <center>
 
-![Kreissäge](img/Kreissaege_blatt.jpg" [_Quelle: Freepik_](https://www.freepik.com/free-photo/circular-sharp-saw-wooden-table_3596130.htm#fromView=search&page=1&position=9&uuid=555403da-3815-4875-ad33-13a098268948&query=kreiss%C3%A4ge)")<!-- style="max-width: 500px; width: 100%" -->
+![Kreissäge](../assets/img/Kreissaege_blatt.jpg "[_Quelle: Freepik_](https://www.freepik.com/free-photo/circular-sharp-saw-wooden-table_3596130.htm#fromView=search&page=1&position=9&uuid=555403da-3815-4875-ad33-13a098268948&query=kreiss%C3%A4ge)")<!-- style="max-width: 500px; width: 100%" -->
 
 </center>
 
@@ -153,7 +153,8 @@ Der Spaltkeil darf nicht mehr als __5 mm__ von den Zahnspitzen des Sägeblattes 
 
 </div>
 <div class="flex-child-2 center">
-![Handkreissägemaschine](img/Handkreissaege_sketch.png" _Quelle: BGHM_")<!-- style="max-width: 350px; width: 100%; margin-left: 0px; margin-top:40px;" -->
+
+![Handkreissägemaschine](../assets/img/Handkreissaege_sketch.png "_Quelle: BGHM_")<!-- style="max-width: 350px; width: 100%; margin-left: 0px; margin-top:40px;" -->
 
 </div>
 </section>
@@ -213,7 +214,7 @@ Die opimale Schnittgeschwindigkeit für Holz an Tisch- und Formatkreissägen lie
 </div>
 <div class="flex-child-2 center">
 
-![Tischler_an_Kreissäge](img/kappsaege.jpg" [_Quelle: Freepik, prostooleh_](https://www.freepik.com/free-photo/craftsman-using-circular-saw_13181331.htm#fromView=search&page=2&position=5&uuid=555403da-3815-4875-ad33-13a098268948&query=kreiss%C3%A4ge)")<!-- style="max-width: 300px; width: 100%;margin-left: -50px; margin-top:20px;" -->
+![Tischler_an_Kreissäge](../assets/img/kappsaege.jpg "[_Quelle: Freepik, prostooleh_](https://www.freepik.com/free-photo/craftsman-using-circular-saw_13181331.htm#fromView=search&page=2&position=5&uuid=555403da-3815-4875-ad33-13a098268948&query=kreiss%C3%A4ge)")<!-- style="max-width: 300px; width: 100%;margin-left: -50px; margin-top:20px;" -->
 
 
 </div>
@@ -253,7 +254,7 @@ Folgende Antworten sind richtig:\
 </div>
 <div class="flex-child-2 center">
 
-![Quiz-Tablet](img/checks_and_question.png "[_Quelle: Pixabay, AI-generiert von JonathanPrestes_](https://pixabay.com/illustrations/ai-generated-business-technology-9371381/)")<!-- style="max-width: 250px; width: 100%; margin-left: 40px; margin-top:0px;" -->
+![Quiz-Tablet](../assets/img/checks_and_question.png "[_Quelle: Pixabay, AI-generiert von JonathanPrestes_](https://pixabay.com/illustrations/ai-generated-business-technology-9371381/)")<!-- style="max-width: 250px; width: 100%; margin-left: 40px; margin-top:0px;" -->
 
 
 </div>
@@ -277,7 +278,7 @@ Die Schutzvorrichtungen sind korrekt zu beachten.
 <br>
 <center>
 
-![Tischlerszene](img/clamped_door.jpg" [_Quelle: Freepik_](https://www.freepik.com/free-photo/creative-man-working-wood-workshop_14315189.htm#fromView=search&page=5&position=1&uuid=2187ca2a-71ab-4397-8f3f-50ea0d4eeb2c&query=Formatkreiss%C3%A4ge)")<!-- style="max-width: 500px; width: 100%" -->
+![Tischlerszene](../assets/img/clamped_door.jpg "[_Quelle: Freepik_](https://www.freepik.com/free-photo/creative-man-working-wood-workshop_14315189.htm#fromView=search&page=5&position=1&uuid=2187ca2a-71ab-4397-8f3f-50ea0d4eeb2c&query=Formatkreiss%C3%A4ge)")<!-- style="max-width: 500px; width: 100%" -->
 
 </center>
 
@@ -306,7 +307,7 @@ Sie dienen der Lärmminderung.
 </div>
 <div class="flex-child-2 center">
 
-![Tischler_mit_Holz](img/kreissaege_man_bart.jpg" [_Quelle: Freepik_](https://www.freepik.com/free-photo/carpenter-cutting-mdf-board-inside-workshop_27828640.htm#fromView=search&page=1&position=13&uuid=77f74e62-9912-4ed5-bea0-6aac779c0810&query=carpenter)")<!-- style="max-width: 300px; width: 100%;margin-left: -50px; margin-top:20px;" -->
+![Tischler_mit_Holz](../assets/img/kreissaege_man_bart.jpg "[_Quelle: Freepik_](https://www.freepik.com/free-photo/carpenter-cutting-mdf-board-inside-workshop_27828640.htm#fromView=search&page=1&position=13&uuid=77f74e62-9912-4ed5-bea0-6aac779c0810&query=carpenter)")<!-- style="max-width: 300px; width: 100%;margin-left: -50px; margin-top:20px;" -->
 
 
 </div>
@@ -351,7 +352,7 @@ Welche Seite des Holzes aufgelegt wird, ist nicht entscheidend. Das Holz muss si
 </div>
 <div class="flex-child-2 center">
 
-![Bretterstapel](img/bretter.jpg" [_Quelle: Pixabay, antmoreton_](https://pixabay.com/de/photos/holz-stapel-textur-bauholz-h%C3%B6lzern-877368/)")<!-- style="max-width: 300px; width: 100%;margin-left: -50px; margin-top:20px;" -->
+![Bretterstapel](../assets/img/bretter.jpg "[_Quelle: Pixabay, antmoreton_](https://pixabay.com/de/photos/holz-stapel-textur-bauholz-h%C3%B6lzern-877368/)")<!-- style="max-width: 300px; width: 100%;margin-left: -50px; margin-top:20px;" -->
 
 
 </div>
@@ -392,7 +393,7 @@ Folgende Antworten sind richtig:\
 </div>
 <div class="flex-child-2 center">
 
-![Holzarbeit](img/abrichte.jpg"[_Quelle: Pixabay_](https://www.freepik.com/free-photo/wood-worker-his-shop-working-with-tools-equipment_75523846.htm)")<!-- style="max-width: 250px; width: 100%; margin-left: -40px; margin-top:0px;" -->
+![Holzarbeit](../assets/img/abrichte.jpg "[_Quelle: Pixabay_](https://www.freepik.com/free-photo/wood-worker-his-shop-working-with-tools-equipment_75523846.htm)")<!-- style="max-width: 250px; width: 100%; margin-left: -40px; margin-top:0px;" -->
 
 
 </div>
@@ -424,7 +425,7 @@ Schwere Verletzungen können die Folge sein.
 <br>
 <center>
 
-![Bandsäge](img/stichsaege_brett.jpg" [_Quelle: Freepik, pvproductions_](https://www.freepik.com/free-photo/close-up-carpenter-s-hands-process-cutting-wood-with-jigsaw_16771521.htm#fromView=search&page=1&position=19&uuid=c8990c62-ec23-42fe-94d9-8b83ca73725b&query=Bands%C3%A4ge)")<!-- style="max-width: 500px; width: 100%" -->
+![Bandsäge](../assets/img/stichsaege_brett.jpg "[_Quelle: Freepik, pvproductions_](https://www.freepik.com/free-photo/close-up-carpenter-s-hands-process-cutting-wood-with-jigsaw_16771521.htm#fromView=search&page=1&position=19&uuid=c8990c62-ec23-42fe-94d9-8b83ca73725b&query=Bands%C3%A4ge)")<!-- style="max-width: 500px; width: 100%" -->
 
 </center>
 
@@ -451,7 +452,7 @@ Die Rückenrolle muss so eingestellt werden, dass sie sich nur bei belastetem Ba
 </div>
 <div class="flex-child-2 center">
 
-![Rückenrolle](img/bandsaege_sketch.png" _Quelle: BGHM_")<!-- style="max-width: 300px; width: 100%;margin-left: -50px; margin-top:20px;" -->
+![Rückenrolle](../assets/img/bandsaege_sketch.png "_Quelle: BGHM_")<!-- style="max-width: 300px; width: 100%;margin-left: -50px; margin-top:20px;" -->
 
 
 </div>

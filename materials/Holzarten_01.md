@@ -207,6 +207,6 @@ Dieses Holz wird für den Möbelbau bevorzug. Es ist mittelhart und dunkelbraun:
 ===
 
 
-![Jubel](img/colorfull_jumping.jpg)<!-- style="width: 500px" -->
+![Jubel](../assets/img/colorfull_jumping.jpg)<!-- style="width: 500px" -->
 
 _Quelle: Pixabay, geralt_

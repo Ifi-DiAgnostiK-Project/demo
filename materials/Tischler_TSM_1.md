@@ -72,7 +72,7 @@ Testen Sie Ihr Wissen zum sicheren Umgang mit Holzbearbeitungsmaschinen!
 
 <center>
 
-![Hand_mit_Sägeblatt](../assets/img/brett_kreissaege_finger_gefaehrlich.jpg" [_Quelle: Freepik, Myriams-Fotos](https://pixabay.com/photos/chop-saw-saw-blade-1337288/)")<!-- style="max-width: 450px; width: 100%" -->
+![Hand_mit_Sägeblatt](../assets/img/brett_kreissaege_finger_gefaehrlich.jpg "[_Quelle: Freepik, Myriams-Fotos](https://pixabay.com/photos/chop-saw-saw-blade-1337288/)")<!-- style="max-width: 450px; width: 100%" -->
 
 </center>
 
@@ -98,7 +98,7 @@ Ihre Hauptaufgaben sind:
 
 <center>
 
-![Arbeitsschutz](../assets/img/Nagelneue_Sicherheitsausruestung.jpg" [_Quelle: Freepik_](https://www.freepik.com/free-photo/front-view-protective-glasses-with-hard-hat-headphones_11403385.htm#fromView=search&page=1&position=0&uuid=b084009a-d4d3-4588-9a32-9ef6f5fdc1d0&query=arbeitsschutz)")<!-- style="max-width: 450px; width: 100%" -->
+![Arbeitsschutz](../assets/img/Nagelneue_Sicherheitsausruestung.jpg "[_Quelle: Freepik_](https://www.freepik.com/free-photo/front-view-protective-glasses-with-hard-hat-headphones_11403385.htm#fromView=search&page=1&position=0&uuid=b084009a-d4d3-4588-9a32-9ef6f5fdc1d0&query=arbeitsschutz)")<!-- style="max-width: 450px; width: 100%" -->
 
 </center>
 
@@ -249,7 +249,7 @@ Sicherheit im Umgang mit Sägemaschinen beruht auf Übung, Aufmerksamkeit – un
 
 <center>
 
-![Sägen_von_Hand](../assets/img/stichsaege_brett.jpg" [_Quelle: Freepik, pvproductions_](https://www.freepik.com/free-photo/close-up-carpenter-s-hands-process-cutting-wood-with-jigsaw_16771521.htm#fromView=search&page=1&position=19&uuid=c8990c62-ec23-42fe-94d9-8b83ca73725b&query=Bands%C3%A4ge)")<!-- style="max-width: 450px; width: 100%" -->
+![Sägen_von_Hand](../assets/img/stichsaege_brett.jpg "[_Quelle: Freepik, pvproductions_](https://www.freepik.com/free-photo/close-up-carpenter-s-hands-process-cutting-wood-with-jigsaw_16771521.htm#fromView=search&page=1&position=19&uuid=c8990c62-ec23-42fe-94d9-8b83ca73725b&query=Bands%C3%A4ge)")<!-- style="max-width: 450px; width: 100%" -->
 
 </center>
 
@@ -317,7 +317,7 @@ Sicherheit im Umgang mit Sägemaschinen beruht auf Übung, Aufmerksamkeit – un
 
 <center>
 
-![Tischler_in_Werkstatt](../assets/img/typ_guckt_ueber_brett.jpg" [_Quelle: Freepik, aleksandarlittlewolf_](https://www.freepik.com/free-photo/portrait-professional-woodworker-standing-machine-wood-material-his-carpentry-workshop_11137021.htm#fromView=search&page=2&position=7&uuid=53cd649e-c46c-4468-9851-db1bfc72aad2&query=wood+worker)")<!-- style="max-width: 450px; width: 100%" -->
+![Tischler_in_Werkstatt](../assets/img/typ_guckt_ueber_brett.jpg "[_Quelle: Freepik, aleksandarlittlewolf_](https://www.freepik.com/free-photo/portrait-professional-woodworker-standing-machine-wood-material-his-carpentry-workshop_11137021.htm#fromView=search&page=2&position=7&uuid=53cd649e-c46c-4468-9851-db1bfc72aad2&query=wood+worker)")<!-- style="max-width: 450px; width: 100%" -->
 
 </center>
 
@@ -416,7 +416,8 @@ Bei Abständen von weniger als 120 mm zum Sägeblatt ist ein Schiebstock, ggf. a
 
 </div>
 <div class="flex-child-2 center">
-![Tischler_Bandsaege](../assets/img/carpenter-working-with-sawing-machine.jpg" [_Quelle: Pixabay, prostooleh_](https://www.freepik.com/free-photo/professional-carpenter-working-with-sawing-machine_8819639.htm#fromView=search&page=1&position=6&uuid=c6171409-8c97-44bd-bb3d-d9cb55127139&query=Tischfr%C3%A4schmaschine)")<!-- style="max-width: 450px; width: 130%; margin-left: -120px; margin-top:80px;" -->
+
+![Tischler_Bandsaege](../assets/img/carpenter-working-with-sawing-machine.jpg "[_Quelle: Pixabay, prostooleh_](https://www.freepik.com/free-photo/professional-carpenter-working-with-sawing-machine_8819639.htm#fromView=search&page=1&position=6&uuid=c6171409-8c97-44bd-bb3d-d9cb55127139&query=Tischfr%C3%A4schmaschine)")<!-- style="max-width: 450px; width: 130%; margin-left: -120px; margin-top:80px;" -->
 
 </div>
 </section>
@@ -483,7 +484,7 @@ Es ist wichtig, Aufbau, Einstellmöglichkeiten und Schutzeinrichtungen zu kennen
 <br>
 <center>
 
-![Tischfräse](../assets/img/Seitenfraese_mit_sicherheitsmechanismen.png" _Quelle: BGHM_")<!-- style="max-width: 350px; width: 100%" -->
+![Tischfräse](../assets/img/Seitenfraese_mit_sicherheitsmechanismen.png "_Quelle: BGHM_")<!-- style="max-width: 350px; width: 100%" -->
 
 </center>
 
@@ -578,7 +579,8 @@ Die Schnittgeschwindigkeit sollte im Bereich von 40 m/s bis 70 m/s liegen. - Sie
 
 </div>
 <div class="flex-child-2 center">
-![Quiz](../assets/img/quiz_on_keyboard.jpg" [_Quelle: Pixabay_](https://pixabay.com/illustrations/quiz-exam-questionnaire-2137664/)")<!-- style="max-width: 450px; width: 130%; margin-left: -120px; margin-top:80px;" -->
+
+![Quiz](../assets/img/quiz_on_keyboard.jpg "[_Quelle: Pixabay_](https://pixabay.com/illustrations/quiz-exam-questionnaire-2137664/)")<!-- style="max-width: 450px; width: 130%; margin-left: -120px; margin-top:80px;" -->
 
 </div>
 </section>

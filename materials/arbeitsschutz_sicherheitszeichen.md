@@ -52,7 +52,7 @@ Viel Erfolg!
 
 >Im Handwerk sorgen Sicherheitszeichen und der richtige Umgang mit Gefahrstoffen dafür, dass alle gesund und unfallfrei durch den Arbeitsalltag kommen.  <br> Wer die wichtigsten Zeichen kennt und Gefahrstoffe richtig erkennt, schützt nicht nur sich selbst, sondern auch andere. <br> Die Symbole zeigen Ihnen auf einen Blick, was zu tun, zu lassen oder besonders zu beachten ist.  <br> Mit dem Quiz prüfen Sie, wie fit Sie sind beim Thema Sicherheit im Betrieb. wirklich bist!<br>
 
-![Sicher](img/sicher_aus_schildern.jpg)<!-- style="width: 700px" -->
+![Sicher](../assets/img/sicher_aus_schildern.jpg)<!-- style="width: 700px" -->
 
 _Quelle: Pixabay, succo_
 

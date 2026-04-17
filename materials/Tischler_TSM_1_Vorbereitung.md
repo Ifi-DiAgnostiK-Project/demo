@@ -70,7 +70,7 @@ Testen Sie Ihr Wissen zum sicheren Umgang mit Holzbearbeitungsmaschinen!
 
 <center>
 
-![Tischler_an_Maschine](../assets/img/mensch_an_abrichte.jpg" [_Quelle: Freepik_](https://www.freepik.com/free-photo/carpenter-hands-cutting-wood-with-electrical-saw_21149978.htm#fromView=search&page=3&position=13&uuid=c8990c62-ec23-42fe-94d9-8b83ca73725b&query=Bands%C3%A4ge)")<!-- style="max-width: 450px; width: 100%" -->
+![Tischler_an_Maschine](../assets/img/mensch_an_abrichte.jpg "[_Quelle: Freepik_](https://www.freepik.com/free-photo/carpenter-hands-cutting-wood-with-electrical-saw_21149978.htm#fromView=search&page=3&position=13&uuid=c8990c62-ec23-42fe-94d9-8b83ca73725b&query=Bands%C3%A4ge)")<!-- style="max-width: 450px; width: 100%" -->
 
 </center>
 
@@ -95,7 +95,7 @@ Sicherheit im Umgang mit Sägemaschinen beruht auf Übung, Aufmerksamkeit – un
 
 <center>
 
-![Tischler_in_Werkstatt](../assets/img/typ_guckt_ueber_brett.jpg" [_Quelle: Freepik, aleksandarlittlewolf_](https://www.freepik.com/free-photo/portrait-professional-woodworker-standing-machine-wood-material-his-carpentry-workshop_11137021.htm#fromView=search&page=2&position=7&uuid=53cd649e-c46c-4468-9851-db1bfc72aad2&query=wood+worker)")<!-- style="max-width: 450px; width: 100%" -->
+![Tischler_in_Werkstatt](../assets/img/typ_guckt_ueber_brett.jpg "[_Quelle: Freepik, aleksandarlittlewolf_](https://www.freepik.com/free-photo/portrait-professional-woodworker-standing-machine-wood-material-his-carpentry-workshop_11137021.htm#fromView=search&page=2&position=7&uuid=53cd649e-c46c-4468-9851-db1bfc72aad2&query=wood+worker)")<!-- style="max-width: 450px; width: 100%" -->
 
 </center>
 
@@ -171,7 +171,8 @@ data-max-trials="3"
 
 </div>
 <div class="flex-child-2 center">
-![Format_und_Tischkreissaege](../assets/img/kreissaege_schematisch_mit_nummern.png" _Quelle: BGHM_")<!-- style="max-width: 550px; width: 190%; margin-left: -240px; margin-top:0px;" -->
+
+![Format_und_Tischkreissaege](../assets/img/kreissaege_schematisch_mit_nummern.png "_Quelle: BGHM_")<!-- style="max-width: 550px; width: 190%; margin-left: -240px; margin-top:0px;" -->
 
 
 </div>
@@ -262,7 +263,8 @@ data-max-trials="3"
 
 </div>
 <div class="flex-child-2 center">
-![Tisch_und_Formatkreissaege_2](../assets/img/kreissaege_schematisch_mit_nummern_alt.png" _Quelle: BGHM_")<!-- style="max-width: 550px; width: 190%; margin-left: -240px; margin-top:0px;" -->
+
+![Tisch_und_Formatkreissaege_2](../assets/img/kreissaege_schematisch_mit_nummern_alt.png "_Quelle: BGHM_")<!-- style="max-width: 550px; width: 190%; margin-left: -240px; margin-top:0px;" -->
 
 
 </div>
@@ -336,7 +338,8 @@ Damit ergeben sich folgende Rechnungsschritte:
 
 </div>
 <div class="flex-child-2 center">
-![Sägeblatt](../assets/img/brett_kreissaege_finger_gefaehrlich.jpg" [_Quelle: Pixabay, Myriams-Fotos_](https://pixabay.com/photos/chop-saw-saw-blade-1337288/)")<!-- style="max-width: 450px; width: 130%; margin-left: -80px; margin-top:20px;" -->
+
+![Sägeblatt](../assets/img/brett_kreissaege_finger_gefaehrlich.jpg "[_Quelle: Pixabay, Myriams-Fotos_](https://pixabay.com/photos/chop-saw-saw-blade-1337288/)")<!-- style="max-width: 450px; width: 130%; margin-left: -80px; margin-top:20px;" -->
 
 </div>
 </section>
@@ -445,7 +448,8 @@ Die Lösung lautet: 2 mm. - Siehe dazu das TSM-Lehrbuch, S. 17.
 
 </div>
 <div class="flex-child-2 center">
-![Spaltkeil](../assets/img/saegezaehne_spaltkeil_closeup.png" _Quelle: BGHM_")<!-- style="max-width: 450px; width: 120%; margin-left: -40px; margin-top: 40px;" -->
+
+![Spaltkeil](../assets/img/saegezaehne_spaltkeil_closeup.png "_Quelle: BGHM_")<!-- style="max-width: 450px; width: 120%; margin-left: -40px; margin-top: 40px;" -->
 
 
 </div>
@@ -520,7 +524,7 @@ Bei der Arbeit an Maschinen ist geeignete Arbeitskleidung ein wichtiger Teil der
 
 <center>
 
-![Arbeitsschutz](../assets/img/sicherheitsausruestung.jpg" [_Quelle: Freepik, pvproductions_](https://www.freepik.com/free-photo/work-helmet-boots-gloves-wooden-background-top-view_33090388.htm#fromView=search&page=1&position=35&uuid=b084009a-d4d3-4588-9a32-9ef6f5fdc1d0&query=arbeitsschutz)")<!-- style="max-width: 450px; width: 100%" -->
+![Arbeitsschutz](../assets/img/sicherheitsausruestung.jpg "[_Quelle: Freepik, pvproductions_](https://www.freepik.com/free-photo/work-helmet-boots-gloves-wooden-background-top-view_33090388.htm#fromView=search&page=1&position=35&uuid=b084009a-d4d3-4588-9a32-9ef6f5fdc1d0&query=arbeitsschutz)")<!-- style="max-width: 450px; width: 100%" -->
 
 </center>
 
@@ -690,7 +694,8 @@ data-max-trials="3"
 
 </div>
 <div class="flex-child-2 center">
-![Dickenhobelmaschine](../assets/img/Oberfraese_schematisch_seite.png" _Quelle: BGHM_")<!-- style="max-width: 550px; width: 190%; margin-left: -240px; margin-top:0px;" -->
+
+![Dickenhobelmaschine](../assets/img/Oberfraese_schematisch_seite.png "_Quelle: BGHM_")<!-- style="max-width: 550px; width: 190%; margin-left: -240px; margin-top:0px;" -->
 
 
 </div>
@@ -778,7 +783,7 @@ Es ist wichtig, Aufbau, Einstellmöglichkeiten und Schutzeinrichtungen zu kennen
 <br>
 <center>
 
-![Tischfräse](../assets/img/Seitenfraese_in_aktion.png" _Quelle: BGHM_")<!-- style="max-width: 350px; width: 100%" -->
+![Tischfräse](../assets/img/Seitenfraese_in_aktion.png "_Quelle: BGHM_")<!-- style="max-width: 350px; width: 100%" -->
 
 </center>
 

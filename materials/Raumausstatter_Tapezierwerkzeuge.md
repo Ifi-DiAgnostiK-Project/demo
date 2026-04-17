@@ -96,7 +96,7 @@ Ordnen Sie die folgenden Aussagen in "richtig" und "falsch" ein.
 
 <center>
 
-![Malergeselle_mit_Werkzeug](../assets/img/e2f1b82b5bee2365d304b54b122c1227c879cdfd.jpg" [_Quelle: Freepik_](https://www.freepik.com/free-photo/high-angle-young-man-taking-break_6349572.htm)")<!-- style="max-width: 400px; width: 100%" -->
+![Malergeselle_mit_Werkzeug](../assets/img/e2f1b82b5bee2365d304b54b122c1227c879cdfd.jpg "[_Quelle: Freepik_](https://www.freepik.com/free-photo/high-angle-young-man-taking-break_6349572.htm)")<!-- style="max-width: 400px; width: 100%" -->
 
 </center>
 

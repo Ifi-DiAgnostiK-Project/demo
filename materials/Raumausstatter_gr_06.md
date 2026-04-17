@@ -68,7 +68,7 @@ Wählen Sie zu jeder Teile-Bezeichung die richtige Nummer aus.
 
 <center>
 
-![Schnellnäher](img/duerkopp_adler_281.jpg "**Quelle:** _©2025 [Dürkopp Adler GmbH](https://www.duerkopp-adler.com), alle Rechte vorbehalten._")<!-- style="width: 800px" -->
+![Schnellnäher](../assets/img/duerkopp_adler_281.jpg "**Quelle:** _©2025 [Dürkopp Adler GmbH](https://www.duerkopp-adler.com), alle Rechte vorbehalten._")<!-- style="width: 800px" -->
 
 </center>
 

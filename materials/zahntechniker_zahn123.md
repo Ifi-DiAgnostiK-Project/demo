@@ -260,7 +260,7 @@ Welche Aussagen treffen auf Interimsprothesen (Sofortprothesen) zu?
 <center>
 
 
-![Zahnspange](../assets/img/bracket_yellow.jpg"_Quelle: Pixabay, guentherbraun0_")<!-- style="max-width: 350px; width: 100%" -->
+![Zahnspange](../assets/img/bracket_yellow.jpg "_Quelle: Pixabay, guentherbraun0_")<!-- style="max-width: 350px; width: 100%" -->
 
 
 </center>

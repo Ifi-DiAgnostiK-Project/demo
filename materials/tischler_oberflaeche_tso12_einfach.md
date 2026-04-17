@@ -53,7 +53,7 @@ Wir wünschen Ihnen viel Erfolg und Spaß beim Beantworten der Fragen!
 
 <br>
 <center>
-![Schleifen](img/rotating_sander.jpg"_Foto: Pixabay, Detmold_")<!-- style="max-width: 600px; width: 100%" -->
+![Schleifen](../assets/img/rotating_sander.jpg "_Foto: Pixabay, Detmold_")<!-- style="max-width: 600px; width: 100%" -->
 </center>
 
 ## Vorbereiten der Oberfläche - einfache Fragen
@@ -102,7 +102,8 @@ Was wird durch das Beizen von Holz erreicht?
 
 </div>
 <div class="flex-child-2 center">
-![Pixabay_Holzwerkstatt](img/woodboard.jpg"_Quelle: Pixabay, Tyli Jura_") <!-- style="max-width: 300px; width: 100%" -->
+
+![Pixabay_Holzwerkstatt](../assets/img/woodboard.jpg "_Quelle: Pixabay, Tyli Jura_") <!-- style="max-width: 300px; width: 100%" -->
 
 </div>
 </section>
@@ -154,7 +155,8 @@ Welche Eigenschaft ist typisch für physikalisch trocknende Überzugsmittel?
 
 </div>
 <div class="flex-child-2 center">
-![Holz-OF](img/distinctwoodbig.jpg"_Quelle: Pixabay, Yamu Jay_") <!-- style="max-width: 300px; width: 100%" -->
+
+![Holz-OF](../assets/img/distinctwoodbig.jpg "_Quelle: Pixabay, Yamu Jay_") <!-- style="max-width: 300px; width: 100%" -->
 
 </div>
 </section>
@@ -191,7 +193,8 @@ Was ist eine typische Methode zur Mattierung einer Holzoberfläche?
 
 </div>
 <div class="flex-child-2 center">
-![Holzanstrich](img/grey_paint_on_wood.jpg"_Quelle: Pixabay, Dörmer_") <!-- style="max-width: 150px; width: 100%" -->
+
+![Holzanstrich](../assets/img/grey_paint_on_wood.jpg "_Quelle: Pixabay, Dörmer_") <!-- style="max-width: 150px; width: 100%" -->
 
 </div>
 </section>
@@ -246,7 +249,7 @@ Wie sind ölgetränkte Lappen sicher zu entsorgen?
 </section>
 
 <center>
-![Sicher](img/sicher_aus_schildern.jpg"_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 500px; width: 100%" -->
+![Sicher](../assets/img/sicher_aus_schildern.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 500px; width: 100%" -->
 </center>
 
 ## Geschafft! 🙌

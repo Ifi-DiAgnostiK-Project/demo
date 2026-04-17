@@ -72,7 +72,7 @@ Fehler<!--style="color:red; font-weight:bolder;"--> beim Anmischen führen oftma
 
 <center>
 
-![Zahnarbeiter](img/arbeiter_an_gebiss.jpg)<!-- style="width: 700px" -->
+![Zahnarbeiter](../assets/img/arbeiter_an_gebiss.jpg)<!-- style="width: 700px" -->
 
 _Quelle: Pixabay, wir-sind-klein_
 
@@ -181,12 +181,12 @@ Eine Packung Einbettmasse (400 g) wird mit 80<!--style="color:black; font-weight
 </div>
 <div class="flex-child">
 
-![Sheraliquid](img/bego_einbettmasse_fluessigkeit.jpg"_Quelle: HWK Dresden_")<!-- style="max-width: 150px; width: 100%" -->
+![Sheraliquid](../assets/img/bego_einbettmasse_fluessigkeit.jpg "_Quelle: HWK Dresden_")<!-- style="max-width: 150px; width: 100%" -->
 
 </div>
 <div class="flex-child">
 
-![Einbettmasse](img/chipstuete.jpg"_Quelle: HWK Dresden_")<!-- style="max-width: 150px; width: 100%" -->
+![Einbettmasse](../assets/img/chipstuete.jpg "_Quelle: HWK Dresden_")<!-- style="max-width: 150px; width: 100%" -->
 
 
 </div>

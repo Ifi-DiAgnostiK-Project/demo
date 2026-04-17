@@ -54,7 +54,7 @@ Wir wünschen Ihnen viel Erfolg und Spaß beim Beantworten der Fragen!
 
 <br>
 <center>
-![Holzbearbeitung](img/woodworker_works.jpg"_Foto: Pixabay, Detmold_")<!-- style="max-width: 600px; width: 100%" -->
+![Holzbearbeitung](../assets/img/woodworker_works.jpg "_Foto: Pixabay, Detmold_")<!-- style="max-width: 600px; width: 100%" -->
 </center>
 
 ## Vorbereiten der Oberfläche - mittelschwere Fragen
@@ -112,7 +112,8 @@ Was ist ein typisches Merkmal einer Farbstoffbeize?
 
 </div>
 <div class="flex-child-2 center">
-![Holzparkett](img/lots_of_boards.jpg"_Quelle: Pixabay, Lantaikayu-biz_") <!-- style="max-width: 300px; width: 100%" -->
+
+![Holzparkett](../assets/img/lots_of_boards.jpg "_Quelle: Pixabay, Lantaikayu-biz_") <!-- style="max-width: 300px; width: 100%" -->
 
 </div>
 </section>
@@ -170,7 +171,8 @@ Was versteht man unter einem "Zwischenschliff"?
 
 </div>
 <div class="flex-child-2 center">
-![Schleifen](img/drillpress_sanding.jpg"_Quelle: Pixabay, Alicja_") <!-- style="max-width: 300px; width: 100%" -->
+
+![Schleifen](../assets/img/drillpress_sanding.jpg "_Quelle: Pixabay, Alicja_") <!-- style="max-width: 300px; width: 100%" -->
 
 </div>
 </section>
@@ -239,7 +241,7 @@ Worauf ist beim Umgang mit lösemittelhalthaltigen Lacken besonderes zu achten?
 </section>
 
 <center>
-![Sicher](img/sicher_aus_schildern.jpg"_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 500px; width: 100%" -->
+![Sicher](../assets/img/sicher_aus_schildern.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 500px; width: 100%" -->
 </center>
 
 ## Geschafft! 🙌

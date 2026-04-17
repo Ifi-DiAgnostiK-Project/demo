@@ -485,7 +485,7 @@ _Quelle: generiert durch DALL-E von OpenAI
 
 ## Geschafft ! 👏
 
-![Jubel](img/colorfull_jumping.jpg)<!-- style="width: 700px" -->
+![Jubel](../assets/img/colorfull_jumping.jpg)<!-- style="width: 700px" -->
 
 _Quelle: Pixabay, geralt_
 

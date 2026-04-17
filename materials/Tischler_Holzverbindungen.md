@@ -71,7 +71,7 @@ Testen Sie Ihr Wissen zu den wichtigsten Holzverbindungen!
 
 <center>
 
-![Collage_Holzverbindung](img/zinken_comparison_through.png"_Abbildung von zwei typischen Holzverbindungen, Fotos: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%" -->
+![Collage_Holzverbindung](../assets/img/zinken_comparison_through.png "_Abbildung von zwei typischen Holzverbindungen, Fotos: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%" -->
 
 </center>
 
@@ -99,7 +99,7 @@ Ordnen Sie jeweils das Bild der richtigen Holzverbindung zu.
 
 <center>
 
-![Tischlerwerkzeuge](img/assortment_of_tools.jpg" [_Quelle: Freepik_](https://de.freepik.com/fotos-kostenlos/vorderansicht-verschiedene-tischlerwerkzeuge_9698135.htm)")<!-- style="max-width: 550px; width: 100%" -->
+![Tischlerwerkzeuge](../assets/img/assortment_of_tools.jpg "[_Quelle: Freepik_](https://de.freepik.com/fotos-kostenlos/vorderansicht-verschiedene-tischlerwerkzeuge_9698135.htm)")<!-- style="max-width: 550px; width: 100%" -->
 
 </center>
 
@@ -124,14 +124,14 @@ data-max-trials="3"
 
 </div>
 <div class="flex-child-2 center">
-![durchbohrt_und_gezapft](img/Holzverb_rund_durch_auseinander.jpg" _Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 450px; width: 100%; margin-left:-50px; margin-top:10px;" -->
+![durchbohrt_und_gezapft](../assets/img/Holzverb_rund_durch_auseinander.jpg "_Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 450px; width: 100%; margin-left:-50px; margin-top:10px;" -->
 
 </div>
 </section>
 
 <center>
 
-![durchbohrt_und_gezapft_fertig](img/Holzverb_rund_durch.jpg)<!-- style="max-width: 450px; width: 100%" -->
+![durchbohrt_und_gezapft_fertig](../assets/img/Holzverb_rund_durch.jpg)<!-- style="max-width: 450px; width: 100%" -->
 
 </center>
 
@@ -155,14 +155,15 @@ data-max-trials="3"
 
 </div>
 <div class="flex-child-2 center">
-![Dübelverbindung](img/Holzverb_duebel_zoom.png" _Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%; margin-left:-50px; margin-top:10px;" -->
+
+![Dübelverbindung](../assets/img/Holzverb_duebel_zoom.png "_Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%; margin-left:-50px; margin-top:10px;" -->
 
 </div>
 </section>
 
 <center>
 
-![Dübelverbindung_groß](img/Holzverb_duebel.png)<!-- style="max-width: 550px; width: 100%" -->
+![Dübelverbindung_groß](../assets/img/Holzverb_duebel.png)<!-- style="max-width: 550px; width: 100%" -->
 
 </center>
 
@@ -186,14 +187,15 @@ data-max-trials="3"
 
 </div>
 <div class="flex-child-2 center">
-![doppelte_Schlitzverbindung](img/Holzverb_platten.jpg" _Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%; margin-left:-50px; margin-top:10px;" -->
+
+![doppelte_Schlitzverbindung](../assets/img/Holzverb_platten.jpg "_Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%; margin-left:-50px; margin-top:10px;" -->
 
 </div>
 </section>
 
 <center>
 
-![doppelte_Schlitzverbindung_fertig](img/Holzverb_platten_fertig.jpg)<!-- style="max-width: 550px; width: 100%" -->
+![doppelte_Schlitzverbindung_fertig](../assets/img/Holzverb_platten_fertig.jpg)<!-- style="max-width: 550px; width: 100%" -->
 
 </center>
 
@@ -219,14 +221,14 @@ data-max-trials="3"
 
 </div>
 <div class="flex-child-2 center">
-![Zinkung](img/Holzverb_zinken.jpg" _Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%; margin-left:-50px; margin-top:10px;" -->
+![Zinkung](../assets/img/Holzverb_zinken.jpg "_Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%; margin-left:-50px; margin-top:10px;" -->
 
 </div>
 </section>
 
 <center>
 
-![Schwalbenschwanz_durchgehend](img/zinken_auseinander.png)<!-- style="max-width: 450px; width: 100%" -->
+![Schwalbenschwanz_durchgehend](../assets/img/zinken_auseinander.png)<!-- style="max-width: 450px; width: 100%" -->
 
 </center>
 
@@ -250,14 +252,15 @@ data-max-trials="3"
 
 </div>
 <div class="flex-child-2 center">
-![Überplattung](img/Holzverb_glue_auseinander.jpg" _Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%; margin-left:-50px; margin-top:10px;" -->
+
+![Überplattung](../assets/img/Holzverb_glue_auseinander.jpg "_Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%; margin-left:-50px; margin-top:10px;" -->
 
 </div>
 </section>
 
 <center>
 
-![Überplattung_fertig](img/Holzverb_glue.jpg)<!-- style="max-width: 550px; width: 100%" -->
+![Überplattung_fertig](../assets/img/Holzverb_glue.jpg)<!-- style="max-width: 550px; width: 100%" -->
 
 </center>
 
@@ -283,14 +286,15 @@ data-max-trials="3"
 
 </div>
 <div class="flex-child-2 center">
-![Lochzapfverbindung](img/Holzverb_zapfen.jpg" _Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%; margin-left:-50px; margin-top:80px;" -->
+
+![Lochzapfverbindung](../assets/img/Holzverb_zapfen.jpg "_Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%; margin-left:-50px; margin-top:80px;" -->
 
 </div>
 </section>
 
 <center>
 
-![Lochzapfenverbindung_fertig](img/Holzverb_zapfen_durch.jpg)<!-- style="max-width: 550px; width: 100%" -->
+![Lochzapfenverbindung_fertig](../assets/img/Holzverb_zapfen_durch.jpg)<!-- style="max-width: 550px; width: 100%" -->
 
 </center>
 
@@ -316,14 +320,15 @@ data-max-trials="3"
 
 </div>
 <div class="flex-child-2 center">
-![Dominoverbindung](img/verbinder_langduebel_zoom.png" _Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%; margin-left:-50px; margin-top:80px;" -->
+
+![Dominoverbindung](../assets/img/verbinder_langduebel_zoom.png "_Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%; margin-left:-50px; margin-top:80px;" -->
 
 </div>
 </section>
 
 <center>
 
-![Dominoverbindung_klein](img/verbinder_langduebel.jpg)<!-- style="max-width: 550px; width: 100%" -->
+![Dominoverbindung_klein](../assets/img/verbinder_langduebel.jpg)<!-- style="max-width: 550px; width: 100%" -->
 
 </center>
 
@@ -349,14 +354,15 @@ data-max-trials="3"
 
 </div>
 <div class="flex-child-2 center">
-![Schlitz_Zapfen_einfach](img/schiebeverbinder.jpg" _Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%; margin-left:-50px; margin-top:80px;" -->
+
+![Schlitz_Zapfen_einfach](../assets/img/schiebeverbinder.jpg "_Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%; margin-left:-50px; margin-top:80px;" -->
 
 </div>
 </section>
 
 <center>
 
-![Schlitz_Zapfen_fertig](img/schiebeverbinder_zusammen.jpg)<!-- style="max-width: 550px; width: 100%" -->
+![Schlitz_Zapfen_fertig](../assets/img/schiebeverbinder_zusammen.jpg)<!-- style="max-width: 550px; width: 100%" -->
 
 </center>
 
@@ -380,14 +386,15 @@ data-max-trials="3"
 
 </div>
 <div class="flex-child-2 center">
-![Rundzapfen_verkeilt_fertig](img/loch_prepared_wall_winkel.png" _Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%; margin-left:-50px; margin-top:10px;" -->
+
+![Rundzapfen_verkeilt_fertig](../assets/img/loch_prepared_wall_winkel.png "_Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%; margin-left:-50px; margin-top:10px;" -->
 
 </div>
 </section>
 
 <center>
 
-![Rundzapfen_verkeilt](img/loch_prepared_wall.jpg)<!-- style="max-width: 450px; width: 100%" -->
+![Rundzapfen_verkeilt](../assets/img/loch_prepared_wall.jpg)<!-- style="max-width: 450px; width: 100%" -->
 
 </center>
 
@@ -402,7 +409,7 @@ Viel Erfolg!
 
 <center>
 
-![Anzeichnen_auf_Holz](img/wood_signed.jpg" [_Quelle: Pixabay, azboomer_](https://pixabay.com/photos/carpentry-hobby-work-bench-tools-854287/)")<!-- style="max-width: 550px; width: 100%" -->
+![Anzeichnen_auf_Holz](../assets/img/wood_signed.jpg "[_Quelle: Pixabay, azboomer_](https://pixabay.com/photos/carpentry-hobby-work-bench-tools-854287/)")<!-- style="max-width: 550px; width: 100%" -->
 
 </center>
 
@@ -453,7 +460,7 @@ data-max-trials="3"
 </div>
 <div class="flex-child">
 
-![Quiz_Tastatur](img/quiz_on_keyboard.jpg "[_Quelle: Pixabay_](https://pixabay.com/photos/carpentry-hobby-work-bench-tools-854287/)")<!-- style="max-width: 350px; width: 100%; margin-left: 20px; margin-top:60px;" -->
+![Quiz_Tastatur](../assets/img/quiz_on_keyboard.jpg "[_Quelle: Pixabay_](https://pixabay.com/photos/carpentry-hobby-work-bench-tools-854287/)")<!-- style="max-width: 350px; width: 100%; margin-left: 20px; margin-top:60px;" -->
 
 </div>
 </section>
@@ -482,7 +489,7 @@ data-max-trials="3"
 </div>
 <div class="flex-child">
 
-![Quiz-Tablet](img/checks_and_question.png "[_Quelle: Pixabay, AI-generiert von JonathanPrestes_](https://pixabay.com/illustrations/ai-generated-business-technology-9371381/)")<!-- style="max-width: 250px; width: 100%; margin-left: 40px; margin-top:20px;" -->
+![Quiz-Tablet](../assets/img/checks_and_question.png "[_Quelle: Pixabay, AI-generiert von JonathanPrestes_](https://pixabay.com/illustrations/ai-generated-business-technology-9371381/)")<!-- style="max-width: 250px; width: 100%; margin-left: 40px; margin-top:20px;" -->
 
 
 </div>
@@ -557,7 +564,7 @@ Eine Schwalbenschwanzverbindung ist eine handwerklich anspruchsvolle, formschlü
 </div>
 <div class="flex-child">
 
-![Quiz_Laptop](img/computer_hover_test.jpg "[_Quelle: Pixabay, AI-generiert von HandiHow_](https://pixabay.com/vectors/icon-quiz-questions-questionnaire-6065371/)")<!-- style="max-width: 350px; width: 100%; margin-left: 20px; margin-top:20px;" -->
+![Quiz_Laptop](../assets/img/computer_hover_test.jpg "[_Quelle: Pixabay, AI-generiert von HandiHow_](https://pixabay.com/vectors/icon-quiz-questions-questionnaire-6065371/)")<!-- style="max-width: 350px; width: 100%; margin-left: 20px; margin-top:20px;" -->
 
 </div>
 </section>

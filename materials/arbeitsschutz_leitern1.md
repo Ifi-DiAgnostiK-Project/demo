@@ -42,7 +42,7 @@ Dieses Quiz zeigt Ihnen, wie gut Sie sich bereits auskennen!
 
 --------------------
 
-![Arbeitsschutz](img/schilder_an_zaun.jpg "_Quelle: Pixabay, planet-fox_")<!-- style="max-width: 700px; width: 100%" -->
+![Arbeitsschutz](../assets/img/schilder_an_zaun.jpg "_Quelle: Pixabay, planet-fox_")<!-- style="max-width: 700px; width: 100%" -->
 
 <!-- class="highlight"-->
 Viel Erfolg!
@@ -97,7 +97,7 @@ __Welche Maßnahme ist vor jeder Benutzung einer Leiter zwingend erforderlich?__
 </div>
 <div class="flex-child-1 center">
 
-![Leiter](img/variety_people_ladders.jpg "[Quelle: Freepik](https://www.freepik.com/free-ai-image/variety-people-multitasking-3d-cartoon-scene_152374121.htm)")
+![Leiter](../assets/img/variety_people_ladders.jpg "[Quelle: Freepik](https://www.freepik.com/free-ai-image/variety-people-multitasking-3d-cartoon-scene_152374121.htm)")
 
 </div>
 </section>
@@ -200,7 +200,7 @@ __Was ist beim Transport von Werkzeugen auf der Leiter zu beachten?__
 </div>
 <div class="flex-child-1 center">
 
-![Leitern2](img/indoor_people_multitask.jpg "[Quelle: Freepik](https://www.freepik.com/free-ai-image/3d-cartoon-scene-depicting-variety-people-multitasking_152373509.htm)")
+![Leitern2](../assets/img/indoor_people_multitask.jpg "[Quelle: Freepik](https://www.freepik.com/free-ai-image/3d-cartoon-scene-depicting-variety-people-multitasking_152373509.htm)")
 
 </div>
 </section>
@@ -236,7 +236,7 @@ __Auf welchem Untergrund kann eine Leiter eingesetzt werden?__
 </div>
 <div class="flex-child-1 center">
 
-![Leitern](img/geruest_chaos.jpg "_Quelle: Pixabay, geralt_")
+![Leitern](../assets/img/geruest_chaos.jpg "_Quelle: Pixabay, geralt_")
 
 </div>
 </section>
@@ -347,7 +347,7 @@ __Was ist bei Arbeiten über drei Meter zusätzlich zu beachten?__
 </div>
 <div class="flex-child-1">
 
-![Leitern3](img/career_ladder.jpg "[Quelle: Freepik](https://de.freepik.com/vektoren-kostenlos/fuehrung-konzept-in-flachen-stil_3198072.htm)")
+![Leitern3](../assets/img/career_ladder.jpg "[Quelle: Freepik](https://de.freepik.com/vektoren-kostenlos/fuehrung-konzept-in-flachen-stil_3198072.htm)")
 
 </div>
 </section>
@@ -363,4 +363,4 @@ __Was ist bei Arbeiten über drei Meter zusätzlich zu beachten?__
 
 --------------------
 
-![Jubel](img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")
+![Jubel](../assets/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")

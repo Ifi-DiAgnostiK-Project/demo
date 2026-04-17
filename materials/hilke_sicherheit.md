@@ -671,7 +671,7 @@ __1. Welche Maßnahme ist vor jeder Benutzung einer Leiter zwingend erforderlich
 </div>
 
 <div class="flex-child" style="min-width: 150px">
-![Leiter](img/variety_people_ladders.jpg) <!-- style="width: 150px" -->
+![Leiter](../assets/img/variety_people_ladders.jpg) <!-- style="width: 150px" -->
 
 <a  href="https://www.freepik.com/free-ai-image/variety-people-multitasking-3d-cartoon-scene_152374121.htm" target=_blank>Quelle: Freepik</a>
 
@@ -719,7 +719,7 @@ __3. Was ist beim Transport von Werkzeugen auf der Leiter zu beachten?__
 </div>
 
 <div class="flex-child" style="min-width: 150px">
-![Leitern2](img/indoor_people_multitask.jpg) <!-- style="width: 250px" -->
+![Leitern2](../assets/img/indoor_people_multitask.jpg) <!-- style="width: 250px" -->
 
 <a  href="https://www.freepik.com/free-ai-image/3d-cartoon-scene-depicting-variety-people-multitasking_152373509.htm" target=_blank>Quelle: Freepik</a>
 </div>
@@ -779,7 +779,7 @@ __6. Was ist bei Arbeiten über drei Meter zusätzlich zu beachten?__
 </div>
 
 <div class="flex-child" style="min-width: 150px">
-![Leitern3](img/career_ladder.jpg) <!-- style="width: 250px" -->
+![Leitern3](../assets/img/career_ladder.jpg) <!-- style="width: 250px" -->
 <a  href="https://de.freepik.com/vektoren-kostenlos/fuehrung-konzept-in-flachen-stil_3198072.htm" target=_blank>Quelle: Freepik</a>
 </div>
 

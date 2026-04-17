@@ -144,7 +144,7 @@ Welcher Fachbegriff bezeichnet eine zahntechnische Klebeverbindung?
 </div>
 <div class="flex-child-0">
 
-![Fragezeichen](../assets/img/fragezeichen2.jpg"                         _Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 250px; width: 100%" -->
+![Fragezeichen](../assets/img/fragezeichen2.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 250px; width: 100%" -->
 
 </div>
 </section>

@@ -77,7 +77,7 @@ Viel Erfolg!
 
 <center>
 
-![Polster_Sudenn](img/Holzverb_Couchrahmen.webp "[_Quelle: Sudenn Holzbearbeitung_](https://sudenn-holzbearbeitung.de/)")<!-- style="max-width: 450px; width: 100%" -->
+![Polster_Sudenn](../assets/img/Holzverb_Couchrahmen.webp "[_Quelle: Sudenn Holzbearbeitung_](https://sudenn-holzbearbeitung.de/)")<!-- style="max-width: 450px; width: 100%" -->
 
 </center>
 
@@ -105,7 +105,7 @@ Ordnen Sie jeweils das Bild der richtigen Holzverbindung zu.
 
 <center>
 
-![Lochzapfen](img/Holzverb_rund_durch.jpg "_Lochzapfen - abgesetzt und durchbohrt, mit Rundzapfen verkeilt; Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 450px; width: 100%" -->
+![Lochzapfen](../assets/img/Holzverb_rund_durch.jpg "_Lochzapfen - abgesetzt und durchbohrt, mit Rundzapfen verkeilt; Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 450px; width: 100%" -->
 
 </center>
 
@@ -126,14 +126,14 @@ Welche Holzverbindung ist abgebildet?
 
 </div>
 <div class="flex-child-2 center">
-![durchbohrt_und_gezapft](img/Holzverb_rund_durch_auseinander.jpg "_Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 450px; width: 100%; margin-left:-50px; margin-top:10px;" -->
+![durchbohrt_und_gezapft](../assets/img/Holzverb_rund_durch_auseinander.jpg "_Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 450px; width: 100%; margin-left:-50px; margin-top:10px;" -->
 
 </div>
 </section>
 
 <center>
 
-![durchbohrt_und_gezapft_fertig](img/Holzverb_rund_durch_unfertig.jpg "_Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 450px; width: 100%" -->
+![durchbohrt_und_gezapft_fertig](../assets/img/Holzverb_rund_durch_unfertig.jpg "_Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 450px; width: 100%" -->
 
 </center>
 
@@ -153,14 +153,14 @@ Welche Holzverbindung ist abgebildet?
 
 </div>
 <div class="flex-child-2 center">
-![Dübelverbindung](img/Holzverb_duebel_zoom.png "_Quelle:HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%; margin-left:-50px; margin-top:10px;" -->
+![Dübelverbindung](../assets/img/Holzverb_duebel_zoom.png "_Quelle:HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%; margin-left:-50px; margin-top:10px;" -->
 
 </div>
 </section>
 
 <center>
 
-![Dübelverbindung_groß](img/Holzverb_duebel.png "_Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%" -->
+![Dübelverbindung_groß](../assets/img/Holzverb_duebel.png "_Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%" -->
 
 </center>
 
@@ -180,14 +180,14 @@ Welche Holzverbindung ist abgebildet?
 
 </div>
 <div class="flex-child-2 center">
-![Schlitzverbindung](img/Holzverb_platten.jpg "_Quelle:HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%; margin-left:-50px; margin-top:10px;" -->
+![Schlitzverbindung](../assets/img/Holzverb_platten.jpg "_Quelle:HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%; margin-left:-50px; margin-top:10px;" -->
 
 </div>
 </section>
 
 <center>
 
-![Schlitzverbindung_fertig](img/Holzverb_platten_fertig.jpg "_Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%" -->
+![Schlitzverbindung_fertig](../assets/img/Holzverb_platten_fertig.jpg "_Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%" -->
 
 </center>
 
@@ -207,14 +207,14 @@ Welche Holzverbindung ist abgebildet?
 
 </div>
 <div class="flex-child-2 center">
-![Zinkung](img/Holzverb_zinken_auseinander.png "_Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%; margin-left:-50px; margin-top:10px;" -->
+![Zinkung](../assets/img/Holzverb_zinken_auseinander.png "_Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%; margin-left:-50px; margin-top:10px;" -->
 
 </div>
 </section>
 
 <center>
 
-![Zinkung_klein](img/Holzverb_zinken.jpg "_Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%" -->
+![Zinkung_klein](../assets/img/Holzverb_zinken.jpg "_Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%" -->
 
 </center>
 
@@ -234,14 +234,14 @@ Welche Holzverbindung ist abgebildet?
 
 </div>
 <div class="flex-child-2 center">
-![Überplattung](img/Holzverb_glue_auseinander.jpg "_Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%; margin-left:-50px; margin-top:10px;" -->
+![Überplattung](../assets/img/Holzverb_glue_auseinander.jpg "_Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%; margin-left:-50px; margin-top:10px;" -->
 
 </div>
 </section>
 
 <center>
 
-![Überplattung_fertig](img/Holzverb_glue.jpg "_Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%" -->
+![Überplattung_fertig](../assets/img/Holzverb_glue.jpg "_Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%" -->
 
 </center>
 
@@ -261,14 +261,15 @@ Welche Holzverbindung ist abgebildet?
 
 </div>
 <div class="flex-child-2 center">
-![Zapfverbindung](img/Holzverb_zapfen.jpg"_Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%; margin-left:-50px; margin-top:10px;" -->
+
+![Zapfverbindung](../assets/img/Holzverb_zapfen.jpg "_Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%; margin-left:-50px; margin-top:10px;" -->
 
 </div>
 </section>
 
 <center>
 
-![Zapfenverbindung_fertig](img/Holzverb_zapfen_durch.jpg "_Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%" -->
+![Zapfenverbindung_fertig](../assets/img/Holzverb_zapfen_durch.jpg "_Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%" -->
 
 </center>
 
@@ -296,7 +297,7 @@ Ordnen Sie die folgenden Aussagen in "richtig" und "falsch" ein.
 
 <center>
 
-![Holzverbindung_Stuhl_KI](img/Holzverb_Stuhl.png "_Quelle: KI generiert, bearbeitet GKZ_")<!-- style="max-width: 350px; width: 100%" -->
+![Holzverbindung_Stuhl_KI](../assets/img/ssets/img/Holzverb_Stuhl.png "_Quelle: KI generiert, bearbeitet GKZ_")<!-- style="max-width: 350px; width: 100%" -->
 
 </center>
 

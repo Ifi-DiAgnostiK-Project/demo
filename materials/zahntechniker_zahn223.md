@@ -83,7 +83,8 @@ Biokompatible Materialien in der Zahntechnik sind besonders wichtig, weil sie im
 
 </div>
 <div class="flex-child-2 center">
-![Implantate](../assets/img/zahnersatz.jpg"_Quelle: Pixabay, Emergency Denture Repair_")<!-- style="max-width: 300px; width: 100%" -->
+
+![Implantate](../assets/img/zahnersatz.jpg "_Quelle: Pixabay, Emergency Denture Repair_")<!-- style="max-width: 300px; width: 100%" -->
 
 </div>
 </section>
@@ -179,7 +180,8 @@ Welche Verbindungsarten in der zahntechnischen Anwendungen sind richtig benannt?
 
 </div>
 <div class="flex-child-2 center">
-![Dentist](../assets/img/arbeiter_an_krone.jpg"_Quelle: Pixabay, wir-sind-klein_")<!-- style="max-width: 300px; width: 100%" -->
+
+![Dentist](../assets/img/arbeiter_an_krone.jpg "_Quelle: Pixabay, wir-sind-klein_")<!-- style="max-width: 300px; width: 100%" -->
 
 </div>
 </section>
@@ -398,7 +400,8 @@ Ziehe die richtigen Antworten in das Feld.
 
 </div>
 <div class="flex-child-2 center">
-![Gasflaschen](../assets/img/fuenf_feuerloescher.jpg"_Quelle: Pixabay, Foto-Rabe_")<!-- style="max-width: 300px; width: 100%" -->
+
+![Gasflaschen](../assets/img/fuenf_feuerloescher.jpg "_Quelle: Pixabay, Foto-Rabe_")<!-- style="max-width: 300px; width: 100%" -->
 
 </div>
 </section>
@@ -500,7 +503,8 @@ Ziehe die richtigen Antworten in das Feld.
 
 </div>
 <div class="flex-child-2 center">
-![Arbeitsschutzzeichen](../assets/img/schilder_an_zaun.jpg"_Quelle: Pixabay, planet fox_")<!-- style="max-width: 300px; width: 100%" -->
+
+![Arbeitsschutzzeichen](../assets/img/schilder_an_zaun.jpg "_Quelle: Pixabay, planet fox_")<!-- style="max-width: 300px; width: 100%" -->
 
 </div>
 </section>

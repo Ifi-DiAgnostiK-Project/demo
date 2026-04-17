@@ -75,7 +75,7 @@ Wir wünschen Ihnen viel Erfolg und Spaß beim Beantworten der Fragen!
 <center>
 
 
-![Zähne mit Männeln](../assets/img/arbeiter_an_gebiss.jpg"_Quelle: Pixabay, Marco Federmann_")<!-- style="max-width: 300px; width: 100%" -->
+![Zähne mit Männeln](../assets/img/arbeiter_an_gebiss.jpg "_Quelle: Pixabay, Marco Federmann_")<!-- style="max-width: 300px; width: 100%" -->
 
 </center>
 
@@ -103,7 +103,7 @@ Welche Art der Klammergestaltung sollte hier genutzt werden?
 <div class="flex-child-0">
 
 
-![Sattelferne Unterstützung](../assets/img/keine_vorderzähne.jpg"_              Quelle: HWK Dresden, Alexander Meiwald_")<!-- style="max-width: 300px; width: 100%" -->
+![Sattelferne Unterstützung](../assets/img/keine_vorderzähne.jpg "_Quelle: HWK Dresden, Alexander Meiwald_")<!-- style="max-width: 300px; width: 100%" -->
 
 
 </div>
@@ -131,7 +131,7 @@ Welche Art der Klammergestaltung sollte hier genutzt werden?
 <div class="flex-child-0">
 
 
-![Sattelnahe Abstützung](../assets/img/zahnluecke.jpg"_              Quelle: HWK Dresden, Alexander Meiwald_")<!-- style="max-width: 300px; width: 100%" -->
+![Sattelnahe Abstützung](../assets/img/zahnluecke.jpg "_Quelle: HWK Dresden, Alexander Meiwald_")<!-- style="max-width: 300px; width: 100%" -->
 
 
 </div>
@@ -221,12 +221,12 @@ Das Mischungsverhältnis beträgt 80%.
 </div>
 <div class="flex-child">
 
-![Sheraliquid](../assets/img/bego_einbettmasse_fluessigkeit.jpg"_       Quelle: HWK Dresden_")<!-- style="max-width: 150px; width: 100%" -->
+![Sheraliquid](../assets/img/bego_einbettmasse_fluessigkeit.jpg "_Quelle: HWK Dresden_")<!-- style="max-width: 150px; width: 100%" -->
 
 </div>
 <div class="flex-child">
 
-![Einbettmasse](../assets/img/chipstuete.jpg"_       Quelle: HWK Dresden_")<!-- style="max-width: 150px; width: 100%" -->
+![Einbettmasse](../assets/img/chipstuete.jpg "_Quelle: HWK Dresden_")<!-- style="max-width: 150px; width: 100%" -->
 
 
 </div>

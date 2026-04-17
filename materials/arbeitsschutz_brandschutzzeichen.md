@@ -55,7 +55,7 @@ Viel Erfolg!
 >
 > Mit ein wenig Aufmerksamkeit können Sie helfen, Gefahren zu vermeiden und im Notfall schnell zu handeln.
 
-![sicher](img/sicher_aus_schildern.jpg "_Quelle: Pixabay, succo_")<!-- style="max-width: 700px; width: 100%" -->
+![sicher](../assets/img/sicher_aus_schildern.jpg "_Quelle: Pixabay, succo_")<!-- style="max-width: 700px; width: 100%" -->
 
 
 
@@ -237,7 +237,7 @@ Was ist im Brandfall am wichtigsten?
 
 </div>
 <div class="flex-child-2 center">
-![Feuerlöscher](img/fuenf_feuerloescher.jpg "_Quelle: Pixabay, Foto-Rabe_")
+![Feuerlöscher](../assets/img/fuenf_feuerloescher.jpg "_Quelle: Pixabay, Foto-Rabe_")
 </div>
 </section>
 

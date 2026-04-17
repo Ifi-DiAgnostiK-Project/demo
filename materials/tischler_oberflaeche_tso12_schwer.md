@@ -54,7 +54,7 @@ Wir wünschen Ihnen viel Erfolg und Spaß beim Beantworten der Fragen!
 
 <br>
 <center>
-![Tischlerwerkstatt](img/kappsaege_dewalt.jpg"_Foto: Pixabay, ekenamillwork_")<!-- style="max-width: 600px; width: 100%" -->
+![Tischlerwerkstatt](../assets/img/kappsaege_dewalt.jpg "_Foto: Pixabay, ekenamillwork_")<!-- style="max-width: 600px; width: 100%" -->
 </center>
 
 ## Vorbereiten der Oberfläche - schwere Fragen
@@ -112,7 +112,8 @@ Welche Voraussetzung ist zu erfüllen, damit eine chemische Beize richtig wirkt?
 
 </div>
 <div class="flex-child-2 center">
-![](img/paint_w_brush.jpg"_Quelle: Pixabay, Carola68_") <!-- style="max-width: 300px; width: 100%" -->
+
+![](../assets/img/paint_w_brush.jpg "_Quelle: Pixabay, Carola68_") <!-- style="max-width: 300px; width: 100%" -->
 
 </div>
 </section>
@@ -185,7 +186,8 @@ Welche Folge kann ein zu feiner Zwischenschliff zwischen Lackschichten haben?
 
 </div>
 <div class="flex-child-2 center">
-![Schleifen](img/rotating_sander.jpg"_Quelle: Pixabay, Detmold_") <!-- style="max-width: 300px; width: 100%" -->
+
+![Schleifen](../assets/img/rotating_sander.jpg "_Quelle: Pixabay, Detmold_") <!-- style="max-width: 300px; width: 100%" -->
 
 </div>
 </section>
@@ -258,7 +260,7 @@ Was ist bei der Lagerung von lösemittelhaltigen Produkten zu beachten?
 </section>
 
 <center>
-![Sicher](img/sicher_aus_schildern.jpg"_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 500px; width: 100%" -->
+![Sicher](../assets/img/sicher_aus_schildern.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 500px; width: 100%" -->
 </center>
 
 ## Geschafft! 🙌

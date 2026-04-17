@@ -59,7 +59,7 @@ Viel Erfolg!
 > Im Betrieb ist es besonders wichtig, die Rettungswege und Rettungseinrichtungen zu kennen.
 > So können Sie sich und andere umsichtig und unverzüglich in Sicherheit bringen.
 
-![sicher](img/sicher_aus_schildern.jpg "_Quelle: Pixabay, succo_")<!-- style="max-width: 700px; width: 100%" -->
+![sicher](../assets/img/sicher_aus_schildern.jpg "_Quelle: Pixabay, succo_")<!-- style="max-width: 700px; width: 100%" -->
 
 
 
@@ -74,7 +74,7 @@ Viel Erfolg!
 
 ### 2. Füllen Sie den Lückentext aus.
 
-![Rettungszeichen](img/rettungsausgang_plastik.jpg "_Quelle: Pixabay, MelSi_")<!-- style="width: 100%; max-width: 300px" -->
+![Rettungszeichen](../assets/img/rettungsausgang_plastik.jpg "_Quelle: Pixabay, MelSi_")<!-- style="width: 100%; max-width: 300px" -->
 
 ---
 

@@ -130,7 +130,7 @@ Welche Funktion hat der Camper'sche Ebene bei der Herstellung einer Vollprothese
 </div>
 <div class="flex-child-0">
 
-![Fragezeichen](../assets/img/question_maennl.jpg"                         _Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 250px; width: 100%" -->
+![Fragezeichen](../assets/img/question_maennl.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 250px; width: 100%" -->
 
 
 </div>
@@ -316,7 +316,7 @@ Ordnen Sie den Zahlen 1 - 6 im Bild den jeweils richtigen Fachbegriff zu.
 </div>
 <div class="flex-child" style="margin-top:100px;">>
 
-![Modellanalyse](img/abdruck_for_quiz.png"_Quelle: HWK Dresden, Alexander Meiwald_")<!-- style="max-width: 550px; width: 100%" -->
+![Modellanalyse](../assets/img/abdruck_for_quiz.png "_Quelle: HWK Dresden, Alexander Meiwald_")<!-- style="max-width: 550px; width: 100%" -->
 
 
 </div>

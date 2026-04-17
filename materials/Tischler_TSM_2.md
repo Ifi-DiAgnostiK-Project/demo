@@ -82,7 +82,7 @@ Testen Sie Ihr Wissen zum sicheren Umgang mit Holzbearbeitungsmaschinen!
 
 <center>
 
-![Tischfaese_geschweiftes_Werkstueck](../assets/img/tischler_fraese_with_security_measures.jpg" [_Quelle: Pixabay, RUWI-Maschinenbau_](https://pixabay.com/photos/milling-machine-6827540/)")<!-- style="max-width: 500px; width: 130%;" -->
+![Tischfaese_geschweiftes_Werkstueck](../assets/img/tischler_fraese_with_security_measures.jpg "[_Quelle: Pixabay, RUWI-Maschinenbau_](https://pixabay.com/photos/milling-machine-6827540/)")<!-- style="max-width: 500px; width: 130%;" -->
 
 </center>
 
@@ -270,7 +270,7 @@ Die Lösung lautet: 2 m. - Siehe dazu das TSM-Lehrbuch, S. 166.
 </div>
 <div class="flex-child-2 center">
 
-![Mann auf Leiter](../assets/img/arbeitssicherheit_mit_mauern_und_leiter.jpg" [_Quelle: Freepik, gpointstudio_](https://www.freepik.com/free-photo/high-ladder-as-support-carpenter-worker_13250888.htm#from_element=cross_selling__photo)")<!-- style="max-width: 500px; width: 130%; margin-left: -120px; margin-top:20px;" -->
+![Mann auf Leiter](../assets/img/arbeitssicherheit_mit_mauern_und_leiter.jpg "[_Quelle: Freepik, gpointstudio_](https://www.freepik.com/free-photo/high-ladder-as-support-carpenter-worker_13250888.htm#from_element=cross_selling__photo)")<!-- style="max-width: 500px; width: 130%; margin-left: -120px; margin-top:20px;" -->
 
 
 </div>
@@ -296,7 +296,7 @@ data-solution-button="off"
 
 <center>
 
-![Mann in großer Höhe](../assets/img/franzose_auf_leiter.jpg" [_Quelle: Freepik, serhii-bobyk_](https://www.freepik.com/free-photo/athletic-builder-with-bare-torso-sitting-ladder-high-man-leaning-brick-wall-looking-away-extreme-building-hot-weather-crane-tv-tower-background_16317499.htm#fromView=search&page=1&position=31&uuid=87265676-1149-4e11-a718-de85967ab8bd&query=sicherung+h%C3%B6he)")<!-- style="max-width: 350px; width: 100%; margin-top:20px;" -->
+![Mann in großer Höhe](../assets/img/franzose_auf_leiter.jpg "[_Quelle: Freepik, serhii-bobyk_](https://www.freepik.com/free-photo/athletic-builder-with-bare-torso-sitting-ladder-high-man-leaning-brick-wall-looking-away-extreme-building-hot-weather-crane-tv-tower-background_16317499.htm#fromView=search&page=1&position=31&uuid=87265676-1149-4e11-a718-de85967ab8bd&query=sicherung+h%C3%B6he)")<!-- style="max-width: 350px; width: 100%; margin-top:20px;" -->
 
 </center>
 
@@ -330,7 +330,7 @@ Sicherheit im Umgang mit handgeführten Maschinen beruht auf Übung, Aufmerksamk
 
 <center>
 
-![Tischler_an_Bandsaege](../assets/img/carpenter-working-with-sawing-machine.jpg" [_Quelle: Freepik, postooleh_](https://www.freepik.com/free-photo/professional-carpenter-working-with-sawing-machine_8819639.htm#fromView=search&page=1&position=6&uuid=c6171409-8c97-44bd-bb3d-d9cb55127139&query=Tischfr%C3%A4schmaschine)")<!-- style="max-width: 450px; width: 100%" -->
+![Tischler_an_Bandsaege](../assets/img/carpenter-working-with-sawing-machine.jpg "[_Quelle: Freepik, postooleh_](https://www.freepik.com/free-photo/professional-carpenter-working-with-sawing-machine_8819639.htm#fromView=search&page=1&position=6&uuid=c6171409-8c97-44bd-bb3d-d9cb55127139&query=Tischfr%C3%A4schmaschine)")<!-- style="max-width: 450px; width: 100%" -->
 
 </center>
 
@@ -536,7 +536,7 @@ Damit ergeben sich folgende Rechnungsschritte:
 </div>
 <div class="flex-child-2 center">
 
-![Arbeiter](../assets/img/tischler_werkzeug_note_taker_ai_two_persons.jpg" [_Quelle: Freepik_](https://www.freepik.com/free-photo/men-working-cutting-mdf-board_25625244.htm#fromView=search&page=1&position=3&uuid=7d70c1d4-3f32-44f4-95e4-d16a2deea78e&query=handwerksrechnung)")<!-- style="max-width: 500px; width: 130%; margin-left: -120px; margin-top:20px;" -->
+![Arbeiter](../assets/img/tischler_werkzeug_note_taker_ai_two_persons.jpg "[_Quelle: Freepik_](https://www.freepik.com/free-photo/men-working-cutting-mdf-board_25625244.htm#fromView=search&page=1&position=3&uuid=7d70c1d4-3f32-44f4-95e4-d16a2deea78e&query=handwerksrechnung)")<!-- style="max-width: 500px; width: 130%; margin-left: -120px; margin-top:20px;" -->
 
 
 </div>
@@ -633,7 +633,7 @@ Es ist wichtig, die Sicherheitseinrichtungen (z. B. Schutzhauben, Vorschub, Ansc
 
 <center>
 
-![Hobelmaschine](../assets/img/dickenhobel_man_in_blue_wood.jpg" [_Quelle: Freepik_](https://www.freepik.com/free-photo/wood-worker-his-shop-working-with-tools-equipment_75523858.htm#fromView=image_search_similar&page=7&position=37&uuid=a74d5909-470b-49f0-9ee1-7ac6366a000f&query=handarbeit+holz)")<!-- style="max-width: 500px; width: 100%;margin-left: -50px; margin-top:20px;" -->
+![Hobelmaschine](../assets/img/dickenhobel_man_in_blue_wood.jpg "[_Quelle: Freepik_](https://www.freepik.com/free-photo/wood-worker-his-shop-working-with-tools-equipment_75523858.htm#fromView=image_search_similar&page=7&position=37&uuid=a74d5909-470b-49f0-9ee1-7ac6366a000f&query=handarbeit+holz)")<!-- style="max-width: 500px; width: 100%;margin-left: -50px; margin-top:20px;" -->
 
 
 </center>
@@ -667,7 +667,7 @@ Der Abnahmetisch ist zu tief eingestellt; das verursacht unregelmäßige Einschl
 </div>
 <div class="flex-child-2 center">
 
-![Tischler](../assets/img/tischler_inspiziert_seine_Latte.jpg"[_Quelle: Freepik_](https://www.freepik.com/free-photo/male-carpenter-seriously-looking-wooden-plank_3579583.htm#fromView=search&page=2&position=15&uuid=2913ae38-d9c7-4bf8-97af-12d1c8ccb3bd&query=carpenter)")<!-- style="max-width: 350px; width: 120%;margin-left: -30px; margin-top:0px;" -->
+![Tischler](../assets/img/tischler_inspiziert_seine_Latte.jpg "[_Quelle: Freepik_](https://www.freepik.com/free-photo/male-carpenter-seriously-looking-wooden-plank_3579583.htm#fromView=search&page=2&position=15&uuid=2913ae38-d9c7-4bf8-97af-12d1c8ccb3bd&query=carpenter)")<!-- style="max-width: 350px; width: 120%;margin-left: -30px; margin-top:0px;" -->
 
 </div>
 </section>
@@ -704,7 +704,7 @@ Es ist wichtig, die Sicherheitsvorkehrungen zu kennen:
 
 <center>
 
-![Tischfraesmaschine](../assets/img/router_theatrical_block.jpg" [_Quelle: Freepik, DC Studio_](https://www.freepik.com/free-photo/joiner-using-heavy-machinery-craft-furniture_314268423.htm#fromView=search&page=1&position=5&uuid=2c99c0e3-bdc3-477b-a0ee-ef2998bd2dd8&query=wood+fr%C3%A4sen)")<!-- style="max-width: 500px; width: 120%" -->
+![Tischfraesmaschine](../assets/img/router_theatrical_block.jpg "[_Quelle: Freepik, DC Studio_](https://www.freepik.com/free-photo/joiner-using-heavy-machinery-craft-furniture_314268423.htm#fromView=search&page=1&position=5&uuid=2c99c0e3-bdc3-477b-a0ee-ef2998bd2dd8&query=wood+fr%C3%A4sen)")<!-- style="max-width: 500px; width: 120%" -->
 
 </center>
 
@@ -715,7 +715,7 @@ Es ist wichtig, die Sicherheitsvorkehrungen zu kennen:
 
 <center>
 
-![Tischfraesmaschine](../assets/img/router_schematisch_variables.png"_Quelle: BGHM_")<!-- style="max-width: 500px; width: 160%;margin-top: 20px;;" -->
+![Tischfraesmaschine](../assets/img/router_schematisch_variables.png "_Quelle: BGHM_")<!-- style="max-width: 500px; width: 160%;margin-top: 20px;;" -->
 
 </center>
 
@@ -777,7 +777,7 @@ Die Spandickenbegrenzung zum Abweiser darf max.  [[solution]]   mm betragen.
 
 <center>
 
-![Tischler](../assets/img/arbeitszeitbetrug_mit_sicherheitsausruestung.jpg" [_Quelle: Freepik_](https://www.freepik.com/free-photo/smiling-male-carpenter-wearing-safety-glasses-ear-defender-around-his-neck-using-cellphone_3579549.htm#fromView=search&page=3&position=33&uuid=2913ae38-d9c7-4bf8-97af-12d1c8ccb3bd&query=carpenter)")<!-- style="max-width: 500px; width: 120%" -->
+![Tischler](../assets/img/arbeitszeitbetrug_mit_sicherheitsausruestung.jpg "[_Quelle: Freepik_](https://www.freepik.com/free-photo/smiling-male-carpenter-wearing-safety-glasses-ear-defender-around-his-neck-using-cellphone_3579549.htm#fromView=search&page=3&position=33&uuid=2913ae38-d9c7-4bf8-97af-12d1c8ccb3bd&query=carpenter)")<!-- style="max-width: 500px; width: 120%" -->
 
 </center>
 
@@ -845,7 +845,7 @@ Das Werkstück muss an der Rückschlagsicherung und vorn am Anschlag liegen. - S
 </div>
 <div class="flex-child-2 center">
 
-![Rückschlagsicherung](../assets/img/abrichte_mit_brett_und_sicherheitsdingens.png"_Quelle: BGHM_")<!-- style="max-width: 350px; width: 120%;margin-left: -30px; margin-top:0px;" -->
+![Rückschlagsicherung](../assets/img/abrichte_mit_brett_und_sicherheitsdingens.png "_Quelle: BGHM_")<!-- style="max-width: 350px; width: 120%;margin-left: -30px; margin-top:0px;" -->
 
 </div>
 </section>
@@ -875,7 +875,7 @@ Die Spannlade ist zu verwenden, sobald das Werkstück in die Spannlade passt.. -
 </div>
 <div class="flex-child-2 center">
 
-![Spannlade](../assets/img/fraese_anschlaege_drei_stueck.png"_Quelle: BGHM_")<!-- style="max-width: 350px; width: 120%;margin-left: -30px; margin-top:0px;" -->
+![Spannlade](../assets/img/fraese_anschlaege_drei_stueck.png "_Quelle: BGHM_")<!-- style="max-width: 350px; width: 120%;margin-left: -30px; margin-top:0px;" -->
 
 </div>
 </section>
@@ -895,7 +895,7 @@ Folgende Angaben sind bekannt:
 </div>
 <div class="flex-child-2 center">
 
-![Fraeswerkzeug](../assets/img/fraeswerkzeug_man.png" _Quelle: BGHM_")<!-- style="max-width: 500px; width: 100%; margin-left: -70px; margin-top:20px;" -->
+![Fraeswerkzeug](../assets/img/fraeswerkzeug_man.png " _Quelle: BGHM_")<!-- style="max-width: 500px; width: 100%; margin-left: -70px; margin-top:20px;" -->
 
 
 
@@ -951,7 +951,7 @@ Damit ergeben sich folgende Rechnungsschritte:
 </div>
 <div class="flex-child-2 center">
 
-![Arbeiter](../assets/img/tischler_werkzeug_note_taker_ai_two_persons.jpg" [_Quelle: Freepik_](https://www.freepik.com/free-photo/men-working-cutting-mdf-board_25625244.htm#fromView=search&page=1&position=3&uuid=7d70c1d4-3f32-44f4-95e4-d16a2deea78e&query=handwerksrechnung)")<!-- style="max-width: 500px; width: 130%; margin-left: -120px; margin-top:20px;" -->
+![Arbeiter](../assets/img/tischler_werkzeug_note_taker_ai_two_persons.jpg "[_Quelle: Freepik_](https://www.freepik.com/free-photo/men-working-cutting-mdf-board_25625244.htm#fromView=search&page=1&position=3&uuid=7d70c1d4-3f32-44f4-95e4-d16a2deea78e&query=handwerksrechnung)")<!-- style="max-width: 500px; width: 130%; margin-left: -120px; margin-top:20px;" -->
 
 
 </div>

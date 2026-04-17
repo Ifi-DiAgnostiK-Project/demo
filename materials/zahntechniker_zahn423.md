@@ -141,7 +141,7 @@ Welche Vorteile bietet die CAD/CAM-Technologie?
 </div>
 <div class="flex-child-0">
 
-![Fragezeichen](../assets/img/fragezeichen.jpg"                         _Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 250px; width: 100%" -->
+![Fragezeichen](../assets/img/fragezeichen.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 250px; width: 100%" -->
 
 
 </div>
@@ -168,7 +168,7 @@ Welche Frässtrategien können in der CAM-Technik vorkommen?
 </div>
 <div class="flex-child-0">
 
-![CAM](../assets/img/typ_am_computer_mit_bruecke.jpg"                       [_Quelle: jb-zahntechnik_](https://www.jb-zahntechnik.de/wp-content/uploads/2015/06/fraeszentrum-011.jpg)")<!-- style="max-width: 400px; width: 100%" -->
+![CAM](../assets/img/typ_am_computer_mit_bruecke.jpg "[_Quelle: jb-zahntechnik_](https://www.jb-zahntechnik.de/wp-content/uploads/2015/06/fraeszentrum-011.jpg)")<!-- style="max-width: 400px; width: 100%" -->
 
 
 </div>
@@ -237,7 +237,7 @@ Welche Arbeitsschritte gehören typischerweise zur CAD-Technik in der Zahntechni
 </div>
 <div class="flex-child-0">
 
-![CAD](../assets/img/zahnfraese.jpg"                       [_Quelle: jb-zahntechnik_](https://www.jb-zahntechnik.de/wp-content/uploads/2015/06/fraeszentrum-081.jpg)")<!-- style="max-width: 400px; width: 100%" -->
+![CAD](../assets/img/zahnfraese.jpg "[_Quelle: jb-zahntechnik_](https://www.jb-zahntechnik.de/wp-content/uploads/2015/06/fraeszentrum-081.jpg)")<!-- style="max-width: 400px; width: 100%" -->
 
 
 </div>
@@ -262,7 +262,9 @@ Ziehen Sie die richtigen Begriffe für die drei Kristallphasen der temperaturabh
 <br>
 <br>
 <center>
-![Zirkoniumoxxde](../assets/img/kuenstliche_Schneidezaehne.jpg"   [_Quelle: dentaltechnik caspers_](https://dentaltechnik-caspers.de/portfolio-items/vollkeramik-zirkon/?portfolioCats=6)")<!-- style="max-width: 400px; width: 100%" -->
+
+![Zirkoniumoxxde](../assets/img/kuenstliche_Schneidezaehne.jpg "[_Quelle: dentaltechnik caspers_](https://dentaltechnik-caspers.de/portfolio-items/vollkeramik-zirkon/?portfolioCats=6)")<!-- style="max-width: 400px; width: 100%" -->
+
 </center>
 
 ## 6. Werkstoffe in der CAD/CAM-Technologie
@@ -284,7 +286,9 @@ Ziehen Sie die entsprechenden Begriffe in das Antwortfeld.
 <br>
 <br>
 <center>
-![CAD/CAM](../assets/img/zahn_maschinen.jpg"   [_Quelle: dentaltechnik caspers_](https://dentaltechnik-caspers.de/portfolio-items/cadcam/?portfolioCats=6#)")<!-- style="max-width: 400px; width: 100%" -->
+
+![CAD/CAM](../assets/img/zahn_maschinen.jpg "[_Quelle: dentaltechnik caspers_](https://dentaltechnik-caspers.de/portfolio-items/cadcam/?portfolioCats=6#)")<!-- style="max-width: 400px; width: 100%" -->
+
 </center>
 
 ## Super gemacht! 🙌
