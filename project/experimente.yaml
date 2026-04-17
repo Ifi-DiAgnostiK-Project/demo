@@ -1,0 +1,102 @@
+title: >
+  <span style="background-color: rgba(11, 110, 117, 0.75); padding: 10px; color: white; border-radius: 5px;">
+    DiAgnostiK Lehr- und Lernraum
+  </span>
+
+comment: >
+  <br>
+  <span style="background-color: rgba(255, 140, 66, 0.75); padding: 8px; color: white; border-radius: 5px;">
+    Experimente
+  </span>
+
+logo: ./assets/img/slogan_hero.png
+
+navbar:
+  brand: >
+    <span>
+    <img src="./assets/img/Logo_234px.png" style="height:28px;object-fit:contain;margin-right:8px;" alt="DiAgnostiK Logo">
+    DiAgnostiK
+    </span>
+  url: "index.html"
+  background: "#444"
+  theme: dark
+  links:
+    - label: Tischler
+      url: "tischler.html"
+    - label: SHK
+      url: "shk.html"
+    - label: Zahntechniker
+      url: "zahntechniker.html"
+    - label: Maler
+      url: "maler.html"
+    - label: Raumaustatter
+      url: "raumausstatter.html"
+    - label: Belehrungen
+      url: "belehrungen.html"
+    - label: Arbeits- und Gesundheitsschutz
+      url: "arbeits-und-gesundheitsschutz.html"
+    - label: Umfragen
+      url: "umfragen.html"
+    - label: Wissensspeicher
+      url: "wissensspeicher.html"
+    - label: Experimente
+      url: "experimente.html"
+    - label: Sonstige
+      url: "sonstige.html"
+
+footer: >
+  <div class="d-flex flex-wrap align-items-center justify-content-between gap-3 py-1 w-100">
+    <div>
+      <div class="text-uppercase small mb-1" style="letter-spacing:.07em;font-size:.72em;">Webseite</div>
+      <a href="https://uelu-digital.de/" class="fw-semibold text-decoration-none" style="color:#FF8C42;">uelu-digital.de</a>
+    </div>
+    <div class="text-center">
+      <div class="text-uppercase small mb-1" style="letter-spacing:.07em;font-size:.72em;">Gefördert durch</div>
+      <img src="./assets/img/Kombi-EU-SN-horizontal.jpg" style="height:44px;max-width:100%;object-fit:contain;">
+    </div>
+    <div class="text-md-end">
+      <div class="text-uppercase small mb-1" style="letter-spacing:.07em;font-size:.72em;">Unsere Partner</div>
+      <div class="d-flex flex-wrap gap-2 align-items-center justify-content-md-end">
+        <a href="https://www.gkz-ev.de/"><img src="./assets/img/gkz.jpg" style="height:40px;object-fit:contain;border-radius:4px;opacity:.8;" class="img-fluid" alt="GKZ"></a>
+        <a href="https://www.hwk-dresden.de/"><img src="./assets/img/hwk.png" style="height:40px;object-fit:contain;border-radius:4px;opacity:.8;" class="img-fluid" alt="HWK Dresden"></a>
+        <a href="https://tu-freiberg.de/"><img src="./assets/img/tubaf.png" style="height:40px;object-fit:contain;border-radius:4px;opacity:.8;" class="img-fluid" alt="TU Bergakademie Freiberg"></a>
+      </div>
+    </div>
+  </div>
+
+meta:
+  title: Databases Unlocked - Interactive Database Systems Course
+  description: >
+    Praxisnahe Einführung in Datenbanksysteme: Von Dateiformaten über Key-Value, 
+    Document und Column Stores bis zu relationalen Datenbanken mit SQL. 
+    Alle Konzepte direkt im Browser mit Hands-on-Beispielen.
+
+# Main course collection
+collection:
+  # Introduction section
+  - html: >
+      <div style="padding: 20px; background-color: rgba(11, 110, 117, 0.1); border-radius: 8px; margin: 20px 0;">
+        <h2>📚 Über diesen Kurs</h2>
+        <p>
+          Diese Vorlesung bietet eine <strong>praxisnahe Einführung in die Welt der Datenbanken</strong> 
+          und vermittelt einen systematischen Überblick über unterschiedliche Paradigmen und ihre Einsatzszenarien.
+        </p>
+        <p>
+          Beginnend bei einfachen Datenquellen wie Textdateien, CSV, JSON, YAML oder TOML werden schrittweise 
+          moderne Systeme vorgestellt – von Key-Value Stores über Object Stores und Column Stores bis hin zu 
+          <strong>relationalen Datenbanken mit SQL</strong> und graphbasierten Ansätzen.
+        </p>
+        <p>
+          <strong>Besonderheit:</strong> Alle Paradigmen werden mit Hands-on-Beispielen direkt im Browser 
+          erlebbar (über LiaScript und DBMS wie DuckDB-Wasm, SQLite-Wasm, IndexedDB, PouchDB).
+        </p>
+      </div>
+
+
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/Saege_Test.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/TSM1.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/TSM2.md
+
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/jscad_example.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/konva-quiz.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/test_course_for_action.md

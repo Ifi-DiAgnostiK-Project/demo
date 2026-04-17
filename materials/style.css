@@ -1,0 +1,159 @@
+.flex-container {
+  display: flex;
+  flex-wrap: wrap; /* Allows the items to wrap as needed */
+  align-items: stretch;
+  gap: 20px; /* Adds both horizontal and vertical spacing between items */
+}
+
+.flex-child {
+  flex: 4;
+  margin-right: 20px; /* Adds space between the columns */
+  min-width: 200px;
+}
+
+.flex-child-1 {
+  flex: 1;
+  margin-right: 20px; /* Adds space between the columns */
+  min-width: 200px;
+}
+
+.flex-child-2 {
+  flex: 2;
+  margin-right: 20px; /* Adds space between the columns */
+  min-width: 200px;
+}
+
+.flex-child-3 {
+  flex: 3;
+  margin-right: 20px; /* Adds space between the columns */
+  min-width: 200px;
+}
+
+.flex-child-4 {
+  flex: 4;
+  margin-right: 20px; /* Adds space between the columns */
+  min-width: 200px;
+}
+
+@media (max-width: 600px) {
+  .flex-child-1,
+  .flex-child-2,
+  .flex-child-3,
+  .flex-child-4 {
+    flex: 100%; /* Makes the child divs take up the full width on slim devices */
+    margin-right: 0; /* Removes the right margin */
+    min-width: 200px;
+  }
+}
+
+.image-container {
+  width: 200px;
+  height: 200px;
+  border: 1px solid #ccc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  background-color: #f8f8f8;
+}
+
+.image-container img {
+  width: fit-content;
+  height: fit-content;
+  object-fit: cover;
+  display: block;
+}
+
+.border {
+  border: 3px solid #ddd;
+  border-radius: 15px;
+  padding: 2rem;
+  margin: 2rem 0;
+}
+
+.highlight {
+  color: rgba(0, 38, 255, 1);
+  font-weight: bolder;
+}
+
+.group {
+  display: flex;
+  gap: 1rem;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.large {
+  font-size: large;
+}
+.bold {
+  font-weight: bolder;
+}
+
+/* Styles for the ordered list */
+.styled-list {
+    /* Remove default margin/padding if necessary */
+    list-style-type: decimal; /* Ensures it's a numbered list */
+    padding-left: 25px; /* Adjust as needed for marker visibility */
+}
+
+/* Styles for the list items */
+.styled-list li {
+    /* Add 10px vertical space between items */
+    margin-bottom: 10px;
+}
+
+/* Target the list marker/number specifically */
+.styled-list li::marker {
+    /* Make the number bold */
+    font-weight: bold;
+    /* Set the number color to green */
+    color: green;
+}
+
+ul.thumbup li::marker {
+  content: "👍";
+}
+ul.thumbup li {
+    font-weight: bold;
+}
+ul.checkmark li::marker {
+  content: "✔️ ";
+}
+
+ul.book li::marker {
+  content: "📘 ";
+}
+ul.book li {
+    font-weight: bold;
+}
+ul.bluefolder li::marker {
+  content: "🟦 ";
+}
+ul.bluefolder li {
+    font-weight: bold;
+}
+ul.intdes li::marker {
+  content: "👨 🏫 ";
+}
+ul.intdes li {
+    font-weight: bold;
+}
+ul.blueball li::marker {
+  content: "🔵 ";
+}
+ul.blueball li {
+    font-weight: bold;
+}
+ul.hash li::marker {
+  content: "#️⃣  ";
+}
+ul.hash li {
+    font-weight: bold;
+}
