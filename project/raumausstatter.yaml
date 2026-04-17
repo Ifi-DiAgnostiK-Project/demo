@@ -93,11 +93,11 @@ collection:
       </div>
 
 
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/raumausstatter_holzverbindungen_v0.1.5/courses/Raumausstatter_Holzverbindungen.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/raumausstatter_golderner_schnitt_v0.1.3/courses/Raumausstatter_golderner_schnitt.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/raumausstatter_golderner_schnitt_kurz_v0.0.4/courses/Raumausstatter_golderner_schnitt_kurz.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/raumausstatter_gr_06_v0.1.3/courses/Raumausstatter_gr_06.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/raumausstatter_pflegesymbole_v0.1.0/courses/Raumausstatter_pflegesymbole.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/raumausstatter_polstergestelle_v0.1.12/courses/Raumausstatter_polstergestelle.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/maler_tapetensymbole_v0.0.4/courses/maler_tapetensymbole.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/maler_untertapete_v0.0.5/courses/maler_untertapete.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/Raumausstatter_Holzverbindungen.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/Raumausstatter_golderner_schnitt.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/Raumausstatter_golderner_schnitt_kurz.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/Raumausstatter_gr_06.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/Raumausstatter_pflegesymbole.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/Raumausstatter_polstergestelle.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/maler_tapetensymbole.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/maler_untertapete.md

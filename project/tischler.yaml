@@ -93,20 +93,20 @@ collection:
       </div>
 
 
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/holzarten_01_v0.0.8/courses/Holzarten_01.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/holzarten_02_v0.0.4/courses/Holzarten_02.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/holzarten_03_v0.0.8/courses/Holzarten_03.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/holzarten_04_v0.0.7/courses/Holzarten_04.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/holzarten_05_v0.0.5/courses/Holzarten_05.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/holzarten_von_jan_v0.0.12/courses/Holzarten_von_Jan.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/tischler_g-tsm_v0.0.6/courses/Tischler_G-TSM.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/tischler_holzverbindungen_v0.0.8/courses/Tischler_Holzverbindungen.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/tischler_tsm_1_v0.1.12/courses/Tischler_TSM_1.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/tischler_tsm_1_vorbereitung_v0.1.2/courses/Tischler_TSM_1_Vorbereitung.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/tischler_tsm_2_v0.2.4/courses/Tischler_TSM_2.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/tischler_tsm_2_vorbereitung_v0.1.7/courses/Tischler_TSM_2_Vorbereitung.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/gefahrstoffe_tischler_v0.0.3/courses/gefahrstoffe_tischler.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/tischler_oberflaeche_tso12_einfach_v0.0.5/courses/tischler_oberflaeche_tso12_einfach.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/tischler_oberflaeche_tso12_mittel_v0.0.3/courses/tischler_oberflaeche_tso12_mittel.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/tischler_oberflaeche_tso12_schwer_v0.0.3/courses/tischler_oberflaeche_tso12_schwer.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/tischler_oberflaeche_tso12_spezial_v0.0.4/courses/tischler_oberflaeche_tso12_spezial.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/Holzarten_01.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/Holzarten_02.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/Holzarten_03.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/Holzarten_04.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/Holzarten_05.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/Holzarten_von_Jan.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/Tischler_G-TSM.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/Tischler_Holzverbindungen.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/Tischler_TSM_1.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/Tischler_TSM_1_Vorbereitung.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/Tischler_TSM_2.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/Tischler_TSM_2_Vorbereitung.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/gefahrstoffe_tischler.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/tischler_oberflaeche_tso12_einfach.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/tischler_oberflaeche_tso12_mittel.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/tischler_oberflaeche_tso12_schwer.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/tischler_oberflaeche_tso12_spezial.md

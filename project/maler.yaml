@@ -93,8 +93,8 @@ collection:
       </div>
 
 
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/g_ml_24_v0.0.10/courses/G_ML_24.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/raumausstatter_tapezierwerkzeuge_v0.1.3/courses/Raumausstatter_Tapezierwerkzeuge.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/maler_mgi104_v0.1.1/courses/maler_mgi104.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/maler_tapetensymbole_v0.0.3/courses/maler_tapetensymbole.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/maler_untertapete_v0.0.4/courses/maler_untertapete.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/G_ML_24.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/Raumausstatter_Tapezierwerkzeuge.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/maler_mgi104.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/maler_tapetensymbole.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/maler_untertapete.md

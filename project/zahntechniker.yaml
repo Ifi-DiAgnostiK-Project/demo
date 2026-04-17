@@ -93,11 +93,11 @@ collection:
       </div>
 
 
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/zahntechniker_0223_short_v0.0.11/courses/zahntechniker_0223_short.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/zahntechniker_einbettmasse_v0.0.4/courses/zahntechniker_einbettmasse.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/zahntechniker_grundkurs_v0.0.10/courses/zahntechniker_grundkurs.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/zahntechniker_zahn123_v0.0.11/courses/zahntechniker_zahn123.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/zahntechniker_zahn223_v0.0.4/courses/zahntechniker_zahn223.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/zahntechniker_zahn323_v0.0.12/courses/zahntechniker_zahn323.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/zahntechniker_zahn423_v0.0.6/courses/zahntechniker_zahn423.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/zahntechniker_zahn523_v0.0.7/courses/zahntechniker_zahn523.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/zahntechniker_0223_short.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/zahntechniker_einbettmasse.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/zahntechniker_grundkurs.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/zahntechniker_zahn123.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/zahntechniker_zahn223.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/zahntechniker_zahn323.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/zahntechniker_zahn423.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/zahntechniker_zahn523.md
