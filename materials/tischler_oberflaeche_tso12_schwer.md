@@ -10,7 +10,7 @@ edit: true
 date: 2025-09-15
 
 icon: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
-logo: img/woodboard.jpg
+logo: ../assets/img/woodboard.jpg
 
 attribute: title image Von Bundesarchiv, Bild 183-41030-0002 / Draum / CC-BY-SA 3.0, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=5428443
 

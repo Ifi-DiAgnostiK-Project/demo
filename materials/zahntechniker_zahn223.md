@@ -14,7 +14,7 @@ edit: true
 date: 2025-08-07
 
 icon: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
-logo: img/unterkiefer_ansicht.jpg
+logo: ../assets/img/unterkiefer_ansicht.jpg
 
 title: Zahnersatz als partielle Prothese ZAHN 2-23
 comment:  Kurs für Zahntechniker

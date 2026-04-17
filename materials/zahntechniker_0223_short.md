@@ -13,7 +13,7 @@ narrator: Deutsch Female
 edit: true
 date: 2025-10-06
 icon: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
-logo: img/bruecke_old.jpeg
+logo: ../assets/img/bruecke_old.jpeg
 
 attribute: https://de.wikipedia.org/wiki/Modellgussprothese#/media/Datei:Modellguss-geschiebe.jpg
 

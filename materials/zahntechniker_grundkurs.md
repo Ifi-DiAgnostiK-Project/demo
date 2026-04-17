@@ -13,7 +13,7 @@ narrator: Deutsch Female
 edit: true
 date: 2025-10-06
 icon: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
-logo: img/point_to_teeth.jpg
+logo: ../assets/img/point_to_teeth.jpg
 attribute: https://unsplash.com/de/fotos/ein-mann-und-eine-frau-mit-einem-touchscreen-gerat-Bd0RmCsJOCc
 
 comment:  G-ZAHN 23 Arbeitsunterlagen und zahntechnische Vorprodukte erstellen

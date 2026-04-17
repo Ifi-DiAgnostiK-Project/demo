@@ -10,7 +10,7 @@ edit: true
 date: 2026-01-19
 
 icon: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
-logo: img/tapete_freepik_logo.png
+logo: ../assets/img/tapete_freepik_logo.png
 attribute: title image designed by FreePik.com
 comment:  Kurs mit den Piktogrammen zur Kennzeichnung von Tapeten im Raumausstatter- und Maler-/Lackiererhandwerk
 

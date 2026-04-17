@@ -19,7 +19,7 @@ title: Holzarten V
 tags:    Tischler,
          Holzarten
 
-logo: img/oakwoodbig.jpg
+logo: ../assets/img/oakwoodbig.jpg
 icon: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
 
 

@@ -13,7 +13,7 @@ narrator: Deutsch Male
 edit: true
 date: 2025-11-12
 icon: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
-logo: img/zahntechniker_et_work.jpg
+logo: ../assets/img/zahntechniker_et_work.jpg
 
 attribute: https://pixabay.com/de/photos/zahnarzt-gebiss-klinik-zahnklinik-6225092/
 

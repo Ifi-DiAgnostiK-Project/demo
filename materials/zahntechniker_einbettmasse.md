@@ -13,7 +13,7 @@ narrator: Deutsch male
 edit: true
 date: 2025-08-07
 icon: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
-logo: img/dentures-3532982_640.jpg
+logo: ../assets/img/dentures-3532982_640.jpg
 
 comment:  Berechnung von Mischungen bei Einbettmassen
 
