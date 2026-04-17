@@ -19,7 +19,7 @@ attribute: https://pixabay.com/de/photos/armlehne-sessel-polsterer-stoff-647300/
 
 comment:  Holzverarbeitung im Raumausstatter-Handwerk (Polsterei)
 
-link: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/style.css
+link: ./style.css
 
 import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
         https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md

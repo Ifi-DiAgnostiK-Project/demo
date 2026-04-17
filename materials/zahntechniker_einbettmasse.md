@@ -17,7 +17,7 @@ logo: ../assets/img/dentures-3532982_640.jpg
 
 comment:  Berechnung von Mischungen bei Einbettmassen
 
-link: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/style.css
+link: ./style.css
 
 attribute: logo image pixabay by user Elbo https://pixabay.com/de/photos/zahnersatz-zahnarzt-gesundheitswesen-3532982/
 

@@ -16,7 +16,7 @@ date: 2025-07-29
 icon: ../assets/img/Logo_234px.png
 logo: ../assets/img/156_Freepik_rawpixel.com_wooden-textured-background.jpg
 
-link: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/style.css
+link: ./style.css
 
 attribute: Title Image By FreePik
 

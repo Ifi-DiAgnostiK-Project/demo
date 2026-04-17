@@ -17,7 +17,7 @@ attribute: Title Image by Martin Vorel, CC BY-SA 4.0 <https://creativecommons.or
 
 comment:  Quiz zu Eigenschaften von Holz -- Teil 1
 
-link: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/style.css
+link: ./style.css
 
 import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
         https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md

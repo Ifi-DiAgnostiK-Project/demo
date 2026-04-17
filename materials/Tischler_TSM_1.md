@@ -17,7 +17,7 @@ comment:  TSM 1 Überprüfungsfragen
 
 title: TSM 1 Überprüfungsfragen
 
-link: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/style.css
+link: ./style.css
 link: https://raw.githubusercontent.com/vgoehler/TUBAF_Distributed_Software/refs/heads/main/./styles.css
 
 import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md

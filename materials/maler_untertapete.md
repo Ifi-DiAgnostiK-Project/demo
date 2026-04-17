@@ -19,7 +19,7 @@ attribute: title image, by pixabay https://pixabay.com/de/photos/kleister-quast-
 
 comment: Kurse G-ML-24, ML2-24, ML3-24, MLGI2-24, MLGI4-24, MLGI5-24, MB2-24, MB3-24, MB4-24, MGI2-04, MGI3-04, MGI4-04
 
-link: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/style.css
+link: ./style.css
 
 import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
         https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md

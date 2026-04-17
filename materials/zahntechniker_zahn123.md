@@ -19,7 +19,7 @@ attribute: image by pixabay https://pixabay.com/de/photos/zahnarzt-kieferorthop%
 
 comment:  ZAHN 1-23 Kieferorthopädische Geräte und temporäre Interimsprothesen herstellen
 
-link: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/style.css
+link: ./style.css
 
 import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
         https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md

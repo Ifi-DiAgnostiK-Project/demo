@@ -11,7 +11,7 @@ title: Layout Elemente Sammlung
 
 tags: Wissensspeicher
 
-link: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/style.css
+link: ./style.css
 
 icon: ../assets/img/Logo_234px.png
 logo: https://upload.wikimedia.org/wikipedia/commons/e/ef/Programming_code.jpg
@@ -33,7 +33,7 @@ Alle weiteren Layouts können mit inklusion unserer css datei und den dort defin
 Diese müssen in der preamble eingebunden werden mit:
 
 ```yaml
-link: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/style.css
+link: ./style.css
 ```
 
 ## Bilder

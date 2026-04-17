@@ -18,7 +18,7 @@ attribute: Title Image By Kelsey Todd, CC BY-SA 4.0 <https://creativecommons.org
 
 comment:  Quiz zu Eigenschaften von Holz -- Teil 2
 
-link: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/style.css
+link: ./style.css
 
 import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
         https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md

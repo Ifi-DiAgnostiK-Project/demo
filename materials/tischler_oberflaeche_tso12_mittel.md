@@ -20,7 +20,7 @@ attribute: Oberflächenveredlung I TSO 1/2024, Oberflächenveredlung II TSO 2/20
 title: Oberflächenveredelung Tischlerhandwerk TSO 1+2/24
 comment:  Mittelschwere Fragen Oberflächengestaltung und Oberflächenbearbeitung Holz
 
-link: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/style.css
+link: ./style.css
 
 import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
         https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
