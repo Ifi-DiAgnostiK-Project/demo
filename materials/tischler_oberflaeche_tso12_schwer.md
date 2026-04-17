@@ -73,7 +73,7 @@ Warum ist das sorgfältige Entfernen von Schleifstaub vor dem Lackieren besonder
 
 </div>
 <div class="flex-child-2 center">
-![Fragezeichen](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/fragezeichen.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 200px; width: 100%" -->
+![Fragezeichen](../assets/img/fragezeichen.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 200px; width: 100%" -->
 
 </div>
 </section>
@@ -163,7 +163,7 @@ Welche Aussage über Naturöle als Oberflächenmittel ist korrekt?
 
 </div>
 <div class="flex-child-2 center">
-![Fragezeichen](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/fragezeichen.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 200px; width: 100%" -->
+![Fragezeichen](../assets/img/fragezeichen.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 200px; width: 100%" -->
 
 </div>
 </section>
@@ -191,7 +191,7 @@ Welche Folge kann ein zu feiner Zwischenschliff zwischen Lackschichten haben?
 </section>
 
 <center>
-![Fragezeichen](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/fragezeichen.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 200px; width: 100%" -->
+![Fragezeichen](../assets/img/fragezeichen.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 200px; width: 100%" -->
 </center>
 
 ## Lackauftragsverfahren - schwere Fragen
@@ -213,7 +213,7 @@ Warum ist die Viskosität beim Spritzlackieren entscheidend?
 </section>
 
 <center>
-![Fragezeichen](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/fragezeichen.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 200px; width: 100%" -->
+![Fragezeichen](../assets/img/fragezeichen.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 200px; width: 100%" -->
 </center>
 
 
@@ -237,7 +237,7 @@ Wodurch unterscheiden sich UV-härtende Lacke von konventionellen Lacken?
 </section>
 
 <center>
-![Fragezeichen](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/fragezeichen.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 300px; width: 100%" -->
+![Fragezeichen](../assets/img/fragezeichen.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 300px; width: 100%" -->
 </center>
 
 ## Sicherheit und Umweltschutz - schwere Fragen
@@ -265,5 +265,5 @@ Was ist bei der Lagerung von lösemittelhaltigen Produkten zu beachten?
 
 
 <center>
-![Jubel](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")
+![Jubel](../assets/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")
 </center>

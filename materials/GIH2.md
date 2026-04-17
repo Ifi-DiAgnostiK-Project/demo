@@ -61,10 +61,10 @@ Fügetechnik - Werkstücke und Bauteile aus gleichen und unterschiedlichen Werks
 
 </div>
 <div class="flex-child">
-![Lötlampe](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/loetlampe.jpg) <!-- style="height: 300px" -->
+![Lötlampe](../assets/img/loetlampe.jpg) <!-- style="height: 300px" -->
 </div>
 <div class="flex-child">
-![Rohrinstallation](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/rohrinstallation.jpg) <!-- style="height: 300px" -->
+![Rohrinstallation](../assets/img/rohrinstallation.jpg) <!-- style="height: 300px" -->
 
 </div>
 </section>
@@ -90,11 +90,11 @@ _Hinweis: Es können mehrere Antworten richtig sein!_<!--style="color:red; font-
 </div>
 <div class="flex-child">
 <!--style="font-weight: bolder; color: blue"-->Bild 1:
-![Hartlöten](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/hartloeten.jpg) <!-- style="max-height: 300px" -->
+![Hartlöten](../assets/img/hartloeten.jpg) <!-- style="max-height: 300px" -->
 </div>
 <div class="flex-child">
 <!--style="font-weight: bolder; color: blue"-->Bild 2:
-![Weichlöten](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/weichloeten.jpg) <!-- style="max-height: 300px" -->
+![Weichlöten](../assets/img/weichloeten.jpg) <!-- style="max-height: 300px" -->
 
 </div>
 </section>
@@ -144,7 +144,7 @@ Beachten Sie, dass bei einigen Einsatzgebieten BEIDE Fügetechniken zulässig si
 3.1. Wie wird die im Bild mit "X"<!--style="color: red; font-weight: bolder;"--> gekennzeichnete Linie bezeichnet?
 ===
 
-![Neutrale Faser_Landefeld](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/landefeld.jpg) <!-- style="width: 600px" -->
+![Neutrale Faser_Landefeld](../assets/img/landefeld.jpg) <!-- style="width: 600px" -->
 
 <!-- data-randomize -->
 - [( )] Biegeachse
@@ -280,6 +280,6 @@ Arbeitsvorbereitung<!--style="color:blue; font-weight: bolder;"-->
 
 ## Super gemacht 👌
 
-![Jubel](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/colorfull_jumping.jpg)<!-- style="width: 700px" -->
+![Jubel](../assets/img/colorfull_jumping.jpg)<!-- style="width: 700px" -->
 
 _Quelle: Pixabay, geralt_

@@ -40,7 +40,7 @@ Dieses Quiz zeigt Ihnen, wie gut Sie sich bereits auskennen!
 
 -------------------
 
-![Arbeitsschutz](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/schilder_an_zaun.jpg "_Quelle: Pixabay, planet-fox_")<!-- style="max-width: 700px; width: 100%" -->
+![Arbeitsschutz](../assets/img/schilder_an_zaun.jpg "_Quelle: Pixabay, planet-fox_")<!-- style="max-width: 700px; width: 100%" -->
 
 <!-- class="highlight"-->
 Viel Erfolg!
@@ -116,4 +116,4 @@ __Ordnen Sie die Piktogramme ihrer jeweiligen Bedeutung zu.__
 
 --------------------
 
-![Jubel](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")
+![Jubel](../assets/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")

@@ -10,7 +10,7 @@ edit: true
 date: 2025-09-08
 
 icon: ../assets/img/Logo_234px.png
-logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/Textilpflegesymbole.png
+logo: ../assets/img/Textilpflegesymbole.png
 comment:  Kurs mit den Piktogrammen zur Textilpflege für Raumausstatter.
 
 title: Raumausstatter - Textilpflegesymbole
@@ -35,7 +35,7 @@ tags:   Textilpflege,
 
 # Textilpflege - Symbole
 
-![Waschschüssel](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/wash.png)<!-- style="max-width: 100px; width: 100%;" -->
+![Waschschüssel](../assets/img/wash.png)<!-- style="max-width: 100px; width: 100%;" -->
 
 Jede Textilfaser und Stoffart benötigt eine besondere Behandlung. Pflegeetiketten sind die "Geheimschrift" der Textilien-Hersteller. Sie enthalten wichtige Hinweise für die Reinigung und Bearbeitung. Die Textilpflegesymbole sind international standardisiert. Sie geben nicht nur Empfehlungen, sondern auch Einschränkungen wie "nicht bleichen" an.
 
@@ -311,5 +311,5 @@ Ziehen Sie die Zeichen in die richtige Reihenfolge.
 
 
 <center>
-![Jubel](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")
+![Jubel](../assets/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")
 </center>

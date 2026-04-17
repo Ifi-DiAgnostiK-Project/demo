@@ -37,7 +37,7 @@ Dieses Quiz zeigt Ihnen, wie gut Sie sich bereits auskennen!
 
 > __Hinweis:__ Es können mehrere Antworten richtig sein.
 
-![Arbeitsschutz](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/schilder_an_zaun.jpg "_Quelle: Pixabay, planet-fox_")<!-- style="max-width: 700px; width: 100%" -->
+![Arbeitsschutz](../assets/img/schilder_an_zaun.jpg "_Quelle: Pixabay, planet-fox_")<!-- style="max-width: 700px; width: 100%" -->
 
 <!-- class="highlight"-->
 Viel Erfolg!
@@ -285,4 +285,4 @@ Welche Bedeutung hat dieses Piktogramm?
 
 ---------------------------
 
-![Jubel](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")
+![Jubel](../assets/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")

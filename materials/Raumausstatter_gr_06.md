@@ -14,7 +14,7 @@ comment:  Grundkurs Raumausstatter
 
 edit: true
 date: 2025-06-24
-logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/hwk1.jpg
+logo: ../assets/img/hwk1.jpg
 icon: ../assets/img/Logo_234px.png
 
 tags:   Raumausstatter
@@ -29,7 +29,7 @@ import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_Dr
 
 # Grundstufe Raumausstatter Kurs GR-06
 
-![Raumausstatter HWK DD](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/interior.jpg)
+![Raumausstatter HWK DD](../assets/img/interior.jpg)
 
 _Quelle: GKZ_
 
@@ -47,7 +47,7 @@ Sie haben in den letzten Tagen Werkzeuge und Grundhandgriffe im Raumausstatterha
 
 ----------------
 
-![HWK Bild Raumausstatter](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/hwk1.jpg)
+![HWK Bild Raumausstatter](../assets/img/hwk1.jpg)
 
 _Quelle: HWK Dresden, André Wirsing_
 
@@ -294,6 +294,6 @@ Kleiner Tipp:
 
 ## Geschafft ! 👏
 
-![Jubel](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/colorfull_jumping.jpg)<!-- style="width: 500px" -->
+![Jubel](../assets/img/colorfull_jumping.jpg)<!-- style="width: 500px" -->
 
 <a  href="https://pixabay.com/de/illustrations/freude-springen-luftsprung-spa%C3%9F-3940425/" target=_blank>_Quelle: Pixabay, geralt_</a>

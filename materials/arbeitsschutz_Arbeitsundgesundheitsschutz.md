@@ -44,7 +44,7 @@ Dieses Quiz zeigt Ihnen, wie gut Sie sich bereits auskennen!
 Viel Erfolg!
 ------------
 
-![Arbeitsschutz](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/schilder_an_zaun.jpg "_Quelle: Pixabay, planet-fox_")<!-- style="max-width: 700px; width: 100%" -->
+![Arbeitsschutz](../assets/img/schilder_an_zaun.jpg "_Quelle: Pixabay, planet-fox_")<!-- style="max-width: 700px; width: 100%" -->
 
 
 ## In welcher Zeile befinden sich Warnschilder?
@@ -112,7 +112,7 @@ Entscheiden Sie, ob die folgenden Aussagen wahr oder falsch sind.
 Hinweis: Es können mehrere Antworten richtig sein.
 
 <center>
-![Fragezeichen](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/fragezeichen.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 300px; width: 100%" -->
+![Fragezeichen](../assets/img/fragezeichen.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 300px; width: 100%" -->
 </center>
 
 
@@ -464,4 +464,4 @@ Ziehen Sie alle Piktogramme, welche Warnzeichen abbilden, in das Antwortfeld!
 
 ---------------------------
 
-![Jubel](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")
+![Jubel](../assets/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")

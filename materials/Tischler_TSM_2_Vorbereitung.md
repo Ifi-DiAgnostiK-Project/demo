@@ -84,7 +84,7 @@ Testen Sie Ihr Wissen zum sicheren Umgang mit Holzbearbeitungsmaschinen!
 
 <center>
 
-![Tischler_an_Bandsaege](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/carpenter_working_with_band_saw.jpg" [_Quelle: Freepik, prostooleh_](https://www.freepik.com/free-photo/professional-carpenter-working-with-sawing-machine_8819641.htm#from_element=cross_selling__photo)")<!-- style="max-width: 450px; width: 100%" -->
+![Tischler_an_Bandsaege](../assets/img/carpenter_working_with_band_saw.jpg" [_Quelle: Freepik, prostooleh_](https://www.freepik.com/free-photo/professional-carpenter-working-with-sawing-machine_8819641.htm#from_element=cross_selling__photo)")<!-- style="max-width: 450px; width: 100%" -->
 
 </center>
 
@@ -116,7 +116,7 @@ Sie finanzieren sich ausschließlich durch die Unternehmen.
 
 <center>
 
-![BGHM_Logo](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/bghm.svg "_Quelle: BGHM_")<!-- style="max-width: 300px; width: 140%;margin-left: -50px; margin-top:20px;" -->
+![BGHM_Logo](../assets/img/bghm.svg "_Quelle: BGHM_")<!-- style="max-width: 300px; width: 140%;margin-left: -50px; margin-top:20px;" -->
 
 </center>
 
@@ -147,7 +147,7 @@ Die gesetzliche Unfallversicherung wird ausschließlich durch die Unternehmen fi
 </div>
 <div class="flex-child-2 center">
 
-![Geldzahlung](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/money_save_dollar_calculator.jpg" [_Quelle: Freepik_](https://www.freepik.com/free-photo/concept-economy-with-piggy-bank-high-view_7870480.htm)")<!-- style="max-width: 300px; width: 140%;margin-left: -50px; margin-top:20px;" -->
+![Geldzahlung](../assets/img/money_save_dollar_calculator.jpg" [_Quelle: Freepik_](https://www.freepik.com/free-photo/concept-economy-with-piggy-bank-high-view_7870480.htm)")<!-- style="max-width: 300px; width: 140%;margin-left: -50px; margin-top:20px;" -->
 
 
 </div>
@@ -182,7 +182,7 @@ beschäftigt sind.
 </div>
 <div class="flex-child-2 center">
 
-![Arbeiter_mit_Flüstertüte](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/angry_west_dude_with_helmet_on.jpg" [_Quelle: Freepik, luis moliniero_](https://www.freepik.com/free-photo/workman-shouting-isolated-white-background_1272063.htm#fromView=search&page=6&position=8&uuid=9146045a-b6b0-466a-b3a0-57c0c1a21f83&query=handwerk+personengruppe)")<!-- style="max-width: 300px; width: 140%;margin-left: -80px; margin-top:0px;" -->
+![Arbeiter_mit_Flüstertüte](../assets/img/angry_west_dude_with_helmet_on.jpg" [_Quelle: Freepik, luis moliniero_](https://www.freepik.com/free-photo/workman-shouting-isolated-white-background_1272063.htm#fromView=search&page=6&position=8&uuid=9146045a-b6b0-466a-b3a0-57c0c1a21f83&query=handwerk+personengruppe)")<!-- style="max-width: 300px; width: 140%;margin-left: -80px; margin-top:0px;" -->
 
 
 </div>
@@ -204,7 +204,7 @@ Bei der Arbeit an Maschinen ist geeignete Arbeitskleidung ein wichtiger Teil der
 
 <center>
 
-![Arbeitsschutz](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/sicherheitsausruestung.jpg" [_Quelle: Freepik, pvproductions_](https://www.freepik.com/free-photo/work-helmet-boots-gloves-wooden-background-top-view_33090388.htm#fromView=search&page=1&position=35&uuid=b084009a-d4d3-4588-9a32-9ef6f5fdc1d0&query=arbeitsschutz)")<!-- style="max-width: 450px; width: 100%" -->
+![Arbeitsschutz](../assets/img/sicherheitsausruestung.jpg" [_Quelle: Freepik, pvproductions_](https://www.freepik.com/free-photo/work-helmet-boots-gloves-wooden-background-top-view_33090388.htm#fromView=search&page=1&position=35&uuid=b084009a-d4d3-4588-9a32-9ef6f5fdc1d0&query=arbeitsschutz)")<!-- style="max-width: 450px; width: 100%" -->
 
 </center>
 
@@ -244,7 +244,7 @@ Folgende Antworten sind richtig:\
 </div>
 <div class="flex-child-2 center">
 
-![Arbeitsschutz](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/sicherheitsausruestung_weste.jpg "[_Quelle: Freepik, pvproductions_](https://www.freepik.com/free-photo/builder-uniform-wooden-background-flat-lay_32846488.htm#fromView=image_search_similar&page=1&position=2&uuid=111d6c4c-f1d4-4cf9-94ea-b6b1723e16e4&query=arbeitsschutz)")<!-- style="max-width: 400px; width: 130%;margin-left: -50px; margin-top:20px;" -->
+![Arbeitsschutz](../assets/img/sicherheitsausruestung_weste.jpg "[_Quelle: Freepik, pvproductions_](https://www.freepik.com/free-photo/builder-uniform-wooden-background-flat-lay_32846488.htm#fromView=image_search_similar&page=1&position=2&uuid=111d6c4c-f1d4-4cf9-94ea-b6b1723e16e4&query=arbeitsschutz)")<!-- style="max-width: 400px; width: 130%;margin-left: -50px; margin-top:20px;" -->
 
 </div>
 </section>
@@ -282,7 +282,7 @@ Sicherheit im Umgang mit Sägemaschinen beruht auf Übung, Aufmerksamkeit – un
 
 <center>
 
-![Tischlerarbeit](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/bandsaege_sehr_gross_holz.jpg" [_Quelle: Pixabay, ekenamillwork_](https://pixabay.com/de/photos/sah-holzbearbeitung-fabrik-4074238/)")<!-- style="max-width: 450px; width: 100%" -->
+![Tischlerarbeit](../assets/img/bandsaege_sehr_gross_holz.jpg" [_Quelle: Pixabay, ekenamillwork_](https://pixabay.com/de/photos/sah-holzbearbeitung-fabrik-4074238/)")<!-- style="max-width: 450px; width: 100%" -->
 
 </center>
 
@@ -335,7 +335,7 @@ Folgende Antworten sind richtig:\
 </div>
 <div class="flex-child-2 center">
 
-![Tisch_und_Formatkreissaege_Gefahrenbereich](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/Kreissaege_mit_Pfeilen.png "_Quelle: BGHM_")<!-- style="max-width: 400px; width: 130%;margin-left: -50px; margin-top:20px;" -->
+![Tisch_und_Formatkreissaege_Gefahrenbereich](../assets/img/Kreissaege_mit_Pfeilen.png "_Quelle: BGHM_")<!-- style="max-width: 400px; width: 130%;margin-left: -50px; margin-top:20px;" -->
 
 </div>
 </section>
@@ -375,7 +375,7 @@ Die Schutzhaube ist auf Werkstückdicke einzustellen.
 </div>
 <div class="flex-child-2 center">
 
-![Fragezeichen](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/fragezeichen2.jpg "[_Quelle: Pixabay, Peggy+Marco_](https://pixabay.com/de/photos/fragezeichen-symbol-charakter-2309040/)")<!-- style="max-width: 150px; width: 120%;margin-left: 100px; margin-top:0px;" -->
+![Fragezeichen](../assets/img/fragezeichen2.jpg "[_Quelle: Pixabay, Peggy+Marco_](https://pixabay.com/de/photos/fragezeichen-symbol-charakter-2309040/)")<!-- style="max-width: 150px; width: 120%;margin-left: 100px; margin-top:0px;" -->
 
 </div>
 </section>
@@ -418,7 +418,7 @@ Abfallstücke mit dem Schiebestock, Schiebeholz oder einem Werkstück aus dem Ge
 </div>
 <div class="flex-child-2 center">
 
-![Tischler](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/frase_tischler_quarter_sawn.jpg "[_Quelle: Freepik_](https://www.freepik.com/free-photo/wood-worker-his-shop-working-with-tools-equipment_75523858.htm#fromView=image_search_similar&page=7&position=37&uuid=a74d5909-470b-49f0-9ee1-7ac6366a000f&query=handarbeit+holz)")<!-- style="max-width: 150px; width: 120%;margin-left: 5
+![Tischler](../assets/img/frase_tischler_quarter_sawn.jpg "[_Quelle: Freepik_](https://www.freepik.com/free-photo/wood-worker-his-shop-working-with-tools-equipment_75523858.htm#fromView=image_search_similar&page=7&position=37&uuid=a74d5909-470b-49f0-9ee1-7ac6366a000f&query=handarbeit+holz)")<!-- style="max-width: 150px; width: 120%;margin-left: 5
 0px; margin-top:20px;" -->
 
 </div>
@@ -448,7 +448,7 @@ Die Lösung lautet: 8 mm. - Siehe dazu das TSM-Lehrbuch, S. 38.
 
 </div>
 <div class="flex-child-2 center">
-![Spaltkeil](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/Kreissaege_spaltkeil.png" _Quelle: BGHM_")<!-- style="max-width: 450px; width: 120%; margin-left: -40px; margin-top: 40px;" -->
+![Spaltkeil](../assets/img/Kreissaege_spaltkeil.png" _Quelle: BGHM_")<!-- style="max-width: 450px; width: 120%; margin-left: -40px; margin-top: 40px;" -->
 
 
 </div>
@@ -478,7 +478,7 @@ Die Lösung lautet: 2 mm. - Siehe dazu das TSM-Lehrbuch, S. 38.
 
 </div>
 <div class="flex-child-2 center">
-![Spaltkeil](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/Kreissaege_spaltkeil.png" _Quelle: BGHM_")<!-- style="max-width: 450px; width: 120%; margin-left: -40px; margin-top: 40px;" -->
+![Spaltkeil](../assets/img/Kreissaege_spaltkeil.png" _Quelle: BGHM_")<!-- style="max-width: 450px; width: 120%; margin-left: -40px; margin-top: 40px;" -->
 
 
 </div>
@@ -513,7 +513,7 @@ Es ist wichtig, die Sicherheitseinrichtungen (z. B. Schutzhauben, Vorschub, Ansc
 
 <center>
 
- ![Hobelmaschine](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/dickenhobel_man_in_blue_wood.jpg" [_Quelle: Freepik_](https://www.freepik.com/free-photo/wood-worker-his-shop-working-with-tools-equipment_75523858.htm#fromView=image_search_similar&page=7&position=37&uuid=a74d5909-470b-49f0-9ee1-7ac6366a000f&query=handarbeit+holz)")<!-- style="max-width: 500px; width: 100%;margin-left: -50px; margin-top:20px;" -->
+ ![Hobelmaschine](../assets/img/dickenhobel_man_in_blue_wood.jpg" [_Quelle: Freepik_](https://www.freepik.com/free-photo/wood-worker-his-shop-working-with-tools-equipment_75523858.htm#fromView=image_search_similar&page=7&position=37&uuid=a74d5909-470b-49f0-9ee1-7ac6366a000f&query=handarbeit+holz)")<!-- style="max-width: 500px; width: 100%;margin-left: -50px; margin-top:20px;" -->
 
 </center>
 
@@ -543,7 +543,7 @@ Von einem kurzen Werkstück spricht man, wenn die Werkstücklänge unter 2x Hand
 </div>
 <div class="flex-child-2 center">
 
-![Tischler_mit_Werkstueck](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/ai_tischler_mit_brett_und_bloedem_grinsen.jpg "[_Quelle: Freepik, aleksandarlittlewolf_](https://www.freepik.com/free-photo/portrait-smiling-craftsman-holding-piece-furniture-his-carpentry-workshop_11137058.htm#fromView=search&page=1&position=4&uuid=df0aaef8-79e3-46f5-b8a6-9db8374c724b&query=worker+with+wood)")<!-- style="max-width: 300px; width: 100%;margin-left: 5
+![Tischler_mit_Werkstueck](../assets/img/ai_tischler_mit_brett_und_bloedem_grinsen.jpg "[_Quelle: Freepik, aleksandarlittlewolf_](https://www.freepik.com/free-photo/portrait-smiling-craftsman-holding-piece-furniture-his-carpentry-workshop_11137058.htm#fromView=search&page=1&position=4&uuid=df0aaef8-79e3-46f5-b8a6-9db8374c724b&query=worker+with+wood)")<!-- style="max-width: 300px; width: 100%;margin-left: 5
 0px; margin-top:20px;" -->
 
 </div>
@@ -596,7 +596,7 @@ Es ist wichtig, die Sicherheitsvorkehrungen zu kennen:
 
 <center>
 
-![Fraesmaschine](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/router_theatrical_block.jpg" [_Quelle: Freepik, DC Studio_](https://www.freepik.com/free-photo/joiner-using-heavy-machinery-craft-furniture_314268423.htm#fromView=search&page=1&position=5&uuid=2c99c0e3-bdc3-477b-a0ee-ef2998bd2dd8&query=wood+fr%C3%A4sen)")<!-- style="max-width: 500px; width: 120%" -->
+![Fraesmaschine](../assets/img/router_theatrical_block.jpg" [_Quelle: Freepik, DC Studio_](https://www.freepik.com/free-photo/joiner-using-heavy-machinery-craft-furniture_314268423.htm#fromView=search&page=1&position=5&uuid=2c99c0e3-bdc3-477b-a0ee-ef2998bd2dd8&query=wood+fr%C3%A4sen)")<!-- style="max-width: 500px; width: 120%" -->
 
 </center>
 
@@ -663,7 +663,7 @@ data-max-trials="3"
 
 </div>
 <div class="flex-child-2 center">
-![Tischfräsmaschine](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/cgi_router_numbers_scheme.png" _Quelle: BGHM_")<!-- style="max-width: 550px; width: 150%; margin-left: -150px; margin-top:0px;" -->
+![Tischfräsmaschine](../assets/img/cgi_router_numbers_scheme.png" _Quelle: BGHM_")<!-- style="max-width: 550px; width: 150%; margin-left: -150px; margin-top:0px;" -->
 
 </div>
 </section>
@@ -694,7 +694,7 @@ Die Werkzeugverdeckung soll den Schneidenkreis des Fräswerkzeugs im Arbeitsbere
 
 <center>
 
-![Tischfraesmaschine_Abdeckung](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/router_schematisch_variables.png "_Quelle: BGHM_")<!-- style="max-width: 450px; width: 100%;margin-left: 5
+![Tischfraesmaschine_Abdeckung](../assets/img/router_schematisch_variables.png "_Quelle: BGHM_")<!-- style="max-width: 450px; width: 100%;margin-left: 5
 0px; margin-top:20px;" -->
 
 </center>
@@ -729,7 +729,7 @@ Linkslauf
 </div>
 <div class="flex-child-2 center">
 
-![Linkslauf](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/inversionsschalter_andere_richtung.png "_Quelle: BGHM_")<!-- style="max-width: 250px; width: 130%;margin-left: -50px; margin-top:20px;" -->
+![Linkslauf](../assets/img/inversionsschalter_andere_richtung.png "_Quelle: BGHM_")<!-- style="max-width: 250px; width: 130%;margin-left: -50px; margin-top:20px;" -->
 
 </div>
 </section>
@@ -759,7 +759,7 @@ Rechtslauf
 </div>
 <div class="flex-child-2 center">
 
-![Rechtslauf](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/inversionsschalter.png "_Quelle: BGHM_")<!-- style="max-width: 250px; width: 130%;margin-left: -50px; margin-top:20px;" -->
+![Rechtslauf](../assets/img/inversionsschalter.png "_Quelle: BGHM_")<!-- style="max-width: 250px; width: 130%;margin-left: -50px; margin-top:20px;" -->
 
 </div>
 </section>
@@ -832,7 +832,7 @@ Damit ergeben sich folgende Rechnungsschritte:
 </div>
 <div class="flex-child-2 center">
 
-![Arbeiter](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/tischler_werkzeug_note_taker_ai_two_persons.jpg" [_Quelle: Freepik_](https://www.freepik.com/free-photo/men-working-cutting-mdf-board_25625244.htm#fromView=search&page=1&position=3&uuid=7d70c1d4-3f32-44f4-95e4-d16a2deea78e&query=handwerksrechnung)")<!-- style="max-width: 500px; width: 130%; margin-left: -120px; margin-top:20px;" -->
+![Arbeiter](../assets/img/tischler_werkzeug_note_taker_ai_two_persons.jpg" [_Quelle: Freepik_](https://www.freepik.com/free-photo/men-working-cutting-mdf-board_25625244.htm#fromView=search&page=1&position=3&uuid=7d70c1d4-3f32-44f4-95e4-d16a2deea78e&query=handwerksrechnung)")<!-- style="max-width: 500px; width: 130%; margin-left: -120px; margin-top:20px;" -->
 
 </div>
 </section>
@@ -869,7 +869,7 @@ Folgende Antworten sind richtig:\
 </div>
 <div class="flex-child-2 center">
 
-![Hilfsmittel_Tischfraese](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/fraese_anschlaege_drei_stueck.png "_Quelle: BGHM_")<!-- style="max-width: 400px; width: 130%;margin-left: -100px; margin-top:20px;" -->
+![Hilfsmittel_Tischfraese](../assets/img/fraese_anschlaege_drei_stueck.png "_Quelle: BGHM_")<!-- style="max-width: 400px; width: 130%;margin-left: -100px; margin-top:20px;" -->
 
 </div>
 </section>
@@ -913,7 +913,7 @@ data-solution-button="off"
 
 <center>
 
-![Hilfsmittel_Tischfraese](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/fraese_anschlaege_drei_stueck.png "_Quelle: BGHM_")<!-- style="max-width: 400px; width: 130%;margin-left: -100px; margin-top:20px;" -->
+![Hilfsmittel_Tischfraese](../assets/img/fraese_anschlaege_drei_stueck.png "_Quelle: BGHM_")<!-- style="max-width: 400px; width: 130%;margin-left: -100px; margin-top:20px;" -->
 
 </center>
 
@@ -943,11 +943,11 @@ Siehe dazu auch TSM-Lehrgangsbegleitheft, S. 105.
 </div>
 <div class="flex-child-2 center">
 
-![Tischfraese_geschweiftes_Werkstueck](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/tischler_fraese_with_security_measures.jpg" [_Quelle: Pixabay, RUWI-Maschinenbau_](https://pixabay.com/photos/milling-machine-6827540/)")<!-- style="max-width: 500px; width: 130%; margin-left: -90px; margin-top:20px;" -->
+![Tischfraese_geschweiftes_Werkstueck](../assets/img/tischler_fraese_with_security_measures.jpg" [_Quelle: Pixabay, RUWI-Maschinenbau_](https://pixabay.com/photos/milling-machine-6827540/)")<!-- style="max-width: 500px; width: 130%; margin-left: -90px; margin-top:20px;" -->
 
 </div>
 </section>
 
 ## Geschafft 🎉
 
-![Jubel](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")
+![Jubel](../assets/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")

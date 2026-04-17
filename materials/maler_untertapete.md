@@ -13,7 +13,7 @@ narrator: Deutsch Male
 edit: true
 date: 2025-11-27
 icon: ../assets/img/Logo_234px.png
-logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/tapete_eimer.jpg
+logo: ../assets/img/tapete_eimer.jpg
 
 attribute: title image, by pixabay https://pixabay.com/de/photos/kleister-quast-leim-tapezieren-4964886/
 
@@ -59,7 +59,7 @@ Wir wünschen Ihnen viel Erfolg beim Beantworten der Fragen!
 <br> <br>
 <center>
 
-![Tapezierarbeitsplatz](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/tapete_eimer.jpg "[_Quelle: Pixabay, Vilkasss_](https://pixabay.com/illustrations/ai-generated-teeth-dental-miniature-9431605/)")<!-- style="width: 500px" -->
+![Tapezierarbeitsplatz](../assets/img/tapete_eimer.jpg "[_Quelle: Pixabay, Vilkasss_](https://pixabay.com/illustrations/ai-generated-teeth-dental-miniature-9431605/)")<!-- style="width: 500px" -->
 
 </center>
 
@@ -95,7 +95,7 @@ Bringen Sie den Arbeitsablauf zur Verarbeitung von Untertapeten in eine richtige
 <br>
 
 
-![Maler](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/maler_gray.jpg "[_Quelle: Pixabay, jbooba_](https://pixabay.com/photos/man-painter-painting-worker-brush-7469738/)")<!-- style="width: 350px" -->
+![Maler](../assets/img/maler_gray.jpg "[_Quelle: Pixabay, jbooba_](https://pixabay.com/photos/man-painter-painting-worker-brush-7469738/)")<!-- style="width: 350px" -->
 
 </div>
 </section>
@@ -190,5 +190,5 @@ Ordnen Sie die angegebenen Werkzeuge und Materialien richtig zu.\
 
 
 <center>
-![Jubel](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")
+![Jubel](../assets/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")
 </center>

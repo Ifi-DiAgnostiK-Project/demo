@@ -16,7 +16,7 @@ edit: true
 
 date: 2025-07-21
 
-logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/heizungsrohre.jpg
+logo: ../assets/img/heizungsrohre.jpg
 icon: ../assets/img/Logo_234px.png
 
 import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
@@ -63,10 +63,10 @@ Bearbeitungsverfahren fachbezogener Rohrwerkstoffe
 
 </div>
 <div class="flex-child">
-![Heizungsrohre](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/heizungsrohre.jpg) <!-- style="height: 300px" -->
+![Heizungsrohre](../assets/img/heizungsrohre.jpg) <!-- style="height: 300px" -->
 </div>
 <div class="flex-child">
-![HWK SHK-Raum](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/shkraum.jpg) <!-- style="height: 300px" -->
+![HWK SHK-Raum](../assets/img/shkraum.jpg) <!-- style="height: 300px" -->
 
 </div>
 </section>
@@ -85,7 +85,7 @@ _Bild links: Pixabay; Bild rechts: GKZ_
 
 
 
-![SHK_Werkzeugkasten](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/werkzeugkasten.jpg)<!-- style="width: 700px" -->
+![SHK_Werkzeugkasten](../assets/img/werkzeugkasten.jpg)<!-- style="width: 700px" -->
 
 
 
@@ -200,7 +200,7 @@ $\pi$ $\text{=}$ $3,14$
 
 
 <!-- style="width: 350px;" -->
-![Kreis mit Durchmesser](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/KreismitDurchmesser.png)
+![Kreis mit Durchmesser](../assets/img/KreismitDurchmesser.png)
 
 _Quelle: https://lernarchiv.bildung.hessen.de/sek/mathematik/geometrie/kreis/kreiszahl_pi/lernpfad_pi/index.html _
 

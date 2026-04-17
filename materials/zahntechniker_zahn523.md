@@ -52,7 +52,7 @@ Wir wünschen Ihnen viel Erfolg beim Beantworten der Fragen!
 <center>
 
 
-![Zahntechnikerin](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/zahntechniker_et_work.jpg "[_Quelle: Pixabay, Ri-Ya_](https://pixabay.com/photos/dental-lab-models-dental-crowns-7660684/)")<!-- style="width: 500px" -->
+![Zahntechnikerin](../assets/img/zahntechniker_et_work.jpg "[_Quelle: Pixabay, Ri-Ya_](https://pixabay.com/photos/dental-lab-models-dental-crowns-7660684/)")<!-- style="width: 500px" -->
 
 </center>
 
@@ -93,7 +93,7 @@ Ordnen Sie den Zahlen 1 - 6 im Bild den jeweils richtigen Fachbegriff zu.
 </div>
 <div class="flex-child" style="margin-top:100px;">
 
-![Primärteleskop](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/krone_w_points.png " _Quelle: HWK Dresden, Alexander Meiwald_")<!-- style="max-width: 550px; width: 100%" -->
+![Primärteleskop](../assets/img/krone_w_points.png " _Quelle: HWK Dresden, Alexander Meiwald_")<!-- style="max-width: 550px; width: 100%" -->
 
 
 </div>
@@ -122,7 +122,7 @@ Welche Fügetechnik gibt es in der Zahntechnik NICHT?
 
 <center>
 
-![kleine Zahnarbeiter](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/zaehne_und_maennl.jpg "[_Quelle: Pixabay, Vilkasss_](https://pixabay.com/illustrations/ai-generated-teeth-dental-miniature-9431605/)")<!-- style="width: 500px" -->
+![kleine Zahnarbeiter](../assets/img/zaehne_und_maennl.jpg "[_Quelle: Pixabay, Vilkasss_](https://pixabay.com/illustrations/ai-generated-teeth-dental-miniature-9431605/)")<!-- style="width: 500px" -->
 
 </center>
 
@@ -144,7 +144,7 @@ Welcher Fachbegriff bezeichnet eine zahntechnische Klebeverbindung?
 </div>
 <div class="flex-child-0">
 
-![Fragezeichen](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/fragezeichen2.jpg"                         _Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 250px; width: 100%" -->
+![Fragezeichen](../assets/img/fragezeichen2.jpg"                         _Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 250px; width: 100%" -->
 
 </div>
 </section>
@@ -244,7 +244,7 @@ $\boxed{W_M \approx 10{,}04\,\text{g}}$
 </div>
 <div class="flex-child-0">
 
-![Fragezeichen](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/fragezeichen.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 200px; width: 100%" -->
+![Fragezeichen](../assets/img/fragezeichen.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 200px; width: 100%" -->
 
 </div>
 </section>
@@ -269,7 +269,7 @@ Welche Werkstoffe werden üblicherweise in der Zahntechnik für die Teleskoptech
 </div>
 <div class="flex-child-1">
 
-![Zahntechnikerin](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/worker_et_krone.jpg "[_Quelle: Pixabay, ExplorerBob_](https://pixabay.com/photos/adult-woman-medicine-people-3264741/)")<!-- style="max-width: 200px; width: 100%" -->
+![Zahntechnikerin](../assets/img/worker_et_krone.jpg "[_Quelle: Pixabay, ExplorerBob_](https://pixabay.com/photos/adult-woman-medicine-people-3264741/)")<!-- style="max-width: 200px; width: 100%" -->
 
 
 </div>
@@ -280,5 +280,5 @@ Welche Werkstoffe werden üblicherweise in der Zahntechnik für die Teleskoptech
 
 
 <center>
-![Jubel](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")
+![Jubel](../assets/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")
 </center>

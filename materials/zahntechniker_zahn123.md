@@ -13,7 +13,7 @@ narrator: Deutsch Male
 edit: true
 date: 2025-10-13
 icon: ../assets/img/Logo_234px.png
-logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/bracket_closeup.jpg
+logo: ../assets/img/bracket_closeup.jpg
 
 attribute: image by pixabay https://pixabay.com/de/photos/zahnarzt-kieferorthop%C3%A4die-542252/
 
@@ -49,7 +49,7 @@ Wir wünschen Ihnen viel Erfolg beim Beantworten der Fragen!
 <center>
 
 
-![Zahnspange](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/bracket_closeup.jpg "[_Quelle: Pixabay, guentherbraun0_](https://pixabay.com/de/photos/zahnarzt-kieferorthop%C3%A4die-542252/)")<!-- style="width: 400px" -->
+![Zahnspange](../assets/img/bracket_closeup.jpg "[_Quelle: Pixabay, guentherbraun0_](https://pixabay.com/de/photos/zahnarzt-kieferorthop%C3%A4die-542252/)")<!-- style="width: 400px" -->
 
 </center>
 
@@ -149,7 +149,7 @@ Ordnen Sie den Zahlen 1 - 6 im Bild den jeweils richtigen Fachbegriff zu.
 </div>
 <div class="flex-child-0">
 
-![Gebogene Klammer](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/zahn-draht-schematisch.png "                                             _Quelle: HWK Dresden, Alexander Meiwald_")<!-- style="max-width: 350px; width: 100%" -->
+![Gebogene Klammer](../assets/img/zahn-draht-schematisch.png "                                             _Quelle: HWK Dresden, Alexander Meiwald_")<!-- style="max-width: 350px; width: 100%" -->
 
 
 </div>
@@ -186,7 +186,7 @@ Ordnen Sie den Zahlen 1 - 4 im Bild den jeweils richtigen Fachbegriff zu.
 </div>
 <div class="flex-child-0">
 
-![aktive Platte](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/rainbow_bracket.png "_Quelle: HWK Dresden, Alexander Meiwald_")<!-- style="max-width: 350px; width: 100%" -->
+![aktive Platte](../assets/img/rainbow_bracket.png "_Quelle: HWK Dresden, Alexander Meiwald_")<!-- style="max-width: 350px; width: 100%" -->
 
 
 </div>
@@ -228,7 +228,7 @@ An oberster Stelle seht der erste Arbeitsschritt.
 </div>
 <div class="flex-child-0">
 
-![Fragezeichen](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/fragezeichen.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 200px; width: 100%" -->
+![Fragezeichen](../assets/img/fragezeichen.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 200px; width: 100%" -->
 
 
 </div>
@@ -260,7 +260,7 @@ Welche Aussagen treffen auf Interimsprothesen (Sofortprothesen) zu?
 <center>
 
 
-![Zahnspange](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/bracket_yellow.jpg"_Quelle: Pixabay, guentherbraun0_")<!-- style="max-width: 350px; width: 100%" -->
+![Zahnspange](../assets/img/bracket_yellow.jpg"_Quelle: Pixabay, guentherbraun0_")<!-- style="max-width: 350px; width: 100%" -->
 
 
 </center>
@@ -270,5 +270,5 @@ Welche Aussagen treffen auf Interimsprothesen (Sofortprothesen) zu?
 
 
 <center>
-![Jubel](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")
+![Jubel](../assets/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")
 </center>

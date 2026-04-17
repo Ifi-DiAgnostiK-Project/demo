@@ -13,7 +13,7 @@ narrator: Deutsch Female
 edit: true
 date: 2025-12-11
 icon: ../assets/img/Logo_234px.png
-logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/bauwerk_schichten.jpg
+logo: ../assets/img/bauwerk_schichten.jpg
 
 attribute: https://de.freepik.com/fotos-kostenlos/im-modernen-stil-haus-im-bau_997935.htm#fromView=keyword&page=2&position=46&uuid=e3d1e428-80f1-4fcc-b9e4-1cd4e3b5de48&query=Waermedaemmung
 
@@ -74,7 +74,7 @@ Wir wünschen Ihnen viel Erfolg beim Beantworten der Fragen!
 <br> <br>
 <center>
 
-![Aufbau WDVS](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/bauwerk_schichten.jpg "[_Quelle: energie-experten.org, Grafik: Südwest_](https://www.energie-experten.org/bauen-und-sanieren/daemmung/wdvs/aufbau#fancy_group_6844)")<!-- style="max-width: 550px; width: 100%" -->
+![Aufbau WDVS](../assets/img/bauwerk_schichten.jpg "[_Quelle: energie-experten.org, Grafik: Südwest_](https://www.energie-experten.org/bauen-und-sanieren/daemmung/wdvs/aufbau#fancy_group_6844)")<!-- style="max-width: 550px; width: 100%" -->
 
 </center>
 
@@ -197,7 +197,7 @@ data-solution-button="off"
 </div>
 <div class="flex-child" style="margin-top:100px;">
 
-![Aufbau WDVS](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/bauwerk_schichten_nr.png "[_Quelle: energie-experten.org, Grafik: Südwest_](https://www.energie-experten.org/bauen-und-sanieren/daemmung/wdvs/aufbau#fancy_group_6844)")<!-- style="max-width: 550px; width: 100%" -->
+![Aufbau WDVS](../assets/img/bauwerk_schichten_nr.png "[_Quelle: energie-experten.org, Grafik: Südwest_](https://www.energie-experten.org/bauen-und-sanieren/daemmung/wdvs/aufbau#fancy_group_6844)")<!-- style="max-width: 550px; width: 100%" -->
 
 
 </div>
@@ -242,7 +242,7 @@ Es soll berechnet werden, wie viel Kleber/Armierungsmörtel und Strukturputz K 2
 <br> <br>
 <center>
 
-![Hausberechnung](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/haus_klimaqualitaet.jpg "[_Quelle: Designed bey Freepik, kjpargeter_](https://de.freepik.com/fotos-kostenlos/im-modernen-stil-haus-im-bau_997935.htm#fromView=keyword&page=2&position=46&uuid=e3d1e428-80f1-4fcc-b9e4-1cd4e3b5de48&query=Waermedaemmung)")<!-- style="max-width: 550px; width: 100%" -->
+![Hausberechnung](../assets/img/haus_klimaqualitaet.jpg "[_Quelle: Designed bey Freepik, kjpargeter_](https://de.freepik.com/fotos-kostenlos/im-modernen-stil-haus-im-bau_997935.htm#fromView=keyword&page=2&position=46&uuid=e3d1e428-80f1-4fcc-b9e4-1cd4e3b5de48&query=Waermedaemmung)")<!-- style="max-width: 550px; width: 100%" -->
 
 </center>
 
@@ -399,7 +399,7 @@ data-solution-button="off"
 </div>
 <div class="flex-child">
 
-![Painter](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/maler_mini_blau.jpg "[_Quelle: Pixabay, Alexas_Fotos_](https://pixabay.com/de/illustrations/maler-streichen-arbeit-figur-1162563/)")<!-- style="max-width: 350px; width: 100%" -->
+![Painter](../assets/img/maler_mini_blau.jpg "[_Quelle: Pixabay, Alexas_Fotos_](https://pixabay.com/de/illustrations/maler-streichen-arbeit-figur-1162563/)")<!-- style="max-width: 350px; width: 100%" -->
 
 
 </div>
@@ -433,7 +433,7 @@ data-solution-button="off"
 <br>
 <center>
 
-![Fragezeichen](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/question_maennl.jpg "[_Quelle: Pixabay, Peggy+Marco_](https://pixabay.com/photos/question-question-mark-help-2309042/)")<!-- style="max-width: 300px; width: 100%" -->
+![Fragezeichen](../assets/img/question_maennl.jpg "[_Quelle: Pixabay, Peggy+Marco_](https://pixabay.com/photos/question-question-mark-help-2309042/)")<!-- style="max-width: 300px; width: 100%" -->
 
 </center>
 
@@ -463,7 +463,7 @@ data-solution-button="off"
 </div>
 <div class="flex-child">
 
-![Maler](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/maler_gray.jpg "[_Quelle: Pixabay, jbooba_](https://pixabay.com/photos/man-painter-painting-worker-brush-7469738/)")<!-- style="max-width: 300px; width: 100%" -->
+![Maler](../assets/img/maler_gray.jpg "[_Quelle: Pixabay, jbooba_](https://pixabay.com/photos/man-painter-painting-worker-brush-7469738/)")<!-- style="max-width: 300px; width: 100%" -->
 
 
 </div>
@@ -497,10 +497,10 @@ data-solution-button="off"
 <br>
 <center>
 
-![Malerwerkzeug](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/maler_utensilien.jpg "[_Quelle: Pixabay, DoroLucia_](https://pixabay.com/de/photos/farbrolle-maler-streichen-lackieren-722477/)")<!-- style="max-width: 500px; width: 100%" -->
+![Malerwerkzeug](../assets/img/maler_utensilien.jpg "[_Quelle: Pixabay, DoroLucia_](https://pixabay.com/de/photos/farbrolle-maler-streichen-lackieren-722477/)")<!-- style="max-width: 500px; width: 100%" -->
 
 </center>
 
 ## Geschafft 🎉
 
-![Jubel](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")
+![Jubel](../assets/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")

@@ -17,7 +17,7 @@ tags:      Maler,
            Grundkurs
 
 icon:      ../assets/img/Logo_234px.png
-logo:      https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/farben.jpg
+logo:      ../assets/img/farben.jpg
 
 attribute: Title Image by Pixabay, Darkmoon Art
 
@@ -67,7 +67,7 @@ Wie nennt man dieses Werkzeug?
 </div>
 <div class="flex-child">
 
-![Abreißblech](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/spachtel.jpg)<!-- style="width: 350px" -->
+![Abreißblech](../assets/img/spachtel.jpg)<!-- style="width: 350px" -->
 
 </div>
 </section>
@@ -91,7 +91,7 @@ Wie nennt man dieses Werkzeug?
 </div>
 <div class="flex-child">
 
-![Tapezierbürste](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/buerste.jpg)<!-- style="width: 250px" -->
+![Tapezierbürste](../assets/img/buerste.jpg)<!-- style="width: 250px" -->
 
 </div>
 </section>
@@ -113,7 +113,7 @@ Wie nennt man dieses Werkzeug?
 </div>
 <div class="flex-child">
 
-![Schraegstrichzieher](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/kleiner_pinsel.jpg)<!-- style="width: 350px" -->
+![Schraegstrichzieher](../assets/img/kleiner_pinsel.jpg)<!-- style="width: 350px" -->
 
 </div>
 </section>
@@ -150,7 +150,7 @@ An oberster Stelle steht der erste Arbeitsschritt.
 <br>
 <br>
 
-![Maler_lustig](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/maler_mini_holzwand.jpg"                                                                           [_Quelle: Pixabay, Ralphs-Fotos_](https://pixabay.com/de/photos/maler-malerei-lackierer-3177366/)")<!-- style="width: 500px" -->
+![Maler_lustig](../assets/img/maler_mini_holzwand.jpg"                                                                           [_Quelle: Pixabay, Ralphs-Fotos_](https://pixabay.com/de/photos/maler-malerei-lackierer-3177366/)")<!-- style="width: 500px" -->
 
 
 </div>
@@ -183,7 +183,7 @@ An oberster Stelle steht der erste Arbeitsschritt.
 <br>
 <br>
 
-![Maler_lustig](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/maler_mini.jpg"                                                                           [_Quelle: Pixabay, Alexas-Fotos_](https://pixabay.com/photos/painter-to-brush-work-figure-1116746/)")<!-- style="width: 500px" -->
+![Maler_lustig](../assets/img/maler_mini.jpg"                                                                           [_Quelle: Pixabay, Alexas-Fotos_](https://pixabay.com/photos/painter-to-brush-work-figure-1116746/)")<!-- style="width: 500px" -->
 
 
 </div>
@@ -216,7 +216,7 @@ An oberster Stelle steht der erste Arbeitsschritt.
 <br>
 <br>
 
-![Maler_lustig](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/maler_mini_back.jpg"                                                                           [_Quelle: Pixabay, Alexas-Fotos_](https://pixabay.com/photos/painter-to-brush-work-figure-1116763/)")<!-- style="width: 500px" -->
+![Maler_lustig](../assets/img/maler_mini_back.jpg"                                                                           [_Quelle: Pixabay, Alexas-Fotos_](https://pixabay.com/photos/painter-to-brush-work-figure-1116763/)")<!-- style="width: 500px" -->
 
 
 </div>
@@ -277,7 +277,7 @@ Mit welchen Methoden kann die Haftfestigkeit alter Anstriche geprüft werden?
 </div>
 <div class="flex-child">
 
-![Fragezeichen](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/fragezeichen.jpg"                         _Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 250px; width: 100%" -->
+![Fragezeichen](../assets/img/fragezeichen.jpg"                         _Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 250px; width: 100%" -->
 
 </div>
 </section>
@@ -302,7 +302,7 @@ Wie prüft man am besten die Saugfähigkeit eines Untergrunds?
 </div>
 <div class="flex-child-3">
 
-![Untergrund](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/putz.jpg"                          _Quelle: Pixabay, geralt_")<!-- style="max-width: 350px; width: 100%" -->
+![Untergrund](../assets/img/putz.jpg"                          _Quelle: Pixabay, geralt_")<!-- style="max-width: 350px; width: 100%" -->
 
 </div>
 </section>
@@ -330,7 +330,7 @@ Wann ist eine Feuchtigkeitsprüfung sinnvoll?
 </div>
 <div class="flex-child-1">
 
-![Wand streichen](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/malerrolle.jpg "_Quelle: Pixabay, Giordano_")<!-- style="max-width: 350px; width: 100%" -->
+![Wand streichen](../assets/img/malerrolle.jpg "_Quelle: Pixabay, Giordano_")<!-- style="max-width: 350px; width: 100%" -->
 
 </div>
 </section>
@@ -362,7 +362,7 @@ Welche Prüfgeräte oder Hilfsmittel werden häufig bei Untergrundprüfungen im 
 <br>
 <br>
 
-![Malerzeugs](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/malerrollen_fensterbrett.jpg "[_Quelle: Pixabay, stux_](https://pixabay.com/photos/renovate-painting-work-painting-1186334/)")<!-- style="max-width: 400px; width: 100%" -->
+![Malerzeugs](../assets/img/malerrollen_fensterbrett.jpg "[_Quelle: Pixabay, stux_](https://pixabay.com/photos/renovate-painting-work-painting-1186334/)")<!-- style="max-width: 400px; width: 100%" -->
 
 </div>
 </section>
@@ -370,4 +370,4 @@ Welche Prüfgeräte oder Hilfsmittel werden häufig bei Untergrundprüfungen im 
 
 ## Geschafft 🎉
 
-![Jubel](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")
+![Jubel](../assets/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")

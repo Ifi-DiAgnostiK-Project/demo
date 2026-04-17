@@ -48,7 +48,7 @@ Wir wünschen Ihnen viel Erfolg und Spaß beim Beantworten der Fragen!
 <center>
 
 
-![Modellguss](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/bruecke_old.jpeg "[_Quelle: Wikipedia, Von www.dr-horn.com_, CC BY-SA 3.0](https://de.wikipedia.org/wiki/Modellgussprothese)")<!-- style="width: 600px" -->
+![Modellguss](../assets/img/bruecke_old.jpeg "[_Quelle: Wikipedia, Von www.dr-horn.com_, CC BY-SA 3.0](https://de.wikipedia.org/wiki/Modellgussprothese)")<!-- style="width: 600px" -->
 
 </center>
 
@@ -75,7 +75,7 @@ Wir wünschen Ihnen viel Erfolg und Spaß beim Beantworten der Fragen!
 <center>
 
 
-![Zähne mit Männeln](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/arbeiter_an_gebiss.jpg"_Quelle: Pixabay, Marco Federmann_")<!-- style="max-width: 300px; width: 100%" -->
+![Zähne mit Männeln](../assets/img/arbeiter_an_gebiss.jpg"_Quelle: Pixabay, Marco Federmann_")<!-- style="max-width: 300px; width: 100%" -->
 
 </center>
 
@@ -103,7 +103,7 @@ Welche Art der Klammergestaltung sollte hier genutzt werden?
 <div class="flex-child-0">
 
 
-![Sattelferne Unterstützung](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/keine_vorderzähne.jpg"_              Quelle: HWK Dresden, Alexander Meiwald_")<!-- style="max-width: 300px; width: 100%" -->
+![Sattelferne Unterstützung](../assets/img/keine_vorderzähne.jpg"_              Quelle: HWK Dresden, Alexander Meiwald_")<!-- style="max-width: 300px; width: 100%" -->
 
 
 </div>
@@ -131,7 +131,7 @@ Welche Art der Klammergestaltung sollte hier genutzt werden?
 <div class="flex-child-0">
 
 
-![Sattelnahe Abstützung](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/zahnluecke.jpg"_              Quelle: HWK Dresden, Alexander Meiwald_")<!-- style="max-width: 300px; width: 100%" -->
+![Sattelnahe Abstützung](../assets/img/zahnluecke.jpg"_              Quelle: HWK Dresden, Alexander Meiwald_")<!-- style="max-width: 300px; width: 100%" -->
 
 
 </div>
@@ -165,7 +165,7 @@ Welche Art der Klammergestaltung sollte hier genutzt werden?
 <center>
 
 
-![Fragezeichen](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/fragezeichen.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 200px; width: 100%" -->
+![Fragezeichen](../assets/img/fragezeichen.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 200px; width: 100%" -->
 
 <!-- style="max-width: 300px; width: 100%" -->
 
@@ -221,12 +221,12 @@ Das Mischungsverhältnis beträgt 80%.
 </div>
 <div class="flex-child">
 
-![Sheraliquid](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/bego_einbettmasse_fluessigkeit.jpg"_       Quelle: HWK Dresden_")<!-- style="max-width: 150px; width: 100%" -->
+![Sheraliquid](../assets/img/bego_einbettmasse_fluessigkeit.jpg"_       Quelle: HWK Dresden_")<!-- style="max-width: 150px; width: 100%" -->
 
 </div>
 <div class="flex-child">
 
-![Einbettmasse](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/chipstuete.jpg"_       Quelle: HWK Dresden_")<!-- style="max-width: 150px; width: 100%" -->
+![Einbettmasse](../assets/img/chipstuete.jpg"_       Quelle: HWK Dresden_")<!-- style="max-width: 150px; width: 100%" -->
 
 
 </div>
@@ -275,5 +275,5 @@ x  ml =  80% = 0,8
 
 
 <center>
-![Jubel](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")
+![Jubel](../assets/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")
 </center>

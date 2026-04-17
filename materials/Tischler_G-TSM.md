@@ -462,4 +462,4 @@ Die Rückenrolle muss so eingestellt werden, dass sie sich nur bei belastetem Ba
 
 ## Geschafft 🎉
 
-![Jubel](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")
+![Jubel](../assets/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")

@@ -44,7 +44,7 @@ Sie haben in den letzten Tagen den Herstellungsprozess sowie die Arbeits- und Hi
 
 ---------------
 
-![Zahnersatz](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/unterkiefer_ansicht.jpg)<!-- style="width: 700px" -->
+![Zahnersatz](../assets/img/unterkiefer_ansicht.jpg)<!-- style="width: 700px" -->
 
 _Quelle: Pixabay, dental-inno_
 
@@ -83,7 +83,7 @@ Biokompatible Materialien in der Zahntechnik sind besonders wichtig, weil sie im
 
 </div>
 <div class="flex-child-2 center">
-![Implantate](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/zahnersatz.jpg"_Quelle: Pixabay, Emergency Denture Repair_")<!-- style="max-width: 300px; width: 100%" -->
+![Implantate](../assets/img/zahnersatz.jpg"_Quelle: Pixabay, Emergency Denture Repair_")<!-- style="max-width: 300px; width: 100%" -->
 
 </div>
 </section>
@@ -179,7 +179,7 @@ Welche Verbindungsarten in der zahntechnischen Anwendungen sind richtig benannt?
 
 </div>
 <div class="flex-child-2 center">
-![Dentist](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/arbeiter_an_krone.jpg"_Quelle: Pixabay, wir-sind-klein_")<!-- style="max-width: 300px; width: 100%" -->
+![Dentist](../assets/img/arbeiter_an_krone.jpg"_Quelle: Pixabay, wir-sind-klein_")<!-- style="max-width: 300px; width: 100%" -->
 
 </div>
 </section>
@@ -233,7 +233,7 @@ Welche Lote werden in der Zahntechnik unterschieden?
 
 </div>
 <div class="flex-child-2 center">
-![Fragezeichen](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/fragezeichen.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 200px; width: 100%" -->
+![Fragezeichen](../assets/img/fragezeichen.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 200px; width: 100%" -->
 
 </div>
 </section>
@@ -272,7 +272,7 @@ Welche Lote werden in der Zahntechnik unterschieden?
 
 </div>
 <div class="flex-child-2 center">
-![Fragezeichen](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/fragezeichen.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 200px; width: 100%" -->
+![Fragezeichen](../assets/img/fragezeichen.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 200px; width: 100%" -->
 
 </div>
 </section>
@@ -320,7 +320,7 @@ Ziehe die richtigen Antworten in das Feld.
 
 </div>
 <div class="flex-child-2 center">
-![Zähne](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/arbeiter_an_gebiss.jpg "_Quelle: Pixabay, marcofedermann_")<!-- style="max-width: 300px; width: 100%" -->
+![Zähne](../assets/img/arbeiter_an_gebiss.jpg "_Quelle: Pixabay, marcofedermann_")<!-- style="max-width: 300px; width: 100%" -->
 
 </div>
 </section>
@@ -398,7 +398,7 @@ Ziehe die richtigen Antworten in das Feld.
 
 </div>
 <div class="flex-child-2 center">
-![Gasflaschen](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/fuenf_feuerloescher.jpg"_Quelle: Pixabay, Foto-Rabe_")<!-- style="max-width: 300px; width: 100%" -->
+![Gasflaschen](../assets/img/fuenf_feuerloescher.jpg"_Quelle: Pixabay, Foto-Rabe_")<!-- style="max-width: 300px; width: 100%" -->
 
 </div>
 </section>
@@ -500,7 +500,7 @@ Ziehe die richtigen Antworten in das Feld.
 
 </div>
 <div class="flex-child-2 center">
-![Arbeitsschutzzeichen](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/schilder_an_zaun.jpg"_Quelle: Pixabay, planet fox_")<!-- style="max-width: 300px; width: 100%" -->
+![Arbeitsschutzzeichen](../assets/img/schilder_an_zaun.jpg"_Quelle: Pixabay, planet fox_")<!-- style="max-width: 300px; width: 100%" -->
 
 </div>
 </section>
@@ -509,5 +509,5 @@ Ziehe die richtigen Antworten in das Feld.
 
 
 <center>
-![Jubel](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")
+![Jubel](../assets/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")
 </center>

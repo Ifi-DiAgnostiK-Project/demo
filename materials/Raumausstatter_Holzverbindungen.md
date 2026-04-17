@@ -302,4 +302,4 @@ Ordnen Sie die folgenden Aussagen in "richtig" und "falsch" ein.
 
 ## Geschafft 🎉
 
-![Jubel](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")
+![Jubel](../assets/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")

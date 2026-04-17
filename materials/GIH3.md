@@ -60,10 +60,10 @@ Elektrotechnik und deren Sicherheitsmaßnahmen
 
 </div>
 <div class="flex-child">
-![Hochspannungswarnung](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/warning_sign_current.jpg) <!-- style="width: 550px" -->
+![Hochspannungswarnung](../assets/img/warning_sign_current.jpg) <!-- style="width: 550px" -->
 </div>
 <div class="flex-child">
-![Schaltkasten](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/fuses.jpg) <!-- style="width: 550px" -->
+![Schaltkasten](../assets/img/fuses.jpg) <!-- style="width: 550px" -->
 
 </div>
 </section>
@@ -92,7 +92,7 @@ Welche Aufgabe hat eine Sicherung?   🤔
 
 </div>
 <div class="flex-child" style="min-width: 150px">
-![Sicherungen](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/fuses.jpg)<!-- style="width: 250px" -->
+![Sicherungen](../assets/img/fuses.jpg)<!-- style="width: 250px" -->
 
 
 <a  href="https://pixabay.com/de/photos/sicherung-sicher-strom-elektrizit%C3%A4t-631745/" target=_blank>Quelle: Rabe-Foto, Pixabay</a>
@@ -117,7 +117,7 @@ Was brauchen Sie als zusätzliche PSA beim Ziehen von NH-Sicherungen?   🤔
 
 </div>
 <div class="flex-child" style="min-width: 150px">
-![ClipArt_Sicherung](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/stromschlag.jpg)<!-- style="width: 150px" -->
+![ClipArt_Sicherung](../assets/img/stromschlag.jpg)<!-- style="width: 150px" -->
 
 
 <a  href="https://pixabay.com/de/vectors/elektrische-sicherung-sicherung-155785/" target=_blank>Quelle: OpenClipart-Vectors, Pixabay</a>
@@ -163,13 +163,13 @@ Was bedeutet dieses Symbol?   🤔
 <div style="padding-top:3rem;">
 </div>
 <div class="flex-child">
-![Schutzklasse II](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/schutzklasse2.jpg)<!-- style="width: 150px" -->
+![Schutzklasse II](../assets/img/schutzklasse2.jpg)<!-- style="width: 150px" -->
 </div>
 <div class="flex-child">
-![Schutzklasse I](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/earth.jpg)<!-- style="width: 150px" -->
+![Schutzklasse I](../assets/img/earth.jpg)<!-- style="width: 150px" -->
 </div>
 <div class="flex-child">
-![Schutzklasse III](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/schutzklasse3.jpg)<!-- style="width: 150px" -->
+![Schutzklasse III](../assets/img/schutzklasse3.jpg)<!-- style="width: 150px" -->
 </div>
 </section>
 
@@ -210,7 +210,7 @@ Wie viele Prüfvorgänge zum Feststellen der Spannungsfreiheit sind hier nötig?
 
 </div>
 <div class="flex-child" style="min-width: 150px">
-![Spannungsfreiheit](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/test_for_current.jpg)<!-- style="width: 350px" -->
+![Spannungsfreiheit](../assets/img/test_for_current.jpg)<!-- style="width: 350px" -->
 
 
 <a  href="https://pixabay.com/de/photos/sicherung-sicher-strom-elektrizit%C3%A4t-631745/" target=_blank>_Quelle: BG ETEM_</a>
@@ -277,7 +277,7 @@ Welche Aussagen zu Reihen- und Parallelschaltungen von Widerständen sind korrek
 </div>
 
 <div class="flex-child" style="min-width: 150px">
-![Symbol Schaltkreis](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/resistor.png)<!-- style="width: 400px" -->
+![Symbol Schaltkreis](../assets/img/resistor.png)<!-- style="width: 400px" -->
 
 
 <a  href="https://pixabay.com/de/vectors/schaltkreis-symbol-elektronik-146512/" target=_blank>Quelle: Pixabay; OpenClipart-Vectors</a>
@@ -330,7 +330,7 @@ Dazu gehören, z. B.:
 
 </div>
 <div class="flex-child" style="min-width: 150px">
-![SHK-Experte](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/arbeitsschutz.jpg)<!-- style="width: 500px" -->
+![SHK-Experte](../assets/img/arbeitsschutz.jpg)<!-- style="width: 500px" -->
 
 _Quelle: generiert durch DALL-E von OpenAI
 
@@ -359,7 +359,7 @@ _Quelle: generiert durch DALL-E von OpenAI
 
 </div>
 <div class="flex-child" style="min-width: 150px">
-![NH-Sicherung](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/correct_fuse_remove.jpg)<!-- style="width: 250px" -->
+![NH-Sicherung](../assets/img/correct_fuse_remove.jpg)<!-- style="width: 250px" -->
 
 
 <a  href="https://www.vbg.de/zeitarbeit-fb/infos/89_szn/" target=_blank>Alle Bilder: VBG</a>
@@ -382,7 +382,7 @@ _Quelle: generiert durch DALL-E von OpenAI
 
 </div>
 <div class="flex-child" style="min-width: 150px">
-![Bauleuchte](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/lamp.jpg)<!-- style="width: 150px" -->
+![Bauleuchte](../assets/img/lamp.jpg)<!-- style="width: 150px" -->
 
 
 </div>
@@ -404,7 +404,7 @@ _Quelle: generiert durch DALL-E von OpenAI
 
 </div>
 <div class="flex-child" style="min-width: 150px">
-![Sicherungskasten](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/pointy_finger_to_fuses.jpg)<!-- style="width: 150px" -->
+![Sicherungskasten](../assets/img/pointy_finger_to_fuses.jpg)<!-- style="width: 150px" -->
 
 
 </div>
@@ -433,7 +433,7 @@ _Quelle: generiert durch DALL-E von OpenAI
 
 </div>
 <div class="flex-child" style="min-width: 150px">
-![Baustromkasten](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/external_steckdosen_kaseten.jpg)<!-- style="width: 150px" -->
+![Baustromkasten](../assets/img/external_steckdosen_kaseten.jpg)<!-- style="width: 150px" -->
 
 <a  href="https://www.vbg.de/zeitarbeit-fb/infos/89_szn/" target=_blank>Alle Bilder: VBG</a>
 
@@ -455,7 +455,7 @@ _Quelle: generiert durch DALL-E von OpenAI
 
 </div>
 <div class="flex-child" style="min-width: 150px">
-![Arbeiten_unter_Spannung](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/blanket_current.jpg)<!-- style="width: 150px" -->
+![Arbeiten_unter_Spannung](../assets/img/blanket_current.jpg)<!-- style="width: 150px" -->
 
 
 </div>
@@ -476,7 +476,7 @@ _Quelle: generiert durch DALL-E von OpenAI
 
 </div>
 <div class="flex-child" style="min-width: 150px">
-![Elekro-Werkzeug](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/diverse_tools.jpg)<!-- style="width: 150px" -->
+![Elekro-Werkzeug](../assets/img/diverse_tools.jpg)<!-- style="width: 150px" -->
 
 </div>
 </section>

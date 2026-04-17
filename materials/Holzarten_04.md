@@ -69,7 +69,7 @@ import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragA
 
 # Holzarten: Eigenschaften, Verwendung und Aussehen I
 
-![Holzstapel](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/front_wood_stack.jpg)<!-- style="width: 800px" -->
+![Holzstapel](../assets/img/front_wood_stack.jpg)<!-- style="width: 800px" -->
 
 _Quelle: Pixabay, webentwicklerin_
 

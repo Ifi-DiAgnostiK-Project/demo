@@ -14,7 +14,7 @@ comment:  Goldener Schnitt -- Kurzversion
 
 edit: true
 date: 2025-07-08
-logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/da_vinci.png
+logo: ../assets/img/da_vinci.png
 icon: ../assets/img/Logo_234px.png
 
 import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
@@ -52,9 +52,9 @@ title: Goldener Schnitt -- Kurzversion
 
 # Der Goldene Schnitt
 
-![Da Vinci](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/da_vinci.png "_Quelle:_ Da Vinci Vitruve Luc Viatour 2.svg; Wikipedia;")
+![Da Vinci](../assets/img/da_vinci.png "_Quelle:_ Da Vinci Vitruve Luc Viatour 2.svg; Wikipedia;")
 
-![Illustration Goldener Schnitt](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/goldener_schnitt_illustration.png "_Quelle:_ Generiert von Dall-E 3, An OpenAI Model, 2025")<!-- style="width: 400px;" -->
+![Illustration Goldener Schnitt](../assets/img/goldener_schnitt_illustration.png "_Quelle:_ Generiert von Dall-E 3, An OpenAI Model, 2025")<!-- style="width: 400px;" -->
 
 ## Einführung
 
@@ -71,7 +71,7 @@ title: Goldener Schnitt -- Kurzversion
 <!-- style="width: 800px" -->
 
 
-![golden ratio examples](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/golden_ratio_collage.png)
+![golden ratio examples](../assets/img/golden_ratio_collage.png)
 
 _Quelle:_ Generiert von Dall-E 3, An OpenAI Model, 2025
 
@@ -132,7 +132,7 @@ Diese beiden Teile stehen im Verhältnis   __3:5__   zueinander.
 Schauen Sie sich die folgende Skizze an.
 ------------------
 
-![Deko-Schleife](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/deko_schleife.jpg "_Quelle: HWK Dresden, Frau Schmidt_")
+![Deko-Schleife](../assets/img/deko_schleife.jpg "_Quelle: HWK Dresden, Frau Schmidt_")
 
 ---
 
@@ -145,7 +145,7 @@ Lesen Sie die Breite der Gesamtschleife (Minor) ab:
 
 ### Berechnen Sie die Gesamtlänge der Schleife unter Beachtung des Verhältnisses 3 : 5.
 
-![Deko-Schleife_Major](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/schleife_major_laenge.jpg)
+![Deko-Schleife_Major](../assets/img/schleife_major_laenge.jpg)
 
 <!--style="font-size: medium;"-->__Berechnung:__
 
@@ -195,7 +195,7 @@ _Tipp: In der vorherigen Aufgabe entsprach die Breite des Schleifenkörpers der 
 
 ---
 
-![Deko-Schleife_Höhe_Schleifenkörper](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/schleife_minor_breite.jpg)
+![Deko-Schleife_Höhe_Schleifenkörper](../assets/img/schleife_minor_breite.jpg)
 
 
 <!--style="font-size: medium;"-->__Berechnung:__
@@ -245,7 +245,7 @@ Es wird von einem Verhältnis __5:8__<!--style="color:green;font-size: large"-->
 
 <section class="flex-container">
 <div class="flex-child">
-![Raffgardine](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/raffgardine.jpg)
+![Raffgardine](../assets/img/raffgardine.jpg)
 </div>
 <div class="flex-child">
 Wie breit sind die beiden größeren, nicht überlappenden Schals (Major<!--style="font-weight:bold;color:orange;"-->)?
@@ -266,7 +266,7 @@ Wie breit ist die Gardine insgesamt<!--style="font-weight:bold;color:red;"-->?
 
 ### ✏️✏️ Falls Sie noch einmal üben wollen: Hier können Sie eine weitere Dekorationsschleife berechnen
 
-![Deko-Schleife1](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/deko_schleife_masslos.jpg) <!-- style="width: 400px" -->
+![Deko-Schleife1](../assets/img/deko_schleife_masslos.jpg) <!-- style="width: 400px" -->
 
 
 

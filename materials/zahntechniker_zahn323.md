@@ -49,7 +49,7 @@ Wir wünschen Ihnen viel Erfolg beim Beantworten der Fragen!
 <center>
 
 
-![Zahnersatz](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/zahnimplantat.jpg "[_Quelle: Pixabay, muklinika_](https://pixabay.com/photos/dentistry-dentals-teeth-model-jaw-668214/)")<!-- style="width: 500px" -->
+![Zahnersatz](../assets/img/zahnimplantat.jpg "[_Quelle: Pixabay, muklinika_](https://pixabay.com/photos/dentistry-dentals-teeth-model-jaw-668214/)")<!-- style="width: 500px" -->
 
 </center>
 
@@ -88,7 +88,7 @@ Ordnen Sie den Zahlen 1 - 5 im Bild den jeweils richtigen Fachbegriff zu.
 </div>
 <div class="flex-child" style="margin-top:100px;">
 
-![Bissschablone](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/zahn_greenGumm.png "_Quelle: HWK Dresden, Alexander Meiwald_")<!-- style="max-width: 550px; width: 100%" -->
+![Bissschablone](../assets/img/zahn_greenGumm.png "_Quelle: HWK Dresden, Alexander Meiwald_")<!-- style="max-width: 550px; width: 100%" -->
 
 
 </div>
@@ -130,7 +130,7 @@ Welche Funktion hat der Camper'sche Ebene bei der Herstellung einer Vollprothese
 </div>
 <div class="flex-child-0">
 
-![Fragezeichen](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/question_maennl.jpg"                         _Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 250px; width: 100%" -->
+![Fragezeichen](../assets/img/question_maennl.jpg"                         _Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 250px; width: 100%" -->
 
 
 </div>
@@ -251,7 +251,7 @@ Welche Werte können aus einer Stützregistrierung ermittelt werden?
 </div>
 <div class="flex-child-0">
 
-![Fragezeichen](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/fragezeichen.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 200px; width: 100%" -->
+![Fragezeichen](../assets/img/fragezeichen.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 200px; width: 100%" -->
 
 </div>
 </section>
@@ -327,5 +327,5 @@ Ordnen Sie den Zahlen 1 - 6 im Bild den jeweils richtigen Fachbegriff zu.
 
 
 <center>
-![Jubel](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")
+![Jubel](../assets/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")
 </center>

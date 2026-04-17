@@ -58,7 +58,7 @@ tags:  Tischler,
 Teil 1
 =======
 
-![016_Holzstapel](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/bretter.jpg)
+![016_Holzstapel](../assets/img/bretter.jpg)
 
 _Quelle: Pixabay, antmoreton_
 

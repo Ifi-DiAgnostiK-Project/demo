@@ -47,7 +47,7 @@ tags:   Tischler,
 Teil 3
 ========
 
-![Holztextur](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/holztextur.jpg)<!-- style="width:450px" -->
+![Holztextur](../assets/img/holztextur.jpg)<!-- style="width:450px" -->
 
 _Quelle: Pixabay, Ric Evangelista_
 
@@ -117,7 +117,7 @@ _Quelle aller Holz-Abbildungen:_ _https://holzvomfach.de/fachwissen-holz/holz-ab
 </div>
 
 <div class="flex-child" style="min-width: 150px">
-![Holzparkett](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/lots_of_boards.jpg)<!-- style="width:250px" -->
+![Holzparkett](../assets/img/lots_of_boards.jpg)<!-- style="width:250px" -->
 
 <a  href="https://pixabay.com/de/photos/fu%C3%9Fboden-holz-holzbohlen-parkett-6990002/"  target=_blank>_Quelle: Pixabay, Lantaikayu-biz_</a>
 
@@ -238,7 +238,7 @@ _Quelle aller Holz-Abbildungen:_ _https://holzvomfach.de/fachwissen-holz/holz-ab
 
 ## Geschafft ! 👏
 
-![Jubel](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/colorfull_jumping.jpg)<!-- style="width: 500px" -->
+![Jubel](../assets/img/colorfull_jumping.jpg)<!-- style="width: 500px" -->
 
 
 <a  href="https://pixabay.com/de/illustrations/freude-springen-luftsprung-spa%C3%9F-3940425/" target=_blank>_Quelle: Pixabay, geralt_</a>

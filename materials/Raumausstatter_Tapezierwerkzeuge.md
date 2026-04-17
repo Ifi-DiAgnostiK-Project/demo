@@ -10,7 +10,7 @@ edit: true
 date: 2026-01-28
 
 icon: ../assets/img/Logo_234px.png
-logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/maler_werkzeug_tapetenkurs.jpg
+logo: ../assets/img/maler_werkzeug_tapetenkurs.jpg
 
 comment:  Typische Tapezierwerkzeuge - Raumausstatter: GR-06 | Maler/Lackiererhandwerk
 
@@ -96,7 +96,7 @@ Ordnen Sie die folgenden Aussagen in "richtig" und "falsch" ein.
 
 <center>
 
-![Malergeselle_mit_Werkzeug](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/e2f1b82b5bee2365d304b54b122c1227c879cdfd.jpg" [_Quelle: Freepik_](https://www.freepik.com/free-photo/high-angle-young-man-taking-break_6349572.htm)")<!-- style="max-width: 400px; width: 100%" -->
+![Malergeselle_mit_Werkzeug](../assets/img/e2f1b82b5bee2365d304b54b122c1227c879cdfd.jpg" [_Quelle: Freepik_](https://www.freepik.com/free-photo/high-angle-young-man-taking-break_6349572.htm)")<!-- style="max-width: 400px; width: 100%" -->
 
 </center>
 
@@ -235,7 +235,7 @@ Das gezeigte Werkzeug ist eine Tapezierbürste. Sie hat festere, kürzere Borste
 
 </div>
 <div class="flex-child-2 center">
-![Tapezierbürste](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/tapettenbuerste.jpg "[_Quelle: klebemeister.eu_](https://klebemeister.eu/products/tapezierburste-235x60mm)")<!-- style="max-width: 350px; width: 100%; margin-left: 20px; margin-top:10px;" -->
+![Tapezierbürste](../assets/img/tapettenbuerste.jpg "[_Quelle: klebemeister.eu_](https://klebemeister.eu/products/tapezierburste-235x60mm)")<!-- style="max-width: 350px; width: 100%; margin-left: 20px; margin-top:10px;" -->
 
 </div>
 </section>
@@ -263,9 +263,9 @@ Das gezeigte Werkzeug ist ein Tapetenabreißer, der mit seiner leicht gezackten 
 
 </div>
 <div class="flex-child-2 center">
-![Tapetenabreißer](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/zackenbrett_in_gross.png "_Quelle: HWK Dresden, Kay Deblitz_")<!--style="max-width: 350px; width: 100%; margin-left: -20px; margin-top:-100px;" -->
+![Tapetenabreißer](../assets/img/zackenbrett_in_gross.png "_Quelle: HWK Dresden, Kay Deblitz_")<!--style="max-width: 350px; width: 100%; margin-left: -20px; margin-top:-100px;" -->
 
-![Detail_Tapetenabreißer](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/zackenbrett_fuer_raumausstatter.png)<!--style="max-width: 200px; width: 100%;  margin-top:-100px;" -->
+![Detail_Tapetenabreißer](../assets/img/zackenbrett_fuer_raumausstatter.png)<!--style="max-width: 200px; width: 100%;  margin-top:-100px;" -->
 
 </div>
 </section>
@@ -318,7 +318,7 @@ Das gezeigte Werkzeug ist eine Igel- oder Perforationswalze zum Entfernen von Ta
 
 </div>
 <div class="flex-child-2 center">
-![Igelwalze](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/Igelwalze_KD.png "_Quelle: HWK Dresden, Kay Deblitz_")<!-- style="max-width: 350px; width: 100%; margin-left: 20px; margin-top:30px;" -->
+![Igelwalze](../assets/img/Igelwalze_KD.png "_Quelle: HWK Dresden, Kay Deblitz_")<!-- style="max-width: 350px; width: 100%; margin-left: 20px; margin-top:30px;" -->
 
 </div>
 </section>
@@ -346,7 +346,7 @@ Die elektrischen Anschlüsse sind stromlos zu schalten = Ausschalten aller Siche
 
 </div>
 <div class="flex-child-2 center">
-![nachdenkender_Malerlehrling](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/arschidegt.jpg "[_Quelle: Freepik_](https://www.freepik.com/free-photo/front-view-young-man-thinking-with-copy-space_6349578.htm)")<!-- style="max-width: 350px; width: 100%; margin-left: 20px; margin-top:30px;" -->
+![nachdenkender_Malerlehrling](../assets/img/arschidegt.jpg "[_Quelle: Freepik_](https://www.freepik.com/free-photo/front-view-young-man-thinking-with-copy-space_6349578.htm)")<!-- style="max-width: 350px; width: 100%; margin-left: 20px; margin-top:30px;" -->
 
 </div>
 </section>
@@ -381,4 +381,4 @@ Das gezeigte Symbol steht für sehr gute Lichtbeständigkeit der Farben.
 
 ## Geschafft 🎉
 
-![Jubel](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")
+![Jubel](../assets/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")

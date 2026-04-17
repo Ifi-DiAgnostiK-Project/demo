@@ -50,7 +50,7 @@ Wir wünschen Ihnen viel Erfolg und Spaß beim Beantworten der Fragen!
 <center>
 
 
-![Zahnarztpraxis](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/point_to_teeth.jpg "[_Quelle: unsplash.com, Filip Rankovic_](https://unsplash.com/de/fotos/ein-mann-und-eine-frau-mit-einem-touchscreen-gerat-Bd0RmCsJOCc)")<!-- style="width: 400px" -->
+![Zahnarztpraxis](../assets/img/point_to_teeth.jpg "[_Quelle: unsplash.com, Filip Rankovic_](https://unsplash.com/de/fotos/ein-mann-und-eine-frau-mit-einem-touchscreen-gerat-Bd0RmCsJOCc)")<!-- style="width: 400px" -->
 
 </center>
 
@@ -86,7 +86,7 @@ Ordnen Sie den Zahlen 1 - 4 im Bild den jeweils richtigen Fachbegriff zu.
 </div>
 <div class="flex-child-0">
 
-![Zahntopografie](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/toth_from_above.png "                          _Quelle: HWK Dresden, Alexander Meiwald_")<!-- style="max-width: 350px; width: 100%" -->
+![Zahntopografie](../assets/img/toth_from_above.png "                          _Quelle: HWK Dresden, Alexander Meiwald_")<!-- style="max-width: 350px; width: 100%" -->
 
 
 </div>
@@ -117,7 +117,7 @@ Die Zahl 4<!--style="color: red; font-weight: bolder"--> bezeichnet den [->[  (I
 </div>
 <div class="flex-child-0">
 
-![Artikulator](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/messeinrichtung.png "                                   _Quelle: HWK Dresden, Alexander Meiwald_")<!-- style="max-width: 350px; width: 100%" -->
+![Artikulator](../assets/img/messeinrichtung.png "                                   _Quelle: HWK Dresden, Alexander Meiwald_")<!-- style="max-width: 350px; width: 100%" -->
 
 </div>
 </section>
@@ -147,7 +147,7 @@ Welche Begriffe werden synonym für "Kauebene" verwendet?
 <center>
 
 
-![](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/arbeiter_an_gebiss.jpg "_Quelle: Pixabay, marofedermann_")<!-- style="width: 400px" -->
+![](../assets/img/arbeiter_an_gebiss.jpg "_Quelle: Pixabay, marofedermann_")<!-- style="width: 400px" -->
 
 </center>
 
@@ -231,7 +231,7 @@ Wie groß sollte der Mindestabstand einer digital konstruierten Schiene zum marg
 <center>
 
 
-![Fragezeichen](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/fragezeichen.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 200px; width: 100%" -->
+![Fragezeichen](../assets/img/fragezeichen.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 200px; width: 100%" -->
 
 
 </center>
@@ -241,5 +241,5 @@ Wie groß sollte der Mindestabstand einer digital konstruierten Schiene zum marg
 
 
 <center>
-![Jubel](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")
+![Jubel](../assets/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")
 </center>

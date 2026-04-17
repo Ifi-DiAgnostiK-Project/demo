@@ -87,7 +87,7 @@ import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Holzarten/refs/
 
 # Holzarten: Eigenschaften, Verwendung und Aussehen II
 
-![Holzfußboden](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/oakwoodbig.jpg)<!-- style="width: 800px" -->
+![Holzfußboden](../assets/img/oakwoodbig.jpg)<!-- style="width: 800px" -->
 
 _Quelle: Pixabay, Pexels_
 

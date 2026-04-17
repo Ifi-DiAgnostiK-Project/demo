@@ -11,7 +11,7 @@ comment:  Löten und Schweißen
 edit:     true
 date:     2025-07-23
 
-logo:     https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/burning.jpg
+logo:     ../assets/img/burning.jpg
 icon:     ../assets/img/Logo_234px.png
 
 link: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/augschutz_shk_v0.1.2/courses/style.css
@@ -54,7 +54,7 @@ Dazu gehören, z.B.:
 </div>
 
 <div class="flex-child" style="min-width: 150px">
-![SHK_Experte](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/schutzkleidung.jpg "generiert durch DALL-E, eine OpenAI KI")<!-- style="width: 500px" -->
+![SHK_Experte](../assets/img/schutzkleidung.jpg "generiert durch DALL-E, eine OpenAI KI")<!-- style="width: 500px" -->
 
 </div>
 </section>
@@ -420,4 +420,4 @@ __Welche Gesundheitsgefahren bestehen beim Weichlöten? 🤔__
 
 # Geschafft 🎉
 
-![Jubel](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")
+![Jubel](../assets/img/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")

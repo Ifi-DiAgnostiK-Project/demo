@@ -177,7 +177,7 @@ Die Ziffern an der Tisch- und Formatkreissäge bezeichnen bestimmte Bau- und Mas
 6. __Die Ziffern an der Tisch- und Formatkreissäge bezeichnen bestimmte Bau- und Maschinenteile. Ordne die Bezeichnungen den Nummern laut Zeichnung richtig zu.__
 ===
 
-![Tisch- und Formatkreissäge](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/Saege_Quelle_BGHM_2.jpg)
+![Tisch- und Formatkreissäge](../assets/img/Saege_Quelle_BGHM_2.jpg)
 
 _Quelle: BGHM_
 
@@ -205,7 +205,7 @@ d. Flachzahn für Rohzuschnitt in Faserrichtung
 ===
 
 <!-- data-randomize -->
--   [[![Flachzahn](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/BGHM_Kreissaegeblatt_Flachzahn.jpg)  <!-- style="width: 300px" -->]        (![Hohl-Trapez-Zahn](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/BGHM_Kreissaegeblatt_Hohl-Trapez-Zahn.jpg)  <!-- style="width: 300px" -->)]
+-   [[![Flachzahn](../assets/img/BGHM_Kreissaegeblatt_Flachzahn.jpg)  <!-- style="width: 300px" -->]        (![Hohl-Trapez-Zahn](../assets/img/BGHM_Kreissaegeblatt_Hohl-Trapez-Zahn.jpg)  <!-- style="width: 300px" -->)]
 - [    ( )              (X)       ]  Hohl-Trapez-Zahn für beschichtete Platten
 - [    ( )              ( )       ]  Wechselzahn für Massivholz, in und quer zur Faserrichtung
 - [    ( )              ( )       ]  Wechselzahn für funierte Platten und Massivholz quer zur Faserrichtung
@@ -348,7 +348,7 @@ c. Der Spaltkeilabstand ist von dem jeweiligen Arbeitsgang abhängig.
 
 __Beachten Sie das Bild.__
 
-![Spaltkeil](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/Spaltkeil_Quelle_BGHM_S.0017.jpg) <!-- style="width: 400px" -->
+![Spaltkeil](../assets/img/Spaltkeil_Quelle_BGHM_S.0017.jpg) <!-- style="width: 400px" -->
 
 _Quelle: BGHM_
 

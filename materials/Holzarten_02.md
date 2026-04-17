@@ -37,7 +37,7 @@ tags:  Tischler,
 Teil 2
 =======
 
-![Holzarbeiten](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/rotating_sander.jpg) <!-- style="width: 700px" -->
+![Holzarbeiten](../assets/img/rotating_sander.jpg) <!-- style="width: 700px" -->
 
 _Quelle: Pixabay, Detmold_
 
@@ -92,7 +92,7 @@ Welche Hölzer sind typischerweise hell in der Farbe?
 </div>
 
 <div class="flex-child" style="min-width: 150px">
-![Holzbearbeitung](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/woodworker_works.jpg)<!-- style="width: 250px" -->
+![Holzbearbeitung](../assets/img/woodworker_works.jpg)<!-- style="width: 250px" -->
 
 
 <a  href="https://pixabay.com/de/photos/tischler-schreiner-handwerk-3280956/" target=_blank>_Quelle: Pixabay, Detmold_</a>
@@ -160,7 +160,7 @@ _Quelle aller Holz-Abbildungen:_ _https://holzvomfach.de/fachwissen-holz/holz-ab
 </div>
 
 <div class="flex-child" style="min-width: 150px">
-![Gartenmoebel](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/natural_chairs.jpg)<!-- style="width: 250px" -->
+![Gartenmoebel](../assets/img/natural_chairs.jpg)<!-- style="width: 250px" -->
 
 
 <a  href="https://pixabay.com/de/photos/m%C3%B6bel-tisch-stuhl-holz-gartenm%C3%B6bel-617/" target=_blank>_Quelle: Pixabay, Hans_</a>
@@ -213,7 +213,7 @@ _Quelle aller Holz-Abbildungen:_ _https://holzvomfach.de/fachwissen-holz/holz-ab
 
 ## Geschafft ! 👏
 
-![](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/colorfull_jumping.jpg)<!-- style="width: 500px" -->
+![](../assets/img/colorfull_jumping.jpg)<!-- style="width: 500px" -->
 
 
 <a  href="https://pixabay.com/de/illustrations/freude-springen-luftsprung-spa%C3%9F-3940425/" target=_blank>_Quelle: Pixabay, geralt_</a>
