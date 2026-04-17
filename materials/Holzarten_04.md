@@ -20,7 +20,7 @@ tags:  Tischler,
        Holzarten
 
 logo: ../assets/img/front_wood_stack.jpg
-icon: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
+icon: ../assets/img/Logo_234px.png
 
 link: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/style.css
 

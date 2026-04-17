@@ -9,7 +9,7 @@ narrator:  Deutsch Female
 edit:      true
 date:      2025-07-21
 
-icon:      https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
+icon:      ../assets/img/Logo_234px.png
 logo:      https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Telesteps_telescopic_ladder_-_closed.jpg/2880px-Telesteps_telescopic_ladder_-_closed.jpg
 
 comment:   Arbeitssicherheit & Gesundheitsschutz - Leitern II

@@ -13,7 +13,7 @@ tags: Wissensspeicher
 
 link: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/style.css
 
-icon: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
+icon: ../assets/img/Logo_234px.png
 logo: https://upload.wikimedia.org/wikipedia/commons/e/ef/Programming_code.jpg
 attribute: title image -- Martin Vorel, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
 

@@ -12,7 +12,7 @@ narrator: Deutsch Male
 
 edit: true
 date: 2025-10-13
-icon: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
+icon: ../assets/img/Logo_234px.png
 logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/bracket_closeup.jpg
 
 attribute: image by pixabay https://pixabay.com/de/photos/zahnarzt-kieferorthop%C3%A4die-542252/

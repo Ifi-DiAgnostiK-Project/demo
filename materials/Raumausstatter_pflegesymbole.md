@@ -9,7 +9,7 @@ narrator: Deutsch Female
 edit: true
 date: 2025-09-08
 
-icon: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
+icon: ../assets/img/Logo_234px.png
 logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/Textilpflegesymbole.png
 comment:  Kurs mit den Piktogrammen zur Textilpflege für Raumausstatter.
 

@@ -6,7 +6,7 @@ narrator: German Female
 version: 0.0.7
 edit: true
 date: 2025-06-10
-logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
+logo: ../assets/img/Logo_234px.png
 comment: this is only a test for image sizes in conjunction with quizes
 
 import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md

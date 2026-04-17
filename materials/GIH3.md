@@ -15,7 +15,7 @@ comment:  Grundkurs Anlangenmechaniker 3
 edit: true
 date: 2025-07-28
 logo: https://upload.wikimedia.org/wikipedia/commons/a/a2/%E3%82%B3%E3%82%B9%E3%83%A2%E3%82%B91%E5%8F%B7%E7%B7%9A.jpg
-icon: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
+icon: ../assets/img/Logo_234px.png
 
 import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
 import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md

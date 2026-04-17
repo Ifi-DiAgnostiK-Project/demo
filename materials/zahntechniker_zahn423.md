@@ -12,7 +12,7 @@ narrator: Deutsch Female
 
 edit: true
 date: 2025-10-13
-icon: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
+icon: ../assets/img/Logo_234px.png
 logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/code_pixabay.jpg
 
 attribute: by pixabay https://pixabay.com/photos/code-source-programming-web-5421211/

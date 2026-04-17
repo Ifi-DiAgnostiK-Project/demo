@@ -9,7 +9,7 @@ narrator: Deutsch male
 edit: true
 date: 2025-09-12
 
-icon: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
+icon: ../assets/img/Logo_234px.png
 logo: ../assets/img/woodboard.jpg
 
 attribute: Oberflächenveredlung I TSO 1/2024, Oberflächenveredlung II TSO 2/2024, einfache Fragen

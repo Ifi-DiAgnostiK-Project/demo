@@ -13,7 +13,7 @@ narrator: Deutsch Male
 edit: true
 date: 2025-07-29
 
-icon: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
+icon: ../assets/img/Logo_234px.png
 logo: ../assets/img/156_Freepik_rawpixel.com_wooden-textured-background.jpg
 
 link: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/style.css

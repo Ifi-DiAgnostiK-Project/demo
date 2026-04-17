@@ -12,7 +12,7 @@ narrator: Deutsch Female
 
 edit: true
 date: 2025-07-28
-icon: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
+icon: ../assets/img/Logo_234px.png
 logo: https://upload.wikimedia.org/wikipedia/commons/d/d7/Questionnaire-checklist-completed.png
 
 attribute: title image https://pixabay.com/users/472301-472301/, CC0, via Wikimedia Commons

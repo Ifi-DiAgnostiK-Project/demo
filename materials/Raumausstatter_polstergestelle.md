@@ -12,7 +12,7 @@ narrator: Deutsch Male
 
 edit: true
 date: 2026-01-05
-icon: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
+icon: ../assets/img/Logo_234px.png
 logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/armrest_pixabay.jpg
 
 attribute: https://pixabay.com/de/photos/armlehne-sessel-polsterer-stoff-647300/

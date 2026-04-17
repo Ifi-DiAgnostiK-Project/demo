@@ -9,7 +9,7 @@ narrator: Deutsch Male
 edit: true
 date: 2026-02-02
 
-icon: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
+icon: ../assets/img/Logo_234px.png
 logo: https://img.freepik.com/free-photo/top-view-wood-tools-desk_23-2148898120.jpg
 
 comment:  G-TSM Überprüfungsfragen

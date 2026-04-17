@@ -9,7 +9,7 @@ narrator: Deutsch Male
 edit: true
 date: 2026-01-28
 
-icon: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
+icon: ../assets/img/Logo_234px.png
 logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/maler_werkzeug_tapetenkurs.jpg
 
 comment:  Typische Tapezierwerkzeuge - Raumausstatter: GR-06 | Maler/Lackiererhandwerk

@@ -10,7 +10,7 @@ narrator:  Deutsch Female
 edit:      true
 date:      2025-07-21
 
-icon:      https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
+icon:      ../assets/img/Logo_234px.png
 logo:      https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ISO_Exit_-_Right.svg/2880px-ISO_Exit_-_Right.svg.png
 
 comment:   Rettungszeichen

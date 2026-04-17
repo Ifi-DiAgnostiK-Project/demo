@@ -10,7 +10,7 @@ edit:      true
 
 date:      2025-07-21
 logo:      https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/ISO_7010_F001.svg/1920px-ISO_7010_F001.svg.png
-icon:      https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
+icon:      ../assets/img/Logo_234px.png
 
 comment:   Brandschutzzeichen
 

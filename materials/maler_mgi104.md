@@ -12,7 +12,7 @@ narrator: Deutsch Female
 
 edit: true
 date: 2025-12-11
-icon: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
+icon: ../assets/img/Logo_234px.png
 logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/bauwerk_schichten.jpg
 
 attribute: https://de.freepik.com/fotos-kostenlos/im-modernen-stil-haus-im-bau_997935.htm#fromView=keyword&page=2&position=46&uuid=e3d1e428-80f1-4fcc-b9e4-1cd4e3b5de48&query=Waermedaemmung

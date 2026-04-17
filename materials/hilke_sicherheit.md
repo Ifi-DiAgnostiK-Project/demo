@@ -12,7 +12,7 @@ narrator: Deutsch Female
 
 edit: true
 date: 2025-06-15
-logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
+logo: ../assets/img/Logo_234px.png
 
 comment:  Arbeitssicherheit & Gesundheitsschutz
 

@@ -13,7 +13,7 @@ edit: true
 
 date: 2025-07-30
 
-logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
+logo: ../assets/img/Logo_234px.png
 
 comment:  Lückentext Auswahl mit Drag and Drop
 title: Lückentext Drag and Drop

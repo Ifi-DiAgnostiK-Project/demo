@@ -11,7 +11,7 @@ narrator: Deutsch Female
 
 edit: true
 date: 2025-07-29
-icon: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
+icon: ../assets/img/Logo_234px.png
 logo: https://upload.wikimedia.org/wikipedia/commons/5/59/Dry_wood_texture.jpg
 attribute: Title Image by Martin Vorel, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
 

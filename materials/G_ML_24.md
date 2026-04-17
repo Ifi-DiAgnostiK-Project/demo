@@ -16,7 +16,7 @@ comment:   Grundkurs Maler/Lackierer
 tags:      Maler,
            Grundkurs
 
-icon:      https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
+icon:      ../assets/img/Logo_234px.png
 logo:      https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/farben.jpg
 
 attribute: Title Image by Pixabay, Darkmoon Art

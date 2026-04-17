@@ -15,7 +15,7 @@ comment:  Grundkurs Raumausstatter
 edit: true
 date: 2025-06-24
 logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/img/hwk1.jpg
-icon: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
+icon: ../assets/img/Logo_234px.png
 
 tags:   Raumausstatter
 

@@ -11,7 +11,7 @@ narrator: Deutsch Male
 
 edit: true
 date: 2025-07-29
-icon: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
+icon: ../assets/img/Logo_234px.png
 logo: https://upload.wikimedia.org/wikipedia/commons/2/26/Stacked_Timber_Displaying_Growth_Rings.jpg
 
 attribute: Title Image By Kelsey Todd, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons

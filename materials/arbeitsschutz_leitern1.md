@@ -10,7 +10,7 @@ narrator: Deutsch Female
 edit:     true
 date:     2025-07-21
 
-icon:     https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
+icon:     ../assets/img/Logo_234px.png
 logo:     https://upload.wikimedia.org/wikipedia/commons/5/5c/Bockleiter.png
 
 comment:  Arbeitssicherheit & Gesundheitsschutz - Leitern I

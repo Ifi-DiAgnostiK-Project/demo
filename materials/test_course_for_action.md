@@ -5,7 +5,7 @@ version: 0.0.21
 edit: true
 date: 2025-05-20
 language: de
-logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
+logo: ../assets/img/Logo_234px.png
 comment: Test Course for the action release system
 
 title : Test Course for Action Release System

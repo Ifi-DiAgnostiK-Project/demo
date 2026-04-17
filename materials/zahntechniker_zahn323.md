@@ -12,7 +12,7 @@ narrator: Deutsch Male
 
 edit: true
 date: 2025-10-14
-icon: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
+icon: ../assets/img/Logo_234px.png
 logo: ../assets/img/orthodontic.jpg
 
 attribute: https://pixabay.com/photos/orthodontic-aids-mouth-guard-315784/

@@ -12,7 +12,7 @@ narrator: German Female
 edit: true
 date: 2025-05-10
 
-logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
+logo: ../assets/img/Logo_234px.png
 
 comment:  this short course explains math mode in liascript (in german)
 

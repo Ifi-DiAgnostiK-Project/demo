@@ -8,7 +8,7 @@ narrator: Deutsch Male
 edit: true
 date: 2026-02-06
 
-icon: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
+icon: ../assets/img/Logo_234px.png
 logo: https://img.freepik.com/free-photo/carpenter-works-with-tree_1157-18913.jpg
 
 comment:  TSM 1 Vorbereitungsfragen

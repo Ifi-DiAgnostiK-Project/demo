@@ -9,7 +9,7 @@ narrator: Deutsch Male
 edit: true
 date: 2026-01-22
 
-icon: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/img/Logo_234px.png
+icon: ../assets/img/Logo_234px.png
 logo: ../assets/img/woodwall_corner.png
 attribute: "Quelle Titlebild: pixabay"
 
