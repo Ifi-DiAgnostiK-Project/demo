@@ -14,7 +14,7 @@ date:     2025-07-23
 logo:     ../assets/img/burning.jpg
 icon:     ../assets/img/Logo_234px.png
 
-link: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/augschutz_shk_v0.1.2/courses/style.css
+link:     ./style.css
 import:   https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
@@ -138,7 +138,7 @@ __Welche Risiken bestehen beim Schweißen?  🤔__
 </div>
 <div class="flex-child-2 center">
 
-![Schweißer](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/augschutz_shk_v0.1.2/courses/img/stick_welding_pipe.jpg "[_Quelle: Pixabay, saldahnae_](https://pixabay.com/photos/welder-industrial-welding-working-5408909/)")<!-- style="max-width: 550px; width: 100%; margin-left: -60px; margin-top:50px;" -->
+![Schweißer](../assets/img/stick_welding_pipe.jpg "[_Quelle: Pixabay, saldahnae_](https://pixabay.com/photos/welder-industrial-welding-working-5408909/)")<!-- style="max-width: 550px; width: 100%; margin-left: -60px; margin-top:50px;" -->
 
 </div>
 </section>
@@ -179,7 +179,7 @@ __Wie zünde ich die Flamme eines Gasschweißgeräts korrekt an?__
 <div class="flex-child">
 
 
-![Schweißerflamme](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/augschutz_shk_v0.1.2/courses/img/welding_torch.jpg "[_Quelle: Pixabay, Shutterbug78_](https://pixabay.com/photos/acetylene-aluminium-aluminum-blow-1239330/)")<!-- style="max-width: 250px; width: 100%; margin-left: 0px; margin-top:50px;" -->
+![Schweißerflamme](../assets/img/welding_torch.jpg "[_Quelle: Pixabay, Shutterbug78_](https://pixabay.com/photos/acetylene-aluminium-aluminum-blow-1239330/)")<!-- style="max-width: 250px; width: 100%; margin-left: 0px; margin-top:50px;" -->
 
 </div>
 </section>
@@ -204,7 +204,7 @@ __Was ist beim Elektro-Handschweißen zu beachten? 🤔__
 <div class="flex-child">
 
 
-![Schweißerzubehör](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/augschutz_shk_v0.1.2/courses/img/welding_hat.jpg "[_Quelle: Pixabay, Benfe_](https://pixabay.com/photos/work-material-vacancy-work-welder-3954244/)")<!-- style="max-width: 250px; width: 100%; margin-left: 0px; margin-top:100px;" -->
+![Schweißerzubehör](../assets/img/welding_hat.jpg "[_Quelle: Pixabay, Benfe_](https://pixabay.com/photos/work-material-vacancy-work-welder-3954244/)")<!-- style="max-width: 250px; width: 100%; margin-left: 0px; margin-top:100px;" -->
 
 
 </div>
@@ -226,7 +226,7 @@ __Was ist beim Arbeiten mit dem Schweißbrenner zu beachten? 🤔__
 <div class="flex-child">
 
 
-![Schweißgasbehälter](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/augschutz_shk_v0.1.2/courses/img/welding_bottles.jpg "[_Quelle: Pixabay, Bru-nO_](https://pixabay.com/photos/gas-welding-welder-protective-gas-2147487/)")<!-- style="max-width: 250px; width: 100%; margin-left: 20px; margin-top:30px;" -->
+![Schweißgasbehälter](../assets/img/welding_bottles.jpg "[_Quelle: Pixabay, Bru-nO_](https://pixabay.com/photos/gas-welding-welder-protective-gas-2147487/)")<!-- style="max-width: 250px; width: 100%; margin-left: 20px; margin-top:30px;" -->
 
 </div>
 </section>
@@ -251,7 +251,7 @@ __Welche Maßnahmen sind bei Schweißarbeiten an Behältern, die entzündbare od
 <div class="flex-child">
 
 
-![Arbeiten_am_Schweißbehälter](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/augschutz_shk_v0.1.2/courses/img/pipe_weld.jpg "[_Quelle: Pixabay, wyllyston_](https://pixabay.com/photos/welder-welding-industry-worker-4086983//)")<!-- style="max-width: 250px; width: 100%; margin-left: 0px; margin-top:50px;" -->
+![Arbeiten_am_Schweißbehälter](../assets/img/pipe_weld.jpg "[_Quelle: Pixabay, wyllyston_](https://pixabay.com/photos/welder-welding-industry-worker-4086983//)")<!-- style="max-width: 250px; width: 100%; margin-left: 0px; margin-top:50px;" -->
 
 
 </div>
@@ -273,7 +273,7 @@ __Welche Gefahren ergeben sich beim Autogenschweißen? Wie verhalten Sie sich? �
 <div class="flex-child">
 
 
-![Cartoon_Schweißer](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/augschutz_shk_v0.1.2/courses/img/soldering_puppet.jpg "[_Quelle: Pixabay, Peggy+Marco_](https://pixabay.com/de/illustrations/schwei%c3%9fer-metall-angestellte-1825675/)")<!-- style="max-width: 250px; width: 100%; margin-left: 0px; margin-top:50px;" -->
+![Cartoon_Schweißer](../assets/img/soldering_puppet.jpg "[_Quelle: Pixabay, Peggy+Marco_](https://pixabay.com/de/illustrations/schwei%c3%9fer-metall-angestellte-1825675/)")<!-- style="max-width: 250px; width: 100%; margin-left: 0px; margin-top:50px;" -->
 
 
 </div>
@@ -294,7 +294,7 @@ __Wie verhalten Sie sich bei Entstehungsbränden in der Nähe von Gasflaschen? �
 <div class="flex-child">
 
 
-![Feuerlöscher](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/augschutz_shk_v0.1.2/courses/img/fire_extinguisher.png "[_Quelle: Pixabay, maja7777_](https://pixabay.com/photos/fire-extinguisher-isolated-2976921/)")<!-- style="max-width: 150px; width: 100%; margin-left: 20px; margin-top:50px;" -->
+![Feuerlöscher](../assets/img/fire_extinguisher.png "[_Quelle: Pixabay, maja7777_](https://pixabay.com/photos/fire-extinguisher-isolated-2976921/)")<!-- style="max-width: 150px; width: 100%; margin-left: 20px; margin-top:50px;" -->
 
 
 </div>
@@ -320,7 +320,7 @@ Welche Kennzeichnung steht für Schweißstromquellen, die beim Schweißen mit er
 <div class="flex-child">
 
 
-![CE+S](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/augschutz_shk_v0.1.2/courses/img/CE_sign.jpg "_Quelle: Hilke Domsch, GKZ_")<!-- style="max-width: 250px; width: 100%; margin-left: 0px; margin-top:0px;" -->
+![CE+S](../assets/img/CE_sign.jpg "_Quelle: Hilke Domsch, GKZ_")<!-- style="max-width: 250px; width: 100%; margin-left: 0px; margin-top:0px;" -->
 
 </div>
 </section>
@@ -341,7 +341,7 @@ __Was tun Sie gegen elektrische Gefährdung beim Schweißen? 🤔__
 <div class="flex-child">
 
 
-![Feuerflamme](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/augschutz_shk_v0.1.2/courses/img/burning.jpg "[_Quelle: Pixabay, popmelon_](https://pixabay.com/illustrations/flaming-torch-torch-flame-fire-8765143/)")<!-- style="max-width: 550px; width: 100%; margin-left: 20px; margin-top:50px;" -->
+![Feuerflamme](../assets/img/burning.jpg "[_Quelle: Pixabay, popmelon_](https://pixabay.com/illustrations/flaming-torch-torch-flame-fire-8765143/)")<!-- style="max-width: 550px; width: 100%; margin-left: 20px; margin-top:50px;" -->
 
 
 </div>
@@ -368,7 +368,7 @@ __Sie löten. Worauf achten Sie? 🤔__
 <div class="flex-child">
 
 
-![Löten](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/augschutz_shk_v0.1.2/courses/img/soldering.jpg "[_Quelle: Pixabay, This-is-Engineering_](https://pixabay.com/photos/engineer-engineering-solder-4904910/)")<!-- style="max-width: 200px; width: 100%; margin-left: 0px; margin-top:0px;" -->
+![Löten](../assets/img/soldering.jpg "[_Quelle: Pixabay, This-is-Engineering_](https://pixabay.com/photos/engineer-engineering-solder-4904910/)")<!-- style="max-width: 200px; width: 100%; margin-left: 0px; margin-top:0px;" -->
 
 
 </div>
@@ -391,7 +391,7 @@ Auf was achten Sie beim Weichlöten?  🤔
 <div class="flex-child">
 
 
-![Lötmaterial](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/augschutz_shk_v0.1.2/courses/img/soldering_utensils.jpg "[_Quelle: Pixabay, bru-nO_](https://pixabay.com/photos/soldering-soldering-station-tin-1038518/)")<!-- style="max-width: 350px; width: 100%; margin-left: 0px; margin-top:0px;" -->
+![Lötmaterial](../assets/img/soldering_utensils.jpg "[_Quelle: Pixabay, bru-nO_](https://pixabay.com/photos/soldering-soldering-station-tin-1038518/)")<!-- style="max-width: 350px; width: 100%; margin-left: 0px; margin-top:0px;" -->
 
 
 </div>
@@ -412,7 +412,7 @@ __Welche Gesundheitsgefahren bestehen beim Weichlöten? 🤔__
 <div class="flex-child">
 
 
-![Löten2](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/augschutz_shk_v0.1.2/courses/img/fine_soldering.jpg "[_Quelle: Pixabay, photosforyou_](https://pixabay.com/photos/work-hand-man-craft-jewellery-3748395/)")<!-- style="max-width: 300px; width: 100%; margin-left: 0px; margin-top:0px;" -->
+![Löten2](../assets/img/fine_soldering.jpg "[_Quelle: Pixabay, photosforyou_](https://pixabay.com/photos/work-hand-man-craft-jewellery-3748395/)")<!-- style="max-width: 300px; width: 100%; margin-left: 0px; margin-top:0px;" -->
 
 
 </div>

@@ -58,7 +58,7 @@ Viel Erfolg!
 
 <center>
 
-![Tapetensymbole_zusammengefuegt](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/maler_tapetensymbole_v0.0.3/courses/img/tapete_tapetensymbole_closeup.png "[_Quelle: Deutsches Tapeten-Institut_](https://tapeten.de/wissenswertes/tapetensymbole)")<!-- style="max-width: 350px; width: 100%" -->
+![Tapetensymbole_zusammengefuegt](../assets/img/tapete_tapetensymbole_closeup.png "[_Quelle: Deutsches Tapeten-Institut_](https://tapeten.de/wissenswertes/tapetensymbole)")<!-- style="max-width: 350px; width: 100%" -->
 
 </center>
 
@@ -85,7 +85,7 @@ Welche Aussagen über Tapetensymbole sind richtig?
 </div>
 <div class="flex-child">
 
-![Tapetenregal](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/maler_tapetensymbole_v0.0.3/courses/img/tapete_lager.jpg "_Quelle: HWK Dresden_ ")<!-- style="max-width: 250px; width: 100%; margin-left: 50px; margin-top:50px;" -->
+![Tapetenregal](../assets/img/tapete_lager.jpg "_Quelle: HWK Dresden_ ")<!-- style="max-width: 250px; width: 100%; margin-left: 50px; margin-top:50px;" -->
 
 </div>
 </section>
@@ -120,7 +120,7 @@ Was sagt diese Nummer aus?
 
 <center>
 
-![Ausschnitt_Anfertigungsnummer](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/maler_tapetensymbole_v0.0.3/courses/img/tapete_tapetensymbole.png "_Quelle: Ausschnitt Tapetenettikett, GKZ_")<!-- style="max-width: 350px; width: 100%" -->
+![Ausschnitt_Anfertigungsnummer](../assets/img/tapete_tapetensymbole.png "_Quelle: Ausschnitt Tapetenettikett, GKZ_")<!-- style="max-width: 350px; width: 100%" -->
 
 </center>
 
@@ -332,7 +332,7 @@ Die Anfertigungsnummer kennzeichnet die [->[ (Herstellungsserie) | Produktionsza
 <br> <br>
 <center>
 
-![Tapetenzeichen_marburg](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/maler_tapetensymbole_v0.0.3/courses/img/tapete_label.jpg "_Quelle: HWK Dresden, Kay Deblitz_")<!-- style="max-width: 550px; width: 100%" -->
+![Tapetenzeichen_marburg](../assets/img/tapete_label.jpg "_Quelle: HWK Dresden, Kay Deblitz_")<!-- style="max-width: 550px; width: 100%" -->
 
 </center>
 

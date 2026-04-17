@@ -381,7 +381,7 @@ $l_{gesamt} = 678{,}5\,\text{mm}$
 
 ## Super gemacht 👌
 
-![Jubel](https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/gih1_v0.1.1/courses/img/colorfull_jumping.jpg)<!-- style="width: 700px" -->
+![Jubel](../assets/img/colorfull_jumping.jpg)<!-- style="width: 700px" -->
 
 _Quelle: Pixabay, geralt_
 
