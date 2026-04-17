@@ -93,7 +93,7 @@ collection:
       </div>
 
 
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/augschutz_shk_v0.1.2/courses/AuGSchutz_SHK.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/gih1_v0.1.1/courses/GIH1.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/gih2_v0.0.10/courses/GIH2.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/tags/gih3_v0.0.4/courses/GIH3.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/AuGSchutz_SHK.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/GIH1.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/GIH2.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/GIH3.md

@@ -93,10 +93,10 @@ collection:
       </div>
 
 
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/Saege_Test.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/TSM1.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/TSM2.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/Saege_Test.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/TSM1.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/TSM2.md
 
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/jscad_example.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/konva-quiz.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript-Courses/refs/heads/main/courses/test_course_for_action.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/jscad_example.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/konva-quiz.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/test_course_for_action.md
