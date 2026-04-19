@@ -11,7 +11,7 @@ edit:      true
 date:      2025-07-21
 
 icon:      ../assets/img/Logo_234px.png
-logo:      https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ISO_Exit_-_Right.svg/2880px-ISO_Exit_-_Right.svg.png
+logo:      https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ISO_Exit_-_Right.svg/960px-ISO_Exit_-_Right.svg.png
 
 comment:   Rettungszeichen
 

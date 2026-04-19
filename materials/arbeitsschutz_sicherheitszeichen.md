@@ -11,7 +11,7 @@ edit:      true
 date:      2025-07-21
 
 icon:      ../assets/img/Logo_234px.png
-logo:      https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/ISO_7010_W002.svg/2560px-ISO_7010_W002.svg.png
+logo:      https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/ISO_7010_W002.svg/960px-ISO_7010_W002.svg.png
 
 comment:   Arbeitssicherheit & Gesundheitsschutz
 

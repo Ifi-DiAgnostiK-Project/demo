@@ -65,30 +65,24 @@ footer: >
   </div>
 
 meta:
-  title: Databases Unlocked - Interactive Database Systems Course
+  title: DiAgnostiK – Arbeits- und Gesundheitsschutz
   description: >
-    Praxisnahe Einführung in Datenbanksysteme: Von Dateiformaten über Key-Value, 
-    Document und Column Stores bis zu relationalen Datenbanken mit SQL. 
-    Alle Konzepte direkt im Browser mit Hands-on-Beispielen.
+    Interaktive Lerneinheiten zum Arbeits- und Gesundheitsschutz: Sicherheits-,
+    Brand- und Rettungszeichen, Leitersicherheit und betrieblicher Arbeitsschutz
+    für Auszubildende im Handwerk.
 
 # Main course collection
 collection:
-  # Introduction section
   - html: >
       <div style="padding: 20px; background-color: rgba(26, 47, 94, 0.1); border-radius: 8px; margin: 20px 0;">
-        <h2>📚 Über diesen Kurs</h2>
+        <h2>🦺 Arbeits- und Gesundheitsschutz</h2>
         <p>
-          Diese Vorlesung bietet eine <strong>praxisnahe Einführung in die Welt der Datenbanken</strong> 
-          und vermittelt einen systematischen Überblick über unterschiedliche Paradigmen und ihre Einsatzszenarien.
+          Diese Sammlung vermittelt die <strong>wichtigsten Grundlagen des betrieblichen Arbeits- und Gesundheitsschutzes</strong>
+          für Auszubildende und Beschäftigte im Handwerk.
         </p>
         <p>
-          Beginnend bei einfachen Datenquellen wie Textdateien, CSV, JSON, YAML oder TOML werden schrittweise 
-          moderne Systeme vorgestellt – von Key-Value Stores über Object Stores und Column Stores bis hin zu 
-          <strong>relationalen Datenbanken mit SQL</strong> und graphbasierten Ansätzen.
-        </p>
-        <p>
-          <strong>Besonderheit:</strong> Alle Paradigmen werden mit Hands-on-Beispielen direkt im Browser 
-          erlebbar (über LiaScript und DBMS wie DuckDB-Wasm, SQLite-Wasm, IndexedDB, PouchDB).
+          Die Lerneinheiten umfassen Sicherheits-, Brand- und Rettungszeichen, den sicheren Umgang mit Leitern
+          sowie einen Überblick über gesetzliche Schutzpflichten und betriebliche Unterweisungen.
         </p>
       </div>
 

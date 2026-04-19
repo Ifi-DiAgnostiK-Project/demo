@@ -65,30 +65,23 @@ footer: >
   </div>
 
 meta:
-  title: Databases Unlocked - Interactive Database Systems Course
+  title: DiAgnostiK – Belehrungen
   description: >
-    Praxisnahe Einführung in Datenbanksysteme: Von Dateiformaten über Key-Value, 
-    Document und Column Stores bis zu relationalen Datenbanken mit SQL. 
-    Alle Konzepte direkt im Browser mit Hands-on-Beispielen.
+    Digitale Belehrungsmodule für Betrieb und Ausbildung: allgemeine Unterweisung,
+    Haus- und Brandschutzordnung sowie ergänzende Belehrungsinhalte.
 
 # Main course collection
 collection:
-  # Introduction section
   - html: >
       <div style="padding: 20px; background-color: rgba(26, 47, 94, 0.1); border-radius: 8px; margin: 20px 0;">
-        <h2>📚 Über diesen Kurs</h2>
+        <h2>📋 Belehrungen für Betrieb und Ausbildung</h2>
         <p>
-          Diese Vorlesung bietet eine <strong>praxisnahe Einführung in die Welt der Datenbanken</strong> 
-          und vermittelt einen systematischen Überblick über unterschiedliche Paradigmen und ihre Einsatzszenarien.
+          Diese Sammlung stellt <strong>digitale Belehrungs- und Unterweisungsmodule</strong> bereit,
+          die in Betrieb und Ausbildungsstätte eingesetzt werden können.
         </p>
         <p>
-          Beginnend bei einfachen Datenquellen wie Textdateien, CSV, JSON, YAML oder TOML werden schrittweise 
-          moderne Systeme vorgestellt – von Key-Value Stores über Object Stores und Column Stores bis hin zu 
-          <strong>relationalen Datenbanken mit SQL</strong> und graphbasierten Ansätzen.
-        </p>
-        <p>
-          <strong>Besonderheit:</strong> Alle Paradigmen werden mit Hands-on-Beispielen direkt im Browser 
-          erlebbar (über LiaScript und DBMS wie DuckDB-Wasm, SQLite-Wasm, IndexedDB, PouchDB).
+          Enthalten sind eine allgemeine Erstbelehrung sowie die Haus- und Brandschutzordnung –
+          ergänzt durch weitere Belehrungsinhalte in Video- und Interaktivformat.
         </p>
       </div>
 
@@ -99,4 +92,12 @@ collection:
   - html: >
       <div style="padding: 20px; background-color: rgba(201, 168, 76, 0.1); border-radius: 8px; margin: 20px 0;">
         <h2>🚧 Weitere Belehrungen</h2>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/a6yfTFOuqIk?si=seYaqxb5a9j2u44N&amp;start=567" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe
+          height="360" width="640"
+          style="width: 100%; aspect-ratio: 16/9;"
+          src="https://www.youtube.com/embed/a6yfTFOuqIk?si=seYaqxb5a9j2u44N&amp;start=567"
+          title="YouTube video player"
+          frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen>
+        </iframe>
