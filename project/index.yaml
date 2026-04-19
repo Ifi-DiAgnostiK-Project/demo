@@ -90,7 +90,7 @@ collection:
   - title: Tischler
     link: tischler.html
     comment: 17 Kurse
-    #logo: https://github.com/TUBAF-IfI-LiaScript/VL_ProzeduraleProgrammierung/blob/master/images/12_Anwendung/DistanzSetup_vonLinks.jpeg?raw=true
+    logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/assets/img/hero/tischler.png
     tags: 
       - Tischler
       - Holzarten
@@ -98,6 +98,7 @@ collection:
   - title: SHK
     link: shk.html
     comment: 4 Kurse
+    logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/assets/img/hero/shk.png
     tags:
       - SHK
       - Arbeitsschutz
@@ -109,6 +110,7 @@ collection:
   - title: Zahntechniker
     link: zahntechniker.html
     comment: 8 Kurse
+    logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/assets/img/hero/zahntechniker.png
     tags:
       - Zahntechniker
       - Zahnersatz
@@ -132,6 +134,7 @@ collection:
   - title: Maler
     link: maler.html
     comment: 4 Kurse
+    logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/assets/img/hero/maler.png
     tags:
       - Maler
       - Grundkurs
@@ -161,23 +164,29 @@ collection:
   - title: Raumausstatter
     link: raumausstatter.html
     comment: 8 Kurse
+    logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/assets/img/hero/raumausstatter.png
 
   - title: Belehrungen
     link: belehrungen.html
     comment: 2 Kurse
+    logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/assets/img/hero/belehrungen.png
 
   - title: Arbeits- und Gesundheitsschutz
     link: arbeits-und-gesundheitsschutz.html
     comment: 6 Kurse
+    logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/assets/img/hero/arbeits-und-gesundheitsschutz.png
 
   - title: Umfragen
     link: umfragen.html
     comment: 3 Kurse
+    logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/assets/img/hero/umfragen.png
 
   - title: Wissensspeicher
     link: wissensspeicher.html
     comment: 14 Kurse
+    logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/assets/img/hero/wissensspeicher.png
 
   - title: Experimente
     link: experimente.html
     comment: 6 Kurse
+    logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/assets/img/hero/experimente.png
