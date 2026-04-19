@@ -56,10 +56,18 @@ jobs:
                   mkdir -p gh-pages-deploy
                   # Generated HTML files
                   cp project/*.html gh-pages-deploy/
-                  # Generated PDFs
-                  find project -name "*.pdf" -exec cp {} gh-pages-deploy/ \;
-                  # Generated SCORM packages (ZIP)
-                  find project -name "*.zip" -exec cp {} gh-pages-deploy/ \;
+                  # Generated PDFs — preserve subdirectory structure relative to project/
+                  find project -name "*.pdf" | while read f; do
+                    rel="${f#project/}"
+                    mkdir -p "gh-pages-deploy/$(dirname "$rel")"
+                    cp "$f" "gh-pages-deploy/$rel"
+                  done
+                  # Generated SCORM packages (ZIP) — preserve subdirectory structure
+                  find project -name "*.zip" | while read f; do
+                    rel="${f#project/}"
+                    mkdir -p "gh-pages-deploy/$(dirname "$rel")"
+                    cp "$f" "gh-pages-deploy/$rel"
+                  done
                   # Assets (images, CSS) referenced by the project pages
                   cp -r assets gh-pages-deploy/
 
