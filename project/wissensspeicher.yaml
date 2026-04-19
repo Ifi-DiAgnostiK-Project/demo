@@ -39,6 +39,7 @@ navbar:
       url: "umfragen.html"
     - label: Wissensspeicher
       url: "wissensspeicher.html"
+      active: true
     - label: Experimente
       url: "experimente.html"
     - label: Sonstige

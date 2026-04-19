@@ -31,6 +31,7 @@ navbar:
       url: "maler.html"
     - label: Raumaustatter
       url: "raumausstatter.html"
+      active: true
     - label: Belehrungen
       url: "belehrungen.html"
     - label: Arbeits- und Gesundheitsschutz

@@ -29,6 +29,7 @@ navbar:
       url: "zahntechniker.html"
     - label: Maler
       url: "maler.html"
+      active: true
     - label: Raumaustatter
       url: "raumausstatter.html"
     - label: Belehrungen

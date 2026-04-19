@@ -41,6 +41,7 @@ navbar:
       url: "wissensspeicher.html"
     - label: Experimente
       url: "experimente.html"
+      active: true
     - label: Sonstige
       url: "sonstige.html"
 

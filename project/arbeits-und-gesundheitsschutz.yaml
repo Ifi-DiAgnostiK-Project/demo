@@ -35,6 +35,7 @@ navbar:
       url: "belehrungen.html"
     - label: Arbeits- und Gesundheitsschutz
       url: "arbeits-und-gesundheitsschutz.html"
+      active: true
     - label: Umfragen
       url: "umfragen.html"
     - label: Wissensspeicher

@@ -43,6 +43,7 @@ navbar:
       url: "experimente.html"
     - label: Sonstige
       url: "sonstige.html"
+      active: true
 
 footer: >
   <div class="d-flex flex-wrap align-items-center justify-content-between gap-3 py-1 w-100">

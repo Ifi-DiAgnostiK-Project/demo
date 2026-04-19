@@ -33,6 +33,7 @@ navbar:
       url: "raumausstatter.html"
     - label: Belehrungen
       url: "belehrungen.html"
+      active: true
     - label: Arbeits- und Gesundheitsschutz
       url: "arbeits-und-gesundheitsschutz.html"
     - label: Umfragen

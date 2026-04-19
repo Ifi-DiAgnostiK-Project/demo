@@ -25,6 +25,7 @@ navbar:
       url: "tischler.html"
     - label: SHK
       url: "shk.html"
+      active: true
     - label: Zahntechniker
       url: "zahntechniker.html"
     - label: Maler

@@ -27,6 +27,7 @@ navbar:
       url: "shk.html"
     - label: Zahntechniker
       url: "zahntechniker.html"
+      active: true
     - label: Maler
       url: "maler.html"
     - label: Raumaustatter
