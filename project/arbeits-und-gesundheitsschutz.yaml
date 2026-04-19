@@ -1,11 +1,11 @@
 title: >
-  <span style="background-color: rgba(11, 110, 117, 0.75); padding: 10px; color: white; border-radius: 5px;">
+  <span style="background-color: rgba(26, 47, 94, 0.75); padding: 10px; color: white; border-radius: 5px;">
     DiAgnostiK Lehr- und Lernraum
   </span>
 
 comment: >
   <br>
-  <span style="background-color: rgba(255, 140, 66, 0.75); padding: 8px; color: white; border-radius: 5px;">
+  <span style="background-color: rgba(201, 168, 76, 0.75); padding: 8px; color: white; border-radius: 5px;">
     Arbeits- und Gesundheitsschutz
   </span>
 
@@ -18,7 +18,7 @@ navbar:
     DiAgnostiK
     </span>
   url: "index.html"
-  background: "#444"
+  background: "#1A2F5E"
   theme: dark
   links:
     - label: Tischler
@@ -48,7 +48,7 @@ footer: >
   <div class="d-flex flex-wrap align-items-center justify-content-between gap-3 py-1 w-100">
     <div>
       <div class="text-uppercase small mb-1" style="letter-spacing:.07em;font-size:.72em;">Webseite</div>
-      <a href="https://uelu-digital.de/" class="fw-semibold text-decoration-none" style="color:#FF8C42;">uelu-digital.de</a>
+      <a href="https://uelu-digital.de/" class="fw-semibold text-decoration-none" style="color:#C9A84C;">uelu-digital.de</a>
     </div>
     <div class="text-center">
       <div class="text-uppercase small mb-1" style="letter-spacing:.07em;font-size:.72em;">Gefördert durch</div>
@@ -75,7 +75,7 @@ meta:
 collection:
   # Introduction section
   - html: >
-      <div style="padding: 20px; background-color: rgba(11, 110, 117, 0.1); border-radius: 8px; margin: 20px 0;">
+      <div style="padding: 20px; background-color: rgba(26, 47, 94, 0.1); border-radius: 8px; margin: 20px 0;">
         <h2>📚 Über diesen Kurs</h2>
         <p>
           Diese Vorlesung bietet eine <strong>praxisnahe Einführung in die Welt der Datenbanken</strong> 
