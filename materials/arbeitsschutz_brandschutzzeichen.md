@@ -23,7 +23,7 @@ import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_Dr
 
 tags:      Arbeitssicherheit,
            Brandschutzzeichen,
-           Arbeits-_und_Gesundheitsschutz
+           Gesundheitsschutz
 
 -->
 

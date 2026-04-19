@@ -26,7 +26,7 @@ title:     Sicherheitszeichen
 
 tags:      Arbeitssicherheit,
            Sicherheitszeichen,
-           Arbeits-_und_Gesundheitsschutz
+           Gesundheitsschutz
 
 -->
 

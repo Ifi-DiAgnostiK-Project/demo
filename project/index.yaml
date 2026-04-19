@@ -89,104 +89,208 @@ collection:
 
   - title: Tischler
     link: tischler.html
-    comment: 17 Kurse
+    comment: >
+      Beschreibung: Lerneinheiten für Tischler: Holzarten, Werkzeuge, Verbindungen und Grundlagen der Holzbearbeitung für die Ausbildung im Tischlerhandwerk.
+      <br>
+      <i>17 Kurse</i>
+
     logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/assets/img/hero/tischler.png
     tags: 
-      - Tischler
-      - Holzarten
+      - arbeitssicherheit
+      - bghm
+      - gefahrstoffe
+      - gestellbau
+      - ghm
+      - holz
+      - holzarten
+      - holzbau
+      - holzbearbeitungsmaschinen
+      - holzfügearten
+      - holzverbindung
+      - holzverbindungskonstruktionen
+      - holzverbindungstechniken
+      - korpusbau
+      - lacke
+      - möbelbau
+      - oberflächenveredelung
+      - rahmenbau
+      - schleifen
+      - schreiner
+      - tischler
+      - verbindungstechnik
+      - ölen
 
   - title: SHK
     link: shk.html
-    comment: 4 Kurse
+    comment: >
+      Beschreibung: Lerneinheiten für SHK: Arbeitsschutz, Gesundheitsschutz und Grundlagen der Anlagenmechanik.
+      <br>
+      <i>4 Kurse</i>
     logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/assets/img/hero/shk.png
     tags:
-      - SHK
-      - Arbeitsschutz
-      - Gesundheitsschutz
-      - Grundkurs
-      - Anlagenmechanik
-    #logo: https://github.com/TUBAF-IfI-LiaScript/VL_ProzeduraleProgrammierung/blob/master/images/12_Anwendung/DistanzSetup_vonLinks.jpeg?raw=true
+      - anlagenmechaniker
+      - arbeitsschutz
+      - gesundheitsschutz
+      - grundkurs
+      - shk
 
   - title: Zahntechniker
     link: zahntechniker.html
-    comment: 8 Kurse
+    comment: >
+      Beschreibung: Lerneinheiten für Zahntechniker: Zahnersatz, Zahnprothese und verwandte Themen.
+      <br>
+      <i>8 Kurse</i>
     logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/assets/img/hero/zahntechniker.png
     tags:
-      - Zahntechniker
-      - Zahnersatz
-      - Zahnprothese
-      - Prothese
-      - Einbettmassen
-      - Dreisatz
-      - Krone
-      - CAD-Schiene
-      - Kieferorthopädie
-      - CAD/CAM
-      - Konstruktion
-      - Design
-      - Zahnklammer
-      - Doppelkrone
-      - Verblendung
-      - Fräs - und Verblendtechniken
-      - Fräsen
-    #logo: https://github.com/TUBAF-IfI-LiaScript/VL_ProzeduraleProgrammierung/blob/master/images/12_Anwendung/DistanzSetup_vonLinks.jpeg?raw=true
+      - cad
+      - cad-schiene
+      - cam
+      - design
+      - doppelkrone
+      - dreisatz
+      - einbettmassen
+      - fräs- und verblendtechniken
+      - fräsen
+      - kieferorthopädie
+      - konstruktion
+      - krone
+      - primärteleskop
+      - prothese
+      - prothetik
+      - verblendung
+      - zahnersatz
+      - zahnklammer
+      - zahnprothese
+      - zahntechniker
+      - zahntechnische werkstücke
 
   - title: Maler
     link: maler.html
-    comment: 4 Kurse
+    comment: >
+      Beschreibung: Lerneinheiten für Maler: Grundlagen, Techniken und Materialien für die Ausbildung im Malerhandwerk.
+      <br>
+      <i>4 Kurse</i>
     logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/assets/img/hero/maler.png
     tags:
-      - Maler
-      - Grundkurs
-      - Tapezieren
-      - Tapezierwerkzeuge
-      - Werkzeuge
-      - Raumausstatter
-      - Lackierer
-      - Raumgestaltung
-      - Vorrichten
-      - Handwerk
-      - Wärmedemmung
-      - Verbundsystem
-      - Wärme-Dämm-Verbundsystem
-      - Armierungsmasse
-      - Strukturputz
-      - Fassade
-      - Tapeten
-      - Untertapete
-      - Makulatur
-      - Altanstrich
-      - Spachteln
-      - Schleifen
-      - Anstrich
-      - Kleister
+      - altanstrich
+      - armierungsmasse
+      - aufmaß
+      - fassade
+      - grundkurs
+      - handwerk
+      - kleister
+      - lackierer
+      - makulatur
+      - maler
+      - raumausstatter
+      - raumgestaltung
+      - schleifen
+      - spachteln
+      - strukturputz
+      - tapeten
+      - tapezieren
+      - tapezierwerkzeuge
+      - untertapete
+      - verbundsystem
+      - vorrichten
+      - werkzeuge
+      - wärme-dämm-verbundsystem
+      - wärmedämmung
 
   - title: Raumausstatter
     link: raumausstatter.html
-    comment: 8 Kurse
+    comment: >
+      Beschreibung: Lerneinheiten für Raumausstatter: Design, Materialien und Techniken für die Ausbildung im Raumausstatterhandwerk.
+      <br>
+      <i>8 Kurse</i>
     logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/assets/img/hero/raumausstatter.png
+    tags:
+      - altanstrich
+      - aufmaß
+      - bleichen
+      - bügeln
+      - gestellbau
+      - handwerk
+      - holz
+      - holzgestelle
+      - holzverbindung
+      - kleister
+      - lackierer
+      - makulatur
+      - maler
+      - polsterei
+      - polstergestellbau
+      - polstergestelle
+      - polstermöbel
+      - polstern
+      - raumausstatter
+      - schleifen
+      - spachteln
+      - tapeten
+      - tapezieren
+      - textilpflege
+      - trocknen
+      - untertapete
+      - waschen
+      - werkstoffe
 
   - title: Belehrungen
     link: belehrungen.html
-    comment: 2 Kurse
+    comment: >
+      Beschreibung: Lerneinheiten für Belehrungen: Informationen und Schulungen für die berufliche Ausbildung im Handwerk.
+      <br>
+      <i>2 Kurse</i>
     logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/assets/img/hero/belehrungen.png
+    tags:
+      - Belehrungen
+
 
   - title: Arbeits- und Gesundheitsschutz
     link: arbeits-und-gesundheitsschutz.html
-    comment: 6 Kurse
-    logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/assets/img/hero/arbeits-und-gesundheitsschutz.png
+    comment: >
+      Beschreibung: Lerneinheiten für Arbeits- und Gesundheitsschutz: Sicherheit und Gesundheit im Arbeitsumfeld.
+      <br>
+      <i>6 Kurse</i>
+    logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/assets/img/hero/arbeitsschutz.png
+    tags:
+      - arbeitssicherheit
+      - brandschutzzeichen
+      - gesundheitsschutz
+      - leitern
+      - sicherheitszeichen
 
   - title: Umfragen
     link: umfragen.html
-    comment: 3 Kurse
+    comment: >
+      Beschreibung: Lerneinheiten für Umfragen: Informationen und Schulungen für die berufliche Ausbildung im Handwerk.
+      <br>
+      <i>3 Kurse</i>
     logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/assets/img/hero/umfragen.png
+    tags:
+      - Umfragen
+      - Teilnehmerbefragung
 
   - title: Wissensspeicher
     link: wissensspeicher.html
-    comment: 14 Kurse
+    comment: >
+      Beschreibung: Sammlung von Kursvorlagen und Templates.
+      <br>
+      <i>14 Kurse</i>
     logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/assets/img/hero/wissensspeicher.png
+    tags:
+      - arbeitssicherheit
+      - gefahrstoffe
+      - gesundheitsschutz
+      - wissensspeicher
 
   - title: Experimente
     link: experimente.html
-    comment: 6 Kurse
+    comment: >
+      Beschreibung: Experimentelle Elemente und Kurse.
+      <br>
+      <i>6 Kurse</i>
     logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/assets/img/hero/experimente.png
+    tags:
+      - experimente
+      - konva
+      - tsm

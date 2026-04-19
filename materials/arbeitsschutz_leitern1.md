@@ -26,8 +26,8 @@ import:   https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_Dra
           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
 
 tags:     Arbeitssicherheit,
-          Leitern,
-          Arbeits-_und_Gesundheitsschutz
+          Gesundheitsschutz,
+          Leitern
 
 -->
 

@@ -27,8 +27,7 @@ import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragA
         https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
 
 tags: Arbeitssicherheit,
-      Gesundheitsschutz,
-      Arbeits-_und_Gesundheitsschutz
+      Gesundheitsschutz
 
 -->
 
