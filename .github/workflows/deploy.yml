@@ -1,0 +1,77 @@
+name: Deploy DiAgnostiK to GitHub Pages
+
+on:
+    push:
+        branches:
+            - main
+
+permissions:
+    contents: write
+
+jobs:
+    build-and-deploy:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4
+
+            - name: Set up Node.js
+              uses: actions/setup-node@v4
+              with:
+                  node-version: "22"
+
+            - name: Install LiaScript Exporter
+              run: npm install -g @liascript/exporter
+
+            - name: Install Chromium system dependencies (for PDF generation)
+              run: |
+                  sudo apt-get update
+                  sudo apt-get install -y \
+                    libgbm-dev libatk1.0-0 libatk-bridge2.0-0 libcups2 libdrm2 \
+                    libxkbcommon0 libxcomposite1 libxdamage1 libxfixes3 libxrandr2 \
+                    libpango-1.0-0 libcairo2 libasound2t64 libnss3 libnspr4 \
+                    fonts-liberation ca-certificates wget
+
+            - name: Generate all project pages
+              working-directory: project
+              env:
+                  PUPPETEER_ARGS: "--no-sandbox --disable-setuid-sandbox"
+              run: |
+                  liaex -f project -i index.yaml                          -o index
+                  liaex -f project -i arbeits-und-gesundheitsschutz.yaml  -o arbeits-und-gesundheitsschutz  --project-search #--project-generate-pdf --project-generate-scorm12
+                  liaex -f project -i belehrungen.yaml                    -o belehrungen                    --project-search #--project-generate-pdf --project-generate-scorm12
+                  liaex -f project -i maler.yaml                          -o maler                          --project-search #--project-generate-pdf --project-generate-scorm12
+                  liaex -f project -i raumausstatter.yaml                 -o raumausstatter                 --project-search #--project-generate-pdf --project-generate-scorm12
+                  liaex -f project -i shk.yaml                            -o shk                            --project-search #--project-generate-pdf --project-generate-scorm12
+                  liaex -f project -i sonstige.yaml                       -o sonstige                       --project-search #--project-generate-pdf --project-generate-scorm12
+                  liaex -f project -i tischler.yaml                       -o tischler                       --project-search #--project-generate-pdf --project-generate-scorm12
+                  liaex -f project -i umfragen.yaml                       -o umfragen                       --project-search #--project-generate-pdf --project-generate-scorm12
+                  liaex -f project -i wissensspeicher.yaml                -o wissensspeicher                --project-search #--project-generate-pdf --project-generate-scorm12
+                  liaex -f project -i zahntechniker.yaml                  -o zahntechniker                  --project-search #--project-generate-pdf --project-generate-scorm12
+
+            - name: Prepare deployment directory
+              run: |
+                  mkdir -p gh-pages-deploy
+                  # Generated HTML files
+                  cp project/*.html gh-pages-deploy/
+                  # Generated PDFs
+                  find project -name "*.pdf" -exec cp {} gh-pages-deploy/ \;
+                  # Generated SCORM packages (ZIP)
+                  find project -name "*.zip" -exec cp {} gh-pages-deploy/ \;
+                  # Assets (images, CSS) referenced by the project pages
+                  cp -r assets gh-pages-deploy/
+
+            - name: Deploy to GitHub Pages
+              uses: peaceiris/actions-gh-pages@v4
+              with:
+                  github_token: ${{ secrets.GITHUB_TOKEN }}
+                  publish_branch: gh-pages
+                  publish_dir: gh-pages-deploy
+                  force_orphan: true
+                  commit_message: "Deploy: ${{ github.event.head_commit.message }}"
+
+            - name: Output deployed URL
+              run: |
+                  echo "✅ Deployed successfully!"
+                  echo "URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/"
