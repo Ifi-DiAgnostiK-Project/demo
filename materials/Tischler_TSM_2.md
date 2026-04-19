@@ -358,7 +358,7 @@ Als PSA sind mindestens Sicherheitsschuhe, Schutzbrille, Gehörschutz und Arbeit
 </div>
 <div class="flex-child-2 center">
 
-![Kettensäge](../assets/img/stihl_kettensaege.png "[_Quelle: Freepik, user18526052_](https://www.freepik.com/free-photo/outdoor-closeup-shot-chainsaw-stump-wood_15755904.htm#fromView=search&page=1&position=0&uuid=6b5360bf-881c-4d34-af0c-b7d0d9cb6dca&query=Kettens%C3%A4ge)")<!-- style="max-width: 350px; width: 110%;margin-left: -10px; margin-top:0px;" -->
+![Kettensäge](../assets/img/stihl_kettensaege.jpg "[_Quelle: Freepik, user18526052_](https://www.freepik.com/free-photo/outdoor-closeup-shot-chainsaw-stump-wood_15755904.htm#fromView=search&page=1&position=0&uuid=6b5360bf-881c-4d34-af0c-b7d0d9cb6dca&query=Kettens%C3%A4ge)")<!-- style="max-width: 350px; width: 110%;margin-left: -10px; margin-top:0px;" -->
 
 </div>
 </section>
@@ -392,7 +392,7 @@ Es ist eine rückschlagarme Sägekette mit Spandickenbegrenzung zu verwenden. - 
 </div>
 <div class="flex-child-2 center">
 
-![Saegekette](../assets/img/kettensaegekette_mit_maass.png "_Quelle: BGHM_")<!-- style="max-width: 350px; width: 110%;margin-left: -10px; margin-top:0px;" -->
+![Saegekette](../assets/img/kettensaegekette_mit_maass.jpg "_Quelle: BGHM_")<!-- style="max-width: 350px; width: 110%;margin-left: -10px; margin-top:0px;" -->
 
 </div>
 </section>
@@ -845,7 +845,7 @@ Das Werkstück muss an der Rückschlagsicherung und vorn am Anschlag liegen. - S
 </div>
 <div class="flex-child-2 center">
 
-![Rückschlagsicherung](../assets/img/abrichte_mit_brett_und_sicherheitsdingens.png "_Quelle: BGHM_")<!-- style="max-width: 350px; width: 120%;margin-left: -30px; margin-top:0px;" -->
+![Rückschlagsicherung](../assets/img/abrichte_mit_brett_und_sicherheitsdingens.jpg "_Quelle: BGHM_")<!-- style="max-width: 350px; width: 120%;margin-left: -30px; margin-top:0px;" -->
 
 </div>
 </section>
@@ -875,7 +875,7 @@ Die Spannlade ist zu verwenden, sobald das Werkstück in die Spannlade passt.. -
 </div>
 <div class="flex-child-2 center">
 
-![Spannlade](../assets/img/fraese_anschlaege_drei_stueck.png "_Quelle: BGHM_")<!-- style="max-width: 350px; width: 120%;margin-left: -30px; margin-top:0px;" -->
+![Spannlade](../assets/img/fraese_anschlaege_drei_stueck.jpg "_Quelle: BGHM_")<!-- style="max-width: 350px; width: 120%;margin-left: -30px; margin-top:0px;" -->
 
 </div>
 </section>
@@ -895,7 +895,7 @@ Folgende Angaben sind bekannt:
 </div>
 <div class="flex-child-2 center">
 
-![Fraeswerkzeug](../assets/img/fraeswerkzeug_man.png " _Quelle: BGHM_")<!-- style="max-width: 500px; width: 100%; margin-left: -70px; margin-top:20px;" -->
+![Fraeswerkzeug](../assets/img/fraeswerkzeug_man.jpg " _Quelle: BGHM_")<!-- style="max-width: 500px; width: 100%; margin-left: -70px; margin-top:20px;" -->
 
 
 

@@ -14,7 +14,7 @@ comment:  Goldener Schnitt -- Raumausstatter
 
 edit: true
 date: 2025-07-08
-logo: ../assets/img/da_vinci.png
+logo: ../assets/img/da_vinci.jpg
 icon: ../assets/img/Logo_234px.png
 
 import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
@@ -50,9 +50,9 @@ tags:   Raumausstatter
 
 # Der Goldene Schnitt
 
-![Da Vinci](../assets/img/da_vinci.png "_Quelle:_ Da Vinci Vitruve Luc Viatour 2.svg; Wikipedia;")
+![Da Vinci](../assets/img/da_vinci.jpg "_Quelle:_ Da Vinci Vitruve Luc Viatour 2.svg; Wikipedia;")
 
-![Illustration Goldener Schnitt](../assets/img/goldener_schnitt_illustration.png "_Quelle:_ Generiert von Dall-E 3, An OpenAI Model, 2025")<!-- style="width: 400px;" -->
+![Illustration Goldener Schnitt](../assets/img/goldener_schnitt_illustration.jpg "_Quelle:_ Generiert von Dall-E 3, An OpenAI Model, 2025")<!-- style="width: 400px;" -->
 
 ## Einführung
 
@@ -69,7 +69,7 @@ tags:   Raumausstatter
 <!-- style="width: 800px" -->
 
 
-![golden ratio examples](../assets/img/golden_ratio_collage.png "_Quelle:_ Generiert von Dall-E 3, An OpenAI Model, 2025")
+![golden ratio examples](../assets/img/golden_ratio_collage.jpg "_Quelle:_ Generiert von Dall-E 3, An OpenAI Model, 2025")
 
 ## 🎨 Grafische Darstellung des Goldenen Schnitts
 

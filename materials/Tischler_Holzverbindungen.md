@@ -10,7 +10,7 @@ edit: true
 date: 2026-01-24
 
 icon: ../assets/img/Logo_234px.png
-logo: ../assets/img/woodwall_corner.png
+logo: ../assets/img/woodwall_corner.jpg
 attribute: "Quelle Titlebild: pixabay"
 comment:  Typische Holzverbindungen im Tischlerhandwerk
 
@@ -71,7 +71,7 @@ Testen Sie Ihr Wissen zu den wichtigsten Holzverbindungen!
 
 <center>
 
-![Collage_Holzverbindung](../assets/img/zinken_comparison_through.png "_Abbildung von zwei typischen Holzverbindungen, Fotos: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%" -->
+![Collage_Holzverbindung](../assets/img/zinken_comparison_through.jpg "_Abbildung von zwei typischen Holzverbindungen, Fotos: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%" -->
 
 </center>
 
@@ -156,14 +156,14 @@ data-max-trials="3"
 </div>
 <div class="flex-child-2 center">
 
-![Dübelverbindung](../assets/img/Holzverb_duebel_zoom.png "_Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%; margin-left:-50px; margin-top:10px;" -->
+![Dübelverbindung](../assets/img/Holzverb_duebel_zoom.jpg "_Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%; margin-left:-50px; margin-top:10px;" -->
 
 </div>
 </section>
 
 <center>
 
-![Dübelverbindung_groß](../assets/img/Holzverb_duebel.png)<!-- style="max-width: 550px; width: 100%" -->
+![Dübelverbindung_groß](../assets/img/Holzverb_duebel.jpg)<!-- style="max-width: 550px; width: 100%" -->
 
 </center>
 
@@ -228,7 +228,7 @@ data-max-trials="3"
 
 <center>
 
-![Schwalbenschwanz_durchgehend](../assets/img/zinken_auseinander.png)<!-- style="max-width: 450px; width: 100%" -->
+![Schwalbenschwanz_durchgehend](../assets/img/zinken_auseinander.jpg)<!-- style="max-width: 450px; width: 100%" -->
 
 </center>
 
@@ -321,7 +321,7 @@ data-max-trials="3"
 </div>
 <div class="flex-child-2 center">
 
-![Dominoverbindung](../assets/img/verbinder_langduebel_zoom.png "_Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%; margin-left:-50px; margin-top:80px;" -->
+![Dominoverbindung](../assets/img/verbinder_langduebel_zoom.jpg "_Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%; margin-left:-50px; margin-top:80px;" -->
 
 </div>
 </section>
@@ -387,7 +387,7 @@ data-max-trials="3"
 </div>
 <div class="flex-child-2 center">
 
-![Rundzapfen_verkeilt_fertig](../assets/img/loch_prepared_wall_winkel.png "_Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%; margin-left:-50px; margin-top:10px;" -->
+![Rundzapfen_verkeilt_fertig](../assets/img/loch_prepared_wall_winkel.jpg "_Quelle: HWK Dresden, Florian Riefling_")<!-- style="max-width: 550px; width: 100%; margin-left:-50px; margin-top:10px;" -->
 
 </div>
 </section>

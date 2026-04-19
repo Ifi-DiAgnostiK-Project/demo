@@ -314,9 +314,9 @@ Ordnen Sie den Zahlen 1 - 6 im Bild den jeweils richtigen Fachbegriff zu.
 
 
 </div>
-<div class="flex-child" style="margin-top:100px;">>
+<div class="flex-child" style="margin-top:100px;">
 
-![Modellanalyse](../assets/img/abdruck_for_quiz.png "_Quelle: HWK Dresden, Alexander Meiwald_")<!-- style="max-width: 550px; width: 100%" -->
+![Modellanalyse](../assets/img/abdruck_for_quiz.jpg "_Quelle: HWK Dresden, Alexander Meiwald_")<!-- style="max-width: 550px; width: 100%" -->
 
 
 </div>

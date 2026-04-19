@@ -388,7 +388,7 @@ Folgende Antworten sind richtig:\
 
 <center>
 
-![verschmutzte_Saege](../assets/img/riesengrosse_kreissaege.png "_Quelle: BGHM_")<!-- style="max-width: 700px; width: 100%; margin-left: -80px; margin-top:0px;" -->
+![verschmutzte_Saege](../assets/img/riesengrosse_kreissaege.jpg "_Quelle: BGHM_")<!-- style="max-width: 700px; width: 100%; margin-left: -80px; margin-top:0px;" -->
 
 </center>
 
@@ -420,7 +420,7 @@ Die Lösung lautet: 8 mm. - Siehe dazu das TSM-Lehrbuch, S. 17.
 
 <center>
 
-![TFKS_Anleimer](../assets/img/Marfin_saege_mit_Schiebedingens.png "_Quelle: BGHM_")<!-- style="max-width: 700px; width: 100%; margin-left: -80px; margin-top:0px;" -->
+![TFKS_Anleimer](../assets/img/Marfin_saege_mit_Schiebedingens.jpg "_Quelle: BGHM_")<!-- style="max-width: 700px; width: 100%; margin-left: -80px; margin-top:0px;" -->
 
 </center>
 
@@ -449,7 +449,7 @@ Die Lösung lautet: 2 mm. - Siehe dazu das TSM-Lehrbuch, S. 17.
 </div>
 <div class="flex-child-2 center">
 
-![Spaltkeil](../assets/img/saegezaehne_spaltkeil_closeup.png "_Quelle: BGHM_")<!-- style="max-width: 450px; width: 120%; margin-left: -40px; margin-top: 40px;" -->
+![Spaltkeil](../assets/img/saegezaehne_spaltkeil_closeup.jpg "_Quelle: BGHM_")<!-- style="max-width: 450px; width: 120%; margin-left: -40px; margin-top: 40px;" -->
 
 
 </div>
@@ -478,7 +478,7 @@ Der Anschlag erfolgt flach und vor das Sägeblatt zurückzuziehen, damit ein Kle
 </div>
 <div class="flex-child-2 center">
 
-![TFKS_Anleimer](../assets/img/Marfin_saege_mit_Schiebedingens.png "_Quelle: BGHM_")<!-- style="max-width: 300px; width: 120%;margin-left: -50px; margin-top:20px;" -->
+![TFKS_Anleimer](../assets/img/Marfin_saege_mit_Schiebedingens.jpg "_Quelle: BGHM_")<!-- style="max-width: 300px; width: 120%;margin-left: -50px; margin-top:20px;" -->
 
 </div>
 </section>
@@ -506,7 +506,7 @@ Die Schutzhaube ist auf Werkstückdicke einzustellen.
 </div>
 <div class="flex-child-2 center">
 
-![TFKS_Anleimer](../assets/img/Marfin_saege_mit_Schiebedingens.png "_Quelle: BGHM_")<!-- style="max-width: 300px; width: 120%;margin-left: -50px; margin-top:20px;" -->
+![TFKS_Anleimer](../assets/img/Marfin_saege_mit_Schiebedingens.jpg "_Quelle: BGHM_")<!-- style="max-width: 300px; width: 120%;margin-left: -50px; margin-top:20px;" -->
 
 </div>
 </section>
@@ -783,7 +783,7 @@ Es ist wichtig, Aufbau, Einstellmöglichkeiten und Schutzeinrichtungen zu kennen
 <br>
 <center>
 
-![Tischfräse](../assets/img/Seitenfraese_in_aktion.png "_Quelle: BGHM_")<!-- style="max-width: 350px; width: 100%" -->
+![Tischfräse](../assets/img/Seitenfraese_in_aktion.jpg "_Quelle: BGHM_")<!-- style="max-width: 350px; width: 100%" -->
 
 </center>
 
@@ -797,10 +797,10 @@ _Abb.: BGHM_<!-- style="margin-left: 750px;" -->
 
 <!--data-randomize -->
 - [  [Einteiliges Werkzeug]     [Verbundwerkzeug]        [Werkzeugsatz]     [zusammengesetztes Werkzeug]  ]
-- [           (x)                         ( )                  ( )                       ( )              ] ![Einteiliges_Werkzeug](../assets/img/3_zuegiger_bohrere.png)<!-- style="max-width: 150px;" -->
-- [           ( )                         (X)                  ( )                       ( )              ] ![Verbundwerkzeug](../assets/img/bohrer_fraes_kopf.png)<!-- style="max-width: 150px;" -->
-- [           ( )                         ( )                  (x)                       ( )              ] ![Werkzeugsatz](../assets/img/fraesenkopf_cutter.png)<!-- style="max-width: 150px;" -->
-- [           ( )                         ( )                  ( )                       (X)              ] ![zusammengesetztes_Werkzeug](../assets/img/fraese_fetter_cutter.png)<!-- style="max-width: 150px;" -->
+- [           (x)                         ( )                  ( )                       ( )              ] ![Einteiliges_Werkzeug](../assets/img/3_zuegiger_bohrere.jpg)<!-- style="max-width: 150px;" -->
+- [           ( )                         (X)                  ( )                       ( )              ] ![Verbundwerkzeug](../assets/img/bohrer_fraes_kopf.jpg)<!-- style="max-width: 150px;" -->
+- [           ( )                         ( )                  (x)                       ( )              ] ![Werkzeugsatz](../assets/img/fraesenkopf_cutter.jpg)<!-- style="max-width: 150px;" -->
+- [           ( )                         ( )                  ( )                       (X)              ] ![zusammengesetztes_Werkzeug](../assets/img/fraese_fetter_cutter.jpg)<!-- style="max-width: 150px;" -->
 
 
 <!--style="background-color:#FFA500;color: white"-->
@@ -816,9 +816,9 @@ _Abb.: BGHM_<!-- style="margin-left: 750px;" -->
 
 <!--data-randomize -->
 - [  [Druck- und Schutzvorrichtung]     [Bogenfeder]        [Vorschubapparat]     ]
-- [           (x)                         ( )                  ( )                ] ![Druck-_und_Schutzvorrichtung](../assets/img/Seitenfraese_mit_anderen_sicherheitsmechanismen.png)<!-- style="max-width: 200px;" -->
-- [           ( )                         (X)                  ( )                ] ![Bogenfeder](../assets/img/Seitenfraese_mit_sicherheitsmechanismen.png)<!-- style="max-width: 200px;" -->
-- [           ( )                         ( )                  (x)                ] ![Vorschubapparat](../assets/img/alte_seiten_fraese.png)<!-- style="max-width: 200px;" -->
+- [           (x)                         ( )                  ( )                ] ![Druck-_und_Schutzvorrichtung](../assets/img/Seitenfraese_mit_anderen_sicherheitsmechanismen.jpg)<!-- style="max-width: 200px;" -->
+- [           ( )                         (X)                  ( )                ] ![Bogenfeder](../assets/img/Seitenfraese_mit_sicherheitsmechanismen.jpg)<!-- style="max-width: 200px;" -->
+- [           ( )                         ( )                  (x)                ] ![Vorschubapparat](../assets/img/alte_seiten_fraese.jpg)<!-- style="max-width: 200px;" -->
 
 
 <!--style="background-color:#FFA500;color: white"-->

@@ -197,7 +197,7 @@ data-solution-button="off"
 </div>
 <div class="flex-child" style="margin-top:100px;">
 
-![Aufbau WDVS](../assets/img/bauwerk_schichten_nr.png "[_Quelle: energie-experten.org, Grafik: Südwest_](https://www.energie-experten.org/bauen-und-sanieren/daemmung/wdvs/aufbau#fancy_group_6844)")<!-- style="max-width: 550px; width: 100%" -->
+![Aufbau WDVS](../assets/img/bauwerk_schichten_nr.jpg "[_Quelle: energie-experten.org, Grafik: Südwest_](https://www.energie-experten.org/bauen-und-sanieren/daemmung/wdvs/aufbau#fancy_group_6844)")<!-- style="max-width: 550px; width: 100%" -->
 
 
 </div>

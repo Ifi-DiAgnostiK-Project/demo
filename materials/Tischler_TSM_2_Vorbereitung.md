@@ -449,7 +449,7 @@ Die Lösung lautet: 8 mm. - Siehe dazu das TSM-Lehrbuch, S. 38.
 </div>
 <div class="flex-child-2 center">
 
-![Spaltkeil](../assets/img/Kreissaege_spaltkeil.png "_Quelle: BGHM_")<!-- style="max-width: 450px; width: 120%; margin-left: -40px; margin-top: 40px;" -->
+![Spaltkeil](../assets/img/Kreissaege_spaltkeil.jpg "_Quelle: BGHM_")<!-- style="max-width: 450px; width: 120%; margin-left: -40px; margin-top: 40px;" -->
 
 
 </div>
@@ -479,7 +479,8 @@ Die Lösung lautet: 2 mm. - Siehe dazu das TSM-Lehrbuch, S. 38.
 
 </div>
 <div class="flex-child-2 center">
-![Spaltkeil](../assets/img/Kreissaege_spaltkeil.png "_Quelle: BGHM_")<!-- style="max-width: 450px; width: 120%; margin-left: -40px; margin-top: 40px;" -->
+
+![Spaltkeil](../assets/img/Kreissaege_spaltkeil.jpg "_Quelle: BGHM_")<!-- style="max-width: 450px; width: 120%; margin-left: -40px; margin-top: 40px;" -->
 
 
 </div>
@@ -665,7 +666,7 @@ data-max-trials="3"
 </div>
 <div class="flex-child-2 center">
 
-![Tischfräsmaschine](../assets/img/cgi_router_numbers_scheme.png "_Quelle: BGHM_")<!-- style="max-width: 550px; width: 150%; margin-left: -150px; margin-top:0px;" -->
+![Tischfräsmaschine](../assets/img/cgi_router_numbers_scheme.jpg "_Quelle: BGHM_")<!-- style="max-width: 550px; width: 150%; margin-left: -150px; margin-top:0px;" -->
 
 </div>
 </section>
@@ -731,7 +732,7 @@ Linkslauf
 </div>
 <div class="flex-child-2 center">
 
-![Linkslauf](../assets/img/inversionsschalter_andere_richtung.png "_Quelle: BGHM_")<!-- style="max-width: 250px; width: 130%;margin-left: -50px; margin-top:20px;" -->
+![Linkslauf](../assets/img/inversionsschalter_andere_richtung.jpg "_Quelle: BGHM_")<!-- style="max-width: 250px; width: 130%;margin-left: -50px; margin-top:20px;" -->
 
 </div>
 </section>
@@ -761,7 +762,7 @@ Rechtslauf
 </div>
 <div class="flex-child-2 center">
 
-![Rechtslauf](../assets/img/inversionsschalter.png "_Quelle: BGHM_")<!-- style="max-width: 250px; width: 130%;margin-left: -50px; margin-top:20px;" -->
+![Rechtslauf](../assets/img/inversionsschalter.jpg "_Quelle: BGHM_")<!-- style="max-width: 250px; width: 130%;margin-left: -50px; margin-top:20px;" -->
 
 </div>
 </section>
@@ -871,7 +872,7 @@ Folgende Antworten sind richtig:\
 </div>
 <div class="flex-child-2 center">
 
-![Hilfsmittel_Tischfraese](../assets/img/fraese_anschlaege_drei_stueck.png "_Quelle: BGHM_")<!-- style="max-width: 400px; width: 130%;margin-left: -100px; margin-top:20px;" -->
+![Hilfsmittel_Tischfraese](../assets/img/fraese_anschlaege_drei_stueck.jpg "_Quelle: BGHM_")<!-- style="max-width: 400px; width: 130%;margin-left: -100px; margin-top:20px;" -->
 
 </div>
 </section>
@@ -915,7 +916,7 @@ data-solution-button="off"
 
 <center>
 
-![Hilfsmittel_Tischfraese](../assets/img/fraese_anschlaege_drei_stueck.png "_Quelle: BGHM_")<!-- style="max-width: 400px; width: 130%;margin-left: -100px; margin-top:20px;" -->
+![Hilfsmittel_Tischfraese](../assets/img/fraese_anschlaege_drei_stueck.jpg "_Quelle: BGHM_")<!-- style="max-width: 400px; width: 130%;margin-left: -100px; margin-top:20px;" -->
 
 </center>
 

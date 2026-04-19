@@ -77,7 +77,7 @@ Wir wünschen Ihnen viel Erfolg beim Beantworten der Fragen!
 <br> <br>
 <center>
 
-![Polstergestelle](../assets/img/polstersessel_halfed.webp "[_Quelle: Sudenn-Holzbearbeitung_](https://sudenn-holzbearbeitung.de/polstergestellbau/)")<!-- style="max-width: 550px; width: 100%" -->
+![Polstergestelle](../assets/img/polstersessel_halfed.jpg "[_Quelle: Sudenn-Holzbearbeitung_](https://sudenn-holzbearbeitung.de/polstergestellbau/)")<!-- style="max-width: 550px; width: 100%" -->
 
 </center>
 
@@ -144,7 +144,7 @@ Welche Holzarten und Holzverbundarten werden typischerweise für ~~Blindholzgest
 </div>
 <div class="flex-child">
 
-![Blindholzgestell](../assets/img/build_eckbank.webp "[_Quelle: Sudenn-Holzbearbeitung_](https://sudenn-holzbearbeitung.de/polstergestellbau/)")<!-- style="max-width: 350px; width: 100%; margin-left: 30px; margin-top:100px;" -->
+![Blindholzgestell](../assets/img/build_eckbank.jpg "[_Quelle: Sudenn-Holzbearbeitung_](https://sudenn-holzbearbeitung.de/polstergestellbau/)")<!-- style="max-width: 350px; width: 100%; margin-left: 30px; margin-top:100px;" -->
 
 </div>
 </section>
@@ -171,7 +171,7 @@ Welche Holzarten werden typischerweise für ~~Vollholzgestelle~~ verwendet?
 </div>
 <div class="flex-child">
 
-![Vollholzgestell](../assets/img/polstergestell_production.webp "[_Quelle: Sudenn-Holzbearbeitung_](https://sudenn-holzbearbeitung.de/polstergestellbau/)")<!-- style="max-width: 350px; width: 100%; margin-left: 30px; margin-top:100px;" -->
+![Vollholzgestell](../assets/img/polstergestell_production.jpg "[_Quelle: Sudenn-Holzbearbeitung_](https://sudenn-holzbearbeitung.de/polstergestellbau/)")<!-- style="max-width: 350px; width: 100%; margin-left: 30px; margin-top:100px;" -->
 
 </div>
 </section>
@@ -198,7 +198,7 @@ Aus welchen Gestellteilen besteht ein Vollholzgestell?
 </div>
 <div class="flex-child">
 
-![Referenz_Sudenn](../assets/img/polstering.png "[_Quelle: Sudenn-Holzbearbeitung_](https://sudenn-holzbearbeitung.de/polstergestellbau/)")<!-- style="max-width: 250px; width: 100%; margin-left: 30px; margin-top:100px;" -->
+![Referenz_Sudenn](../assets/img/polstering.jpg "[_Quelle: Sudenn-Holzbearbeitung_](https://sudenn-holzbearbeitung.de/polstergestellbau/)")<!-- style="max-width: 250px; width: 100%; margin-left: 30px; margin-top:100px;" -->
 
 </div>
 </section>
@@ -486,7 +486,7 @@ Welche vier Aussagen treffen zu?
 </div>
 <div class="flex-child">
 
-![Hartwachs](../assets/img/Hartwachs_Holz_FR.JPG "Hartwachs, Bild: Florian Riefling, HWK")<!-- style="max-width: 375px; width: 100%; margin-top:30px;" -->
+![Hartwachs](../assets/img/Hartwachs_Holz_FR.jpg "Hartwachs, Bild: Florian Riefling, HWK")<!-- style="max-width: 375px; width: 100%; margin-top:30px;" -->
 
 </div>
 </section>

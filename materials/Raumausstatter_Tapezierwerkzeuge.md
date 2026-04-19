@@ -263,9 +263,10 @@ Das gezeigte Werkzeug ist ein Tapetenabreißer, der mit seiner leicht gezackten 
 
 </div>
 <div class="flex-child-2 center">
-![Tapetenabreißer](../assets/img/zackenbrett_in_gross.png "_Quelle: HWK Dresden, Kay Deblitz_")<!--style="max-width: 350px; width: 100%; margin-left: -20px; margin-top:-100px;" -->
 
-![Detail_Tapetenabreißer](../assets/img/zackenbrett_fuer_raumausstatter.png)<!--style="max-width: 200px; width: 100%;  margin-top:-100px;" -->
+![Tapetenabreißer](../assets/img/zackenbrett_in_gross.jpg "_Quelle: HWK Dresden, Kay Deblitz_")<!--style="max-width: 350px; width: 100%; margin-left: -20px; margin-top:-100px;" -->
+
+![Detail_Tapetenabreißer](../assets/img/zackenbrett_fuer_raumausstatter.jpg)<!--style="max-width: 200px; width: 100%;  margin-top:-100px;" -->
 
 </div>
 </section>
@@ -318,7 +319,7 @@ Das gezeigte Werkzeug ist eine Igel- oder Perforationswalze zum Entfernen von Ta
 
 </div>
 <div class="flex-child-2 center">
-![Igelwalze](../assets/img/Igelwalze_KD.png "_Quelle: HWK Dresden, Kay Deblitz_")<!-- style="max-width: 350px; width: 100%; margin-left: 20px; margin-top:30px;" -->
+![Igelwalze](../assets/img/Igelwalze_KD.jpg "_Quelle: HWK Dresden, Kay Deblitz_")<!-- style="max-width: 350px; width: 100%; margin-left: 20px; margin-top:30px;" -->
 
 </div>
 </section>

@@ -450,7 +450,7 @@ Man benötigt eine Zuführhilfe, z. B. Schiebelade, oder einen Anlagewinkel. - S
 </div>
 <div class="flex-child-2 center">
 
-![Fraeswerkzeug_MAN](../assets/img/fraeswerkzeug_man.png "_Quelle: BGHM_")<!-- style="max-width: 300px; width: 100%;margin-left: -20px; margin-top:20px;" -->
+![Fraeswerkzeug_MAN](../assets/img/fraeswerkzeug_man.jpg "_Quelle: BGHM_")<!-- style="max-width: 300px; width: 100%;margin-left: -20px; margin-top:20px;" -->
 
 </div>
 </section>
@@ -484,7 +484,7 @@ Es ist wichtig, Aufbau, Einstellmöglichkeiten und Schutzeinrichtungen zu kennen
 <br>
 <center>
 
-![Tischfräse](../assets/img/Seitenfraese_mit_sicherheitsmechanismen.png "_Quelle: BGHM_")<!-- style="max-width: 350px; width: 100%" -->
+![Tischfräse](../assets/img/Seitenfraese_mit_sicherheitsmechanismen.jpg "_Quelle: BGHM_")<!-- style="max-width: 350px; width: 100%" -->
 
 </center>
 
@@ -513,7 +513,7 @@ Das Werkzeug ist auf Tischfräsmaschinen für den Handvorschub geeignet.
 </div>
 <div class="flex-child-2 center">
 
-![Fraeswerkzeug_MAN](../assets/img/fraeswerkzeug_man.png "_Quelle: BGHM_")<!-- style="max-width: 300px; width: 100%;margin-left: -20px; margin-top:20px;" -->
+![Fraeswerkzeug_MAN](../assets/img/fraeswerkzeug_man.jpg "_Quelle: BGHM_")<!-- style="max-width: 300px; width: 100%;margin-left: -20px; margin-top:20px;" -->
 
 </div>
 </section>
@@ -540,7 +540,7 @@ Mit der Angabe wird die höchstzulässige Drehzahl bezeichnet.
 </div>
 <div class="flex-child-2 center">
 
-![Fraeswerkzeug_Drehzahl](../assets/img/fraeswerkzeug_drehzahl.png "_Quelle: BGHM_")<!-- style="max-width: 300px; width: 100%;margin-left: -20px; margin-top:20px;" -->
+![Fraeswerkzeug_Drehzahl](../assets/img/fraeswerkzeug_drehzahl.jpg "_Quelle: BGHM_")<!-- style="max-width: 300px; width: 100%;margin-left: -20px; margin-top:20px;" -->
 
 </div>
 </section>
@@ -608,7 +608,7 @@ Es unbedingt ein durchgehender Anschlag und ein Nachschiebeholz zu verwenden.
 
 <center>
 
-![Fräswerkzeuge_Werkstückführung](../assets/img/fraeswerkzeuge_werkstueckfuehrung.png "_Quelle: BGHM_")<!-- style="max-width: 800px; width: 200%;margin-left: -20px; margin-top:20px;" -->
+![Fräswerkzeuge_Werkstückführung](../assets/img/fraeswerkzeuge_werkstueckfuehrung.jpg "_Quelle: BGHM_")<!-- style="max-width: 800px; width: 200%;margin-left: -20px; margin-top:20px;" -->
 
 </center>
 

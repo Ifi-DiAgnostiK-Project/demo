@@ -10,7 +10,7 @@ edit: true
 date: 2026-01-19
 
 icon: ../assets/img/Logo_234px.png
-logo: ../assets/img/tapete_freepik_logo.png
+logo: ../assets/img/tapete_freepik_logo.jpg
 attribute: title image designed by FreePik.com
 comment:  Kurs mit den Piktogrammen zur Kennzeichnung von Tapeten im Raumausstatter- und Maler-/Lackiererhandwerk
 
@@ -58,7 +58,7 @@ Viel Erfolg!
 
 <center>
 
-![Tapetensymbole_zusammengefuegt](../assets/img/tapete_tapetensymbole_closeup.png "[_Quelle: Deutsches Tapeten-Institut_](https://tapeten.de/wissenswertes/tapetensymbole)")<!-- style="max-width: 350px; width: 100%" -->
+![Tapetensymbole_zusammengefuegt](../assets/img/tapete_tapetensymbole_closeup.jpg "[_Quelle: Deutsches Tapeten-Institut_](https://tapeten.de/wissenswertes/tapetensymbole)")<!-- style="max-width: 350px; width: 100%" -->
 
 </center>
 
@@ -120,7 +120,7 @@ Was sagt diese Nummer aus?
 
 <center>
 
-![Ausschnitt_Anfertigungsnummer](../assets/img/tapete_tapetensymbole.png "_Quelle: Ausschnitt Tapetenettikett, GKZ_")<!-- style="max-width: 350px; width: 100%" -->
+![Ausschnitt_Anfertigungsnummer](../assets/img/tapete_tapetensymbole.jpg "_Quelle: Ausschnitt Tapetenettikett, GKZ_")<!-- style="max-width: 350px; width: 100%" -->
 
 </center>
 
