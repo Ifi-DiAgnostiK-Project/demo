@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="UTF-8">
+        <title>DiAgnostiK Lehr- und Lernraum</title>
+        <script type="application/ld+json">
+            {
+                "@context": "http://schema.org/",
+                    "@type": "ItemList",
+                    "itemListElement": [],
+                    "name": "DiAgnostiK Lehr- und Lernraum",
+                    "description": "Übersicht"
+            }
+        </script>
+        <meta property="og:type" content="website">
+        <meta property="og:title" content="DiAgnostiK – Digitaler Lehr- und Lernraum für das Handwerk">
+        <meta name="twitter:title" content="DiAgnostiK – Digitaler Lehr- und Lernraum für das Handwerk">
+        <meta name="description" content="Der DiAgnostiK Lernraum bietet interaktive, branchenspezifische Lernmodule für Tischler, SHK, Zahntechniker, Maler, Raumausstatter und weitere Handwerksberufe – gefördert durch die EU und den Freistaat Sachsen.">
+        <meta property="og:description" content="Der DiAgnostiK Lernraum bietet interaktive, branchenspezifische Lernmodule für Tischler, SHK, Zahntechniker, Maler, Raumausstatter und weitere Handwerksberufe – gefördert durch die EU und den Freistaat Sachsen.">
+        <meta name="twitter:description" content="Der DiAgnostiK Lernraum bietet interaktive, branchenspezifische Lernmodule für Tischler, SHK, Zahntechniker, Maler, Raumausstatter und weitere Handwerksberufe – gefördert durch die EU und den Freistaat Sachsen.">
+        <meta property="og:image" content="./assets/img/slogan_hero.jpg">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:image" content="./assets/img/slogan_hero.jpg">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+        <script>
+            // Globale Variable zum Speichern der ausgewählten Kategorien
+            window.selectedCategories = []
+
+            // Fügt einen Chip hinzu, wenn eine Kategorie gewählt wurde
+            function addCategoryChip(category) {
+                if (!category) return // falls "All categories" gewählt wurde, nichts tun
+                if (window.selectedCategories.indexOf(category) === -1) {
+                    window.selectedCategories.push(category)
+                    // Option im Select-Menü deaktivieren
+                    document.querySelector('#categorySelect option[value="' + category + '"]').disabled = true
+                    updateChipsDisplay()
+                    filterCards()
+                }
+                // Setze das Select-Element zurück
+                document.getElementById('categorySelect').value = ''
+            }
+
+            // Entfernt einen Chip
+            function removeCategoryChip(category) {
+                const index = window.selectedCategories.indexOf(category)
+                if (index > -1) {
+                    window.selectedCategories.splice(index, 1)
+                    // Option im Select-Menü wieder aktivieren
+                    document.querySelector('#categorySelect option[value="' + category + '"]').disabled = false
+                    updateChipsDisplay()
+                    filterCards()
+                }
+            }
+
+            // Aktualisiert die Anzeige der Chips
+            function updateChipsDisplay() {
+                const chipsContainer = document.getElementById('chipsContainer')
+                chipsContainer.innerHTML = ''
+                window.selectedCategories.forEach(function (cat) {
+                    const chip = document.createElement('span')
+                    chip.className = 'badge rounded-pill bg-primary me-2'
+                    chip.style.cursor = 'pointer'
+                    chip.style.fontSize = '1rem'
+                    chip.textContent = cat + ' ×'
+                    chip.onclick = function () {
+                        removeCategoryChip(cat)
+                    }
+                    chipsContainer.appendChild(chip)
+                })
+            }
+
+            function filterCards() {
+                const cards = document.querySelectorAll('div[data-category]')
+                cards.forEach(function (card) {
+                    // Falls keine Filterkategorien ausgewählt wurden, zeige alle Karten
+                    if (window.selectedCategories.length === 0) {
+                        card.parentNode.style.display = "block";
+                        return
+                    }
+                    // Zerlege die im data-Attribut hinterlegten Kategorien
+                    const cardCategories = card.dataset.category.split('|')
+                    // Prüfe, ob alle ausgewählten Kategorien in der Karte vorhanden sind
+                    const show = window.selectedCategories.every(function (cat) {
+                        return cardCategories.indexOf(cat) !== -1
+                    })
+                    if (show) {
+                        card.parentNode.style.display = "block";
+                    } else {
+                        card.parentNode.style.display = "none";
+                    }
+                })
+            }
+        </script>
+    </head>
+    
+    <body>
+        <nav class="navbar navbar-expand navbar-dark sticky-top" id="mainNavbar" style="background-color: #1A2F5E;">
+            <div class="container-fluid px-4"> <a class="navbar-brand" href="index.html"><span> <img src="./assets/img/Logo_234px.png" style="height:28px;object-fit:contain;margin-right:8px;" alt="DiAgnostiK Logo"> DiAgnostiK </span>
+</a>
+
+                <button class="navbar-toggler d-none" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span>
+
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ms-auto flex-nowrap" style="white-space:nowrap;">
+                        <li class="nav-item"> <a class="nav-link" href="tischler.html">Tischler</a>
+
+                        </li>
+                        <li class="nav-item"> <a class="nav-link" href="shk.html">SHK</a>
+
+                        </li>
+                        <li class="nav-item"> <a class="nav-link" href="zahntechniker.html">Zahntechniker</a>
+
+                        </li>
+                        <li class="nav-item"> <a class="nav-link" href="maler.html">Maler</a>
+
+                        </li>
+                        <li class="nav-item"> <a class="nav-link" href="raumausstatter.html">Raumaustatter</a>
+
+                        </li>
+                        <li class="nav-item"> <a class="nav-link" href="belehrungen.html">Belehrungen</a>
+
+                        </li>
+                        <li class="nav-item"> <a class="nav-link" href="arbeits-und-gesundheitsschutz.html">Arbeits- und Gesundheitsschutz</a>
+
+                        </li>
+                        <li class="nav-item"> <a class="nav-link" href="umfragen.html">Umfragen</a>
+
+                        </li>
+                        <li class="nav-item"> <a class="nav-link" href="wissensspeicher.html">Wissensspeicher</a>
+
+                        </li>
+                        <li class="nav-item"> <a class="nav-link" href="experimente.html">Experimente</a>
+
+                        </li>
+                        <li class="nav-item"> <a class="nav-link" href="sonstige.html">Sonstige</a>
+
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <script>
+            (function () {
+                var nav = document.getElementById('mainNavbar');
+                var toggler = nav.querySelector('.navbar-toggler');
+                var collapse = document.getElementById('navbarNav');
+                var brand = nav.querySelector('.navbar-brand');
+
+                function check() {
+                    // Measure in expanded state (navbar-expand makes collapse display:flex via Bootstrap CSS)
+                    nav.classList.add('navbar-expand');
+                    collapse.classList.remove('show');
+
+                    var navWidth = nav.offsetWidth;
+                    var brandWidth = brand ? brand.offsetWidth : 0;
+                    var listWidth = collapse.scrollWidth;
+
+                    var overflows = (brandWidth + listWidth + 48) > navWidth;
+                    if (overflows) {
+                        nav.classList.remove('navbar-expand');
+                        toggler.classList.remove('d-none');
+                        collapse.classList.remove('show');
+                    } else {
+                        // navbar-expand already set above; Bootstrap CSS shows collapse as flex automatically
+                        toggler.classList.add('d-none');
+                    }
+                }
+
+                document.addEventListener('DOMContentLoaded', check);
+                var ro = new ResizeObserver(check);
+                ro.observe(nav);
+            })();
+        </script>
+        <main>
+            <div class="container-fluid" style="background-size: cover; background-image: url('./assets/img/slogan_hero.jpg'); background-position: center center; background-repeat: no-repeat;">
+                <section class="py-5 text-center container">
+                    <div class="row py-lg-5">
+                        <div class="col-lg-6 col-md-8 mx-auto">
+                             <h1 class="fw-light"><span style="background-color: rgba(26, 47, 94, 0.75); padding: 10px; color: white; border-radius: 5px;">
+  DiAgnostiK Lehr- und Lernraum
+</span>
+</h1>
+
+                            <p class="lead text-muted">
+                                <br> <span style="background-color: rgba(201, 168, 76, 0.75); padding: 8px; color: white; border-radius: 5px;">
+  Übersicht
+</span>
+
+                            </p>
+                            <select id="categorySelect" class="form-select" aria-label="Default select example" onchange="addCategoryChip(this.value)">
+                                <option value="" selected>All categories</option>
+                                <option value="altanstrich">altanstrich</option>
+                                <option value="anlagenmechaniker">anlagenmechaniker</option>
+                                <option value="arbeitsschutz">arbeitsschutz</option>
+                                <option value="arbeitssicherheit">arbeitssicherheit</option>
+                                <option value="armierungsmasse">armierungsmasse</option>
+                                <option value="aufmaß">aufmaß</option>
+                                <option value="belehrungen">belehrungen</option>
+                                <option value="bghm">bghm</option>
+                                <option value="bleichen">bleichen</option>
+                                <option value="brandschutzzeichen">brandschutzzeichen</option>
+                                <option value="bügeln">bügeln</option>
+                                <option value="cad">cad</option>
+                                <option value="cad-schiene">cad-schiene</option>
+                                <option value="cam">cam</option>
+                                <option value="design">design</option>
+                                <option value="doppelkrone">doppelkrone</option>
+                                <option value="dreisatz">dreisatz</option>
+                                <option value="einbettmassen">einbettmassen</option>
+                                <option value="experimente">experimente</option>
+                                <option value="fassade">fassade</option>
+                                <option value="fräs- und verblendtechniken">fräs- und verblendtechniken</option>
+                                <option value="fräsen">fräsen</option>
+                                <option value="gefahrstoffe">gefahrstoffe</option>
+                                <option value="gestellbau">gestellbau</option>
+                                <option value="gesundheitsschutz">gesundheitsschutz</option>
+                                <option value="ghm">ghm</option>
+                                <option value="grundkurs">grundkurs</option>
+                                <option value="handwerk">handwerk</option>
+                                <option value="holz">holz</option>
+                                <option value="holzarten">holzarten</option>
+                                <option value="holzbau">holzbau</option>
+                                <option value="holzbearbeitungsmaschinen">holzbearbeitungsmaschinen</option>
+                                <option value="holzfügearten">holzfügearten</option>
+                                <option value="holzgestelle">holzgestelle</option>
+                                <option value="holzverbindung">holzverbindung</option>
+                                <option value="holzverbindungskonstruktionen">holzverbindungskonstruktionen</option>
+                                <option value="holzverbindungstechniken">holzverbindungstechniken</option>
+                                <option value="kieferorthopädie">kieferorthopädie</option>
+                                <option value="kleister">kleister</option>
+                                <option value="konstruktion">konstruktion</option>
+                                <option value="konva">konva</option>
+                                <option value="korpusbau">korpusbau</option>
+                                <option value="krone">krone</option>
+                                <option value="lacke">lacke</option>
+                                <option value="lackierer">lackierer</option>
+                                <option value="leitern">leitern</option>
+                                <option value="makulatur">makulatur</option>
+                                <option value="maler">maler</option>
+                                <option value="möbelbau">möbelbau</option>
+                                <option value="oberflächenveredelung">oberflächenveredelung</option>
+                                <option value="polsterei">polsterei</option>
+                                <option value="polstergestellbau">polstergestellbau</option>
+                                <option value="polstergestelle">polstergestelle</option>
+                                <option value="polstermöbel">polstermöbel</option>
+                                <option value="polstern">polstern</option>
+                                <option value="primärteleskop">primärteleskop</option>
+                                <option value="prothese">prothese</option>
+                                <option value="prothetik">prothetik</option>
+                                <option value="rahmenbau">rahmenbau</option>
+                                <option value="raumausstatter">raumausstatter</option>
+                                <option value="raumgestaltung">raumgestaltung</option>
+                                <option value="schleifen">schleifen</option>
+                                <option value="schreiner">schreiner</option>
+                                <option value="shk">shk</option>
+                                <option value="sicherheitszeichen">sicherheitszeichen</option>
+                                <option value="spachteln">spachteln</option>
+                                <option value="strukturputz">strukturputz</option>
+                                <option value="tapeten">tapeten</option>
+                                <option value="tapezieren">tapezieren</option>
+                                <option value="tapezierwerkzeuge">tapezierwerkzeuge</option>
+                                <option value="teilnehmerbefragung">teilnehmerbefragung</option>
+                                <option value="textilpflege">textilpflege</option>
+                                <option value="tischler">tischler</option>
+                                <option value="trocknen">trocknen</option>
+                                <option value="tsm">tsm</option>
+                                <option value="umfragen">umfragen</option>
+                                <option value="untertapete">untertapete</option>
+                                <option value="verbindungstechnik">verbindungstechnik</option>
+                                <option value="verblendung">verblendung</option>
+                                <option value="verbundsystem">verbundsystem</option>
+                                <option value="vorrichten">vorrichten</option>
+                                <option value="waschen">waschen</option>
+                                <option value="werkstoffe">werkstoffe</option>
+                                <option value="werkzeuge">werkzeuge</option>
+                                <option value="wissensspeicher">wissensspeicher</option>
+                                <option value="wärme-dämm-verbundsystem">wärme-dämm-verbundsystem</option>
+                                <option value="wärmedämmung">wärmedämmung</option>
+                                <option value="zahnersatz">zahnersatz</option>
+                                <option value="zahnklammer">zahnklammer</option>
+                                <option value="zahnprothese">zahnprothese</option>
+                                <option value="zahntechniker">zahntechniker</option>
+                                <option value="zahntechnische werkstücke">zahntechnische werkstücke</option>
+                                <option value="ölen">ölen</option>
+                            </select>
+                            <div id="chipsContainer" class="mt-3"></div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+            <div class="album py-5 bg-light">
+                <div class="container">
+                    <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-xl-3 g-3">
+                        <div class='col-12'>
+                            <div style="padding: 20px; background-color: rgba(26, 47, 94, 0.1); border-radius: 8px; margin: 20px 0;">
+                                 <h2>🏠 Willkommen im DiAgnostiK Lernraum</h2>
+
+                                <p>Der <strong>DiAgnostiK Lehr- und Lernraum</strong> stellt interaktive, digitale Lernmaterialien für die berufliche Ausbildung im Handwerk bereit – entwickelt in Zusammenarbeit mit der Handwerkskammer Dresden und der TU Bergakademie Freiberg.</p>
+                                <p>Wählen Sie eine Berufsgruppe aus der Navigation, um zu den passenden Lerneinheiten zu gelangen. Alle Kurse sind kostenlos zugänglich und können direkt im Browser genutzt werden.</p>
+                            </div>
+                        </div>
+                        <div class='col'>
+                            <div class="card shadow-sm m-1" style="height: 100%" data-category="arbeitssicherheit|bghm|gefahrstoffe|gestellbau|ghm|holz|holzarten|holzbau|holzbearbeitungsmaschinen|holzfügearten|holzverbindung|holzverbindungskonstruktionen|holzverbindungstechniken|korpusbau|lacke|möbelbau|oberflächenveredelung|rahmenbau|schleifen|schreiner|tischler|verbindungstechnik|ölen">
+                                <div class="card-img-top" style="background-size: cover; height: 175px; background-image: url('https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/assets/img/hero/tischler.png'); background-position: center center; background-repeat: no-repeat;"></div>
+                                <div class="card-body" style="transform: rotate(0);"> <a href="tischler.html" target="_self" class="link-dark stretched-link">
+            <h5 class="card-title">Tischler</h5>
+        </a>
+
+                                    <p class="card-text">Beschreibung: Lerneinheiten für Tischler: Holzarten, Werkzeuge, Verbindungen und Grundlagen der Holzbearbeitung für die Ausbildung im Tischlerhandwerk.
+                                        <br> <i>17 Kurse</i>
+
+                                    </p>
+                                    <p><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">arbeitssicherheit</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">bghm</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">gefahrstoffe</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">gestellbau</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">ghm</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">holz</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">holzarten</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">holzbau</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">holzbearbeitungsmaschinen</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">holzfügearten</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">holzverbindung</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">holzverbindungskonstruktionen</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">holzverbindungstechniken</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">korpusbau</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">lacke</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">möbelbau</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">oberflächenveredelung</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">rahmenbau</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">schleifen</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">schreiner</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">tischler</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">verbindungstechnik</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">ölen</span>
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class='col'>
+                            <div class="card shadow-sm m-1" style="height: 100%" data-category="anlagenmechaniker|arbeitsschutz|gesundheitsschutz|grundkurs|shk">
+                                <div class="card-img-top" style="background-size: cover; height: 175px; background-image: url('https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/assets/img/hero/shk.png'); background-position: center center; background-repeat: no-repeat;"></div>
+                                <div class="card-body" style="transform: rotate(0);"> <a href="shk.html" target="_self" class="link-dark stretched-link">
+            <h5 class="card-title">SHK</h5>
+        </a>
+
+                                    <p class="card-text">Beschreibung: Lerneinheiten für SHK: Arbeitsschutz, Gesundheitsschutz und Grundlagen der Anlagenmechanik.
+                                        <br> <i>4 Kurse</i>
+
+                                    </p>
+                                    <p><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">anlagenmechaniker</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">arbeitsschutz</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">gesundheitsschutz</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">grundkurs</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">shk</span>
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class='col'>
+                            <div class="card shadow-sm m-1" style="height: 100%" data-category="cad|cad-schiene|cam|design|doppelkrone|dreisatz|einbettmassen|fräs- und verblendtechniken|fräsen|kieferorthopädie|konstruktion|krone|primärteleskop|prothese|prothetik|verblendung|zahnersatz|zahnklammer|zahnprothese|zahntechniker|zahntechnische werkstücke">
+                                <div class="card-img-top" style="background-size: cover; height: 175px; background-image: url('https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/assets/img/hero/zahntechniker.png'); background-position: center center; background-repeat: no-repeat;"></div>
+                                <div class="card-body" style="transform: rotate(0);"> <a href="zahntechniker.html" target="_self" class="link-dark stretched-link">
+            <h5 class="card-title">Zahntechniker</h5>
+        </a>
+
+                                    <p class="card-text">Beschreibung: Lerneinheiten für Zahntechniker: Zahnersatz, Zahnprothese und verwandte Themen.
+                                        <br> <i>8 Kurse</i>
+
+                                    </p>
+                                    <p><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">cad</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">cad-schiene</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">cam</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">design</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">doppelkrone</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">dreisatz</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">einbettmassen</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">fräs- und verblendtechniken</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">fräsen</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">kieferorthopädie</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">konstruktion</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">krone</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">primärteleskop</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">prothese</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">prothetik</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">verblendung</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">zahnersatz</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">zahnklammer</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">zahnprothese</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">zahntechniker</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">zahntechnische werkstücke</span>
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class='col'>
+                            <div class="card shadow-sm m-1" style="height: 100%" data-category="altanstrich|armierungsmasse|aufmaß|fassade|grundkurs|handwerk|kleister|lackierer|makulatur|maler|raumausstatter|raumgestaltung|schleifen|spachteln|strukturputz|tapeten|tapezieren|tapezierwerkzeuge|untertapete|verbundsystem|vorrichten|werkzeuge|wärme-dämm-verbundsystem|wärmedämmung">
+                                <div class="card-img-top" style="background-size: cover; height: 175px; background-image: url('https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/assets/img/hero/maler.png'); background-position: center center; background-repeat: no-repeat;"></div>
+                                <div class="card-body" style="transform: rotate(0);"> <a href="maler.html" target="_self" class="link-dark stretched-link">
+            <h5 class="card-title">Maler</h5>
+        </a>
+
+                                    <p class="card-text">Beschreibung: Lerneinheiten für Maler: Grundlagen, Techniken und Materialien für die Ausbildung im Malerhandwerk.
+                                        <br> <i>4 Kurse</i>
+
+                                    </p>
+                                    <p><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">altanstrich</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">armierungsmasse</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">aufmaß</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">fassade</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">grundkurs</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">handwerk</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">kleister</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">lackierer</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">makulatur</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">maler</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">raumausstatter</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">raumgestaltung</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">schleifen</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">spachteln</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">strukturputz</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">tapeten</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">tapezieren</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">tapezierwerkzeuge</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">untertapete</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">verbundsystem</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">vorrichten</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">werkzeuge</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">wärme-dämm-verbundsystem</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">wärmedämmung</span>
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class='col'>
+                            <div class="card shadow-sm m-1" style="height: 100%" data-category="altanstrich|aufmaß|bleichen|bügeln|gestellbau|handwerk|holz|holzgestelle|holzverbindung|kleister|lackierer|makulatur|maler|polsterei|polstergestellbau|polstergestelle|polstermöbel|polstern|raumausstatter|schleifen|spachteln|tapeten|tapezieren|textilpflege|trocknen|untertapete|waschen|werkstoffe">
+                                <div class="card-img-top" style="background-size: cover; height: 175px; background-image: url('https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/assets/img/hero/raumausstatter.png'); background-position: center center; background-repeat: no-repeat;"></div>
+                                <div class="card-body" style="transform: rotate(0);"> <a href="raumausstatter.html" target="_self" class="link-dark stretched-link">
+            <h5 class="card-title">Raumausstatter</h5>
+        </a>
+
+                                    <p class="card-text">Beschreibung: Lerneinheiten für Raumausstatter: Design, Materialien und Techniken für die Ausbildung im Raumausstatterhandwerk.
+                                        <br> <i>8 Kurse</i>
+
+                                    </p>
+                                    <p><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">altanstrich</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">aufmaß</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">bleichen</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">bügeln</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">gestellbau</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">handwerk</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">holz</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">holzgestelle</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">holzverbindung</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">kleister</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">lackierer</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">makulatur</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">maler</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">polsterei</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">polstergestellbau</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">polstergestelle</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">polstermöbel</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">polstern</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">raumausstatter</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">schleifen</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">spachteln</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">tapeten</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">tapezieren</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">textilpflege</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">trocknen</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">untertapete</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">waschen</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">werkstoffe</span>
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class='col'>
+                            <div class="card shadow-sm m-1" style="height: 100%" data-category="belehrungen">
+                                <div class="card-img-top" style="background-size: cover; height: 175px; background-image: url('https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/assets/img/hero/belehrungen.png'); background-position: center center; background-repeat: no-repeat;"></div>
+                                <div class="card-body" style="transform: rotate(0);"> <a href="belehrungen.html" target="_self" class="link-dark stretched-link">
+            <h5 class="card-title">Belehrungen</h5>
+        </a>
+
+                                    <p class="card-text">Beschreibung: Lerneinheiten für Belehrungen: Informationen und Schulungen für die berufliche Ausbildung im Handwerk.
+                                        <br> <i>2 Kurse</i>
+
+                                    </p>
+                                    <p><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">Belehrungen</span>
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class='col'>
+                            <div class="card shadow-sm m-1" style="height: 100%" data-category="arbeitssicherheit|brandschutzzeichen|gesundheitsschutz|leitern|sicherheitszeichen">
+                                <div class="card-img-top" style="background-size: cover; height: 175px; background-image: url('https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/assets/img/hero/arbeitsschutz.png'); background-position: center center; background-repeat: no-repeat;"></div>
+                                <div class="card-body" style="transform: rotate(0);"> <a href="arbeits-und-gesundheitsschutz.html" target="_self" class="link-dark stretched-link">
+            <h5 class="card-title">Arbeits- und Gesundheitsschutz</h5>
+        </a>
+
+                                    <p class="card-text">Beschreibung: Lerneinheiten für Arbeits- und Gesundheitsschutz: Sicherheit und Gesundheit im Arbeitsumfeld.
+                                        <br> <i>6 Kurse</i>
+
+                                    </p>
+                                    <p><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">arbeitssicherheit</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">brandschutzzeichen</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">gesundheitsschutz</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">leitern</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">sicherheitszeichen</span>
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class='col'>
+                            <div class="card shadow-sm m-1" style="height: 100%" data-category="umfragen|teilnehmerbefragung">
+                                <div class="card-img-top" style="background-size: cover; height: 175px; background-image: url('https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/assets/img/hero/umfragen.png'); background-position: center center; background-repeat: no-repeat;"></div>
+                                <div class="card-body" style="transform: rotate(0);"> <a href="umfragen.html" target="_self" class="link-dark stretched-link">
+            <h5 class="card-title">Umfragen</h5>
+        </a>
+
+                                    <p class="card-text">Beschreibung: Lerneinheiten für Umfragen: Informationen und Schulungen für die berufliche Ausbildung im Handwerk.
+                                        <br> <i>3 Kurse</i>
+
+                                    </p>
+                                    <p><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">Umfragen</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">Teilnehmerbefragung</span>
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class='col'>
+                            <div class="card shadow-sm m-1" style="height: 100%" data-category="arbeitssicherheit|gefahrstoffe|gesundheitsschutz|wissensspeicher">
+                                <div class="card-img-top" style="background-size: cover; height: 175px; background-image: url('https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/assets/img/hero/wissensspeicher.png'); background-position: center center; background-repeat: no-repeat;"></div>
+                                <div class="card-body" style="transform: rotate(0);"> <a href="wissensspeicher.html" target="_self" class="link-dark stretched-link">
+            <h5 class="card-title">Wissensspeicher</h5>
+        </a>
+
+                                    <p class="card-text">Beschreibung: Sammlung von Kursvorlagen und Templates.
+                                        <br> <i>14 Kurse</i>
+
+                                    </p>
+                                    <p><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">arbeitssicherheit</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">gefahrstoffe</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">gesundheitsschutz</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">wissensspeicher</span>
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class='col'>
+                            <div class="card shadow-sm m-1" style="height: 100%" data-category="experimente|konva|tsm">
+                                <div class="card-img-top" style="background-size: cover; height: 175px; background-image: url('https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/assets/img/hero/experimente.png'); background-position: center center; background-repeat: no-repeat;"></div>
+                                <div class="card-body" style="transform: rotate(0);"> <a href="experimente.html" target="_self" class="link-dark stretched-link">
+            <h5 class="card-title">Experimente</h5>
+        </a>
+
+                                    <p class="card-text">Beschreibung: Experimentelle Elemente und Kurse.
+                                        <br> <i>6 Kurse</i>
+
+                                    </p>
+                                    <p><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">experimente</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">konva</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">tsm</span>
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+        <footer class="text-muted py-3">
+            <div class="container">
+                <p class="float-end"> <a href="#" aria-label="Go to top">↑ Top</a>
+
+                </p>
+                <p>
+                    <div class="d-flex flex-wrap align-items-center justify-content-between gap-3 py-1 w-100">
+                        <div>
+                            <div class="text-uppercase small mb-1" style="letter-spacing:.07em;font-size:.72em;">Webseite</div> <a href="https://uelu-digital.de/" class="fw-semibold text-decoration-none" style="color:#C9A84C;">uelu-digital.de</a>
+
+                        </div>
+                        <div class="text-center">
+                            <div class="text-uppercase small mb-1" style="letter-spacing:.07em;font-size:.72em;">Gefördert durch</div>
+                            <img src="./assets/img/Kombi-EU-SN-horizontal.jpg" style="height:44px;max-width:100%;object-fit:contain;">
+                        </div>
+                        <div class="text-md-end">
+                            <div class="text-uppercase small mb-1" style="letter-spacing:.07em;font-size:.72em;">Unsere Partner</div>
+                            <div class="d-flex flex-wrap gap-2 align-items-center justify-content-md-end"> <a href="https://www.gkz-ev.de/"><img src="./assets/img/gkz.jpg" style="height:40px;object-fit:contain;border-radius:4px;opacity:.8;" class="img-fluid" alt="GKZ"></a>
+ <a href="https://www.hwk-dresden.de/"><img src="./assets/img/hwk.png" style="height:40px;object-fit:contain;border-radius:4px;opacity:.8;" class="img-fluid" alt="HWK Dresden"></a>
+ <a href="https://tu-freiberg.de/"><img src="./assets/img/tubaf.png" style="height:40px;object-fit:contain;border-radius:4px;opacity:.8;" class="img-fluid" alt="TU Bergakademie Freiberg"></a>
+
+                            </div>
+                        </div>
+                    </div>
+                </p>
+            </div>
+        </footer>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    </body>
+
+</html>

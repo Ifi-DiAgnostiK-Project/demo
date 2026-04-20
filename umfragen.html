@@ -1,0 +1,572 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="UTF-8">
+        <title>DiAgnostiK Lehr- und Lernraum</title>
+        <script type="application/ld+json">
+            {
+                "@context": "http://schema.org/",
+                    "@type": "ItemList",
+                    "itemListElement": [{
+                    "@id": "https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/teilnehmerbefragung_hwk.md",
+                        "@type": "Course",
+                        "author": {
+                        "@type": "Person",
+                            "email": "volker.goehler@informatik.tu-freiberg.de",
+                            "name": "Volker Göhler"
+                    },
+                        "description": "Teilnehmerbefragung für ÜLU Kurse",
+                        "image": {
+                        "@type": "ImageObject",
+                            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Questionnaire-checklist-completed.png"
+                    },
+                        "inLanguage": "de",
+                        "keywords": [
+                        "Umfragen",
+                        "Teilnehmerbefragung"],
+                        "name": "Teilnehmerbefragung ÜLU",
+                        "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/teilnehmerbefragung_hwk.md",
+                        "version": "0.0.5"
+                }, {
+                    "@id": "https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Befragungen/refs/heads/main/Kursleiter.md",
+                        "@type": "Course",
+                        "author": {
+                        "@type": "Person",
+                            "name": "Sebastian Zug, Hilke Domsch, Volker Göhler, André Dietrich"
+                    },
+                        "description": "Beobachtungsbogen für Lehrkräfte",
+                        "inLanguage": "de",
+                        "keywords": "Umfragen",
+                        "name": "Beobachtungsbogen: Lernverhalten bei digitalen Befragungen",
+                        "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Befragungen/refs/heads/main/Kursleiter.md",
+                        "version": "0.0.2"
+                }, {
+                    "@id": "https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Befragungen/refs/heads/main/Teilnehmende.md",
+                        "@type": "Course",
+                        "author": {
+                        "@type": "Person",
+                            "name": "Sebastian Zug"
+                    },
+                        "description": "Fragebogen für Auszubildende",
+                        "inLanguage": "de",
+                        "keywords": "Umfragen",
+                        "name": "Befragung der Auszubildenden",
+                        "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Befragungen/refs/heads/main/Teilnehmende.md",
+                        "version": "0.0.1"
+                }],
+                    "name": "DiAgnostiK Lehr- und Lernraum",
+                    "description": "Umfragen"
+            }
+        </script>
+        <meta property="og:type" content="website">
+        <meta property="og:title" content="DiAgnostiK – Umfragen und Evaluationen">
+        <meta name="twitter:title" content="DiAgnostiK – Umfragen und Evaluationen">
+        <meta name="description" content="Digitale Evaluationsinstrumente für Kursleitende und Teilnehmende: Feedback-Bögen und Befragungen zur Qualitätssicherung in der beruflichen Bildung.">
+        <meta property="og:description" content="Digitale Evaluationsinstrumente für Kursleitende und Teilnehmende: Feedback-Bögen und Befragungen zur Qualitätssicherung in der beruflichen Bildung.">
+        <meta name="twitter:description" content="Digitale Evaluationsinstrumente für Kursleitende und Teilnehmende: Feedback-Bögen und Befragungen zur Qualitätssicherung in der beruflichen Bildung.">
+        <meta property="og:image" content="./assets/img/slogan_hero.jpg">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:image" content="./assets/img/slogan_hero.jpg">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+        <script>
+            // Globale Variable zum Speichern der ausgewählten Kategorien
+            window.selectedCategories = []
+
+            // Fügt einen Chip hinzu, wenn eine Kategorie gewählt wurde
+            function addCategoryChip(category) {
+                if (!category) return // falls "All categories" gewählt wurde, nichts tun
+                if (window.selectedCategories.indexOf(category) === -1) {
+                    window.selectedCategories.push(category)
+                    // Option im Select-Menü deaktivieren
+                    document.querySelector('#categorySelect option[value="' + category + '"]').disabled = true
+                    updateChipsDisplay()
+                    filterCards()
+                }
+                // Setze das Select-Element zurück
+                document.getElementById('categorySelect').value = ''
+            }
+
+            // Entfernt einen Chip
+            function removeCategoryChip(category) {
+                const index = window.selectedCategories.indexOf(category)
+                if (index > -1) {
+                    window.selectedCategories.splice(index, 1)
+                    // Option im Select-Menü wieder aktivieren
+                    document.querySelector('#categorySelect option[value="' + category + '"]').disabled = false
+                    updateChipsDisplay()
+                    filterCards()
+                }
+            }
+
+            // Aktualisiert die Anzeige der Chips
+            function updateChipsDisplay() {
+                const chipsContainer = document.getElementById('chipsContainer')
+                chipsContainer.innerHTML = ''
+                window.selectedCategories.forEach(function (cat) {
+                    const chip = document.createElement('span')
+                    chip.className = 'badge rounded-pill bg-primary me-2'
+                    chip.style.cursor = 'pointer'
+                    chip.style.fontSize = '1rem'
+                    chip.textContent = cat + ' ×'
+                    chip.onclick = function () {
+                        removeCategoryChip(cat)
+                    }
+                    chipsContainer.appendChild(chip)
+                })
+            }
+
+            function filterCards() {
+                const cards = document.querySelectorAll('div[data-category]')
+                cards.forEach(function (card) {
+                    // Falls keine Filterkategorien ausgewählt wurden, zeige alle Karten
+                    if (window.selectedCategories.length === 0) {
+                        card.parentNode.style.display = "block";
+                        return
+                    }
+                    // Zerlege die im data-Attribut hinterlegten Kategorien
+                    const cardCategories = card.dataset.category.split('|')
+                    // Prüfe, ob alle ausgewählten Kategorien in der Karte vorhanden sind
+                    const show = window.selectedCategories.every(function (cat) {
+                        return cardCategories.indexOf(cat) !== -1
+                    })
+                    if (show) {
+                        card.parentNode.style.display = "block";
+                    } else {
+                        card.parentNode.style.display = "none";
+                    }
+                })
+            }
+        </script>
+    </head>
+    
+    <body>
+        <nav class="navbar navbar-expand navbar-dark sticky-top" id="mainNavbar" style="background-color: #1A2F5E;">
+            <div class="container-fluid px-4"> <a class="navbar-brand" href="index.html"><span> <img src="./assets/img/Logo_234px.png" style="height:28px;object-fit:contain;margin-right:8px;" alt="DiAgnostiK Logo"> DiAgnostiK </span>
+</a>
+
+                <button class="navbar-toggler d-none" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span>
+
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ms-auto flex-nowrap" style="white-space:nowrap;">
+                        <li class="nav-item"> <a class="nav-link" href="tischler.html">Tischler</a>
+
+                        </li>
+                        <li class="nav-item"> <a class="nav-link" href="shk.html">SHK</a>
+
+                        </li>
+                        <li class="nav-item"> <a class="nav-link" href="zahntechniker.html">Zahntechniker</a>
+
+                        </li>
+                        <li class="nav-item"> <a class="nav-link" href="maler.html">Maler</a>
+
+                        </li>
+                        <li class="nav-item"> <a class="nav-link" href="raumausstatter.html">Raumaustatter</a>
+
+                        </li>
+                        <li class="nav-item"> <a class="nav-link" href="belehrungen.html">Belehrungen</a>
+
+                        </li>
+                        <li class="nav-item"> <a class="nav-link" href="arbeits-und-gesundheitsschutz.html">Arbeits- und Gesundheitsschutz</a>
+
+                        </li>
+                        <li class="nav-item"> <a class="nav-link active" href="umfragen.html">Umfragen</a>
+
+                        </li>
+                        <li class="nav-item"> <a class="nav-link" href="wissensspeicher.html">Wissensspeicher</a>
+
+                        </li>
+                        <li class="nav-item"> <a class="nav-link" href="experimente.html">Experimente</a>
+
+                        </li>
+                        <li class="nav-item"> <a class="nav-link" href="sonstige.html">Sonstige</a>
+
+                        </li>
+                        <li class="nav-item">
+                            <button class="btn nav-link" type="button" data-bs-toggle="modal" data-bs-target="#searchModal" title="Search (Ctrl+K)">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" viewBox="0 0 16 16">
+                                    <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001l3.85 3.85a1 1 0 0 0 1.415-1.415l-3.85-3.85zm-5.242 1.656a5.5 5.5 0 1 1 0-11 5.5 5.5 0 0 1 0 11z" />
+                                </svg>
+                            </button>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <script>
+            (function () {
+                var nav = document.getElementById('mainNavbar');
+                var toggler = nav.querySelector('.navbar-toggler');
+                var collapse = document.getElementById('navbarNav');
+                var brand = nav.querySelector('.navbar-brand');
+
+                function check() {
+                    // Measure in expanded state (navbar-expand makes collapse display:flex via Bootstrap CSS)
+                    nav.classList.add('navbar-expand');
+                    collapse.classList.remove('show');
+
+                    var navWidth = nav.offsetWidth;
+                    var brandWidth = brand ? brand.offsetWidth : 0;
+                    var listWidth = collapse.scrollWidth;
+
+                    var overflows = (brandWidth + listWidth + 48) > navWidth;
+                    if (overflows) {
+                        nav.classList.remove('navbar-expand');
+                        toggler.classList.remove('d-none');
+                        collapse.classList.remove('show');
+                    } else {
+                        // navbar-expand already set above; Bootstrap CSS shows collapse as flex automatically
+                        toggler.classList.add('d-none');
+                    }
+                }
+
+                document.addEventListener('DOMContentLoaded', check);
+                var ro = new ResizeObserver(check);
+                ro.observe(nav);
+            })();
+        </script>
+        <!-- Search Modal -->
+        <div class="modal fade" id="searchModal" tabindex="-1" aria-labelledby="searchModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-lg modal-dialog-scrollable">
+                <div class="modal-content">
+                    <div class="modal-header border-0 pb-0">
+                        <div class="input-group"> <span class="input-group-text bg-white border-end-0" style="border-radius: 8px 0 0 8px;">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001l3.85 3.85a1 1 0 0 0 1.415-1.415l-3.85-3.85zm-5.242 1.656a5.5 5.5 0 1 1 0-11 5.5 5.5 0 0 1 0 11z"/></svg>
+              </span>
+
+                            <input type="text" id="searchInput" class="form-control border-start-0 ps-0" placeholder="Search courses and sections… (Ctrl+K)" autocomplete="off" style="border-radius: 0 8px 8px 0; box-shadow: none;">
+                        </div>
+                        <button type="button" class="btn-close ms-2" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body pt-2 px-0">
+                        <div id="searchResults">
+                            <p class="text-muted px-3">Start typing to search…</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <style>
+            .search-highlight {
+                background-color: rgba(255, 193, 7, 0.4);
+                padding: 0 1px;
+                border-radius: 2px;
+                font-weight: 600;
+            }
+            .text-truncate-multiline {
+                display: -webkit-box;
+                -webkit-line-clamp: 2;
+                -webkit-box-orient: vertical;
+                overflow: hidden;
+            }
+        </style>
+        <main>
+            <div class="container-fluid" style="background-size: cover; background-image: url('./assets/img/slogan_hero.jpg'); background-position: center center; background-repeat: no-repeat;">
+                <section class="py-5 text-center container">
+                    <div class="row py-lg-5">
+                        <div class="col-lg-6 col-md-8 mx-auto">
+                             <h1 class="fw-light"><span style="background-color: rgba(26, 47, 94, 0.75); padding: 10px; color: white; border-radius: 5px;">
+  DiAgnostiK Lehr- und Lernraum
+</span>
+</h1>
+
+                            <p class="lead text-muted">
+                                <br> <span style="background-color: rgba(201, 168, 76, 0.75); padding: 8px; color: white; border-radius: 5px;">
+  Umfragen
+</span>
+
+                            </p>
+                            <select id="categorySelect" class="form-select" aria-label="Default select example" onchange="addCategoryChip(this.value)">
+                                <option value="" selected>All categories</option>
+                                <option value="teilnehmerbefragung">teilnehmerbefragung</option>
+                                <option value="umfragen">umfragen</option>
+                            </select>
+                            <div id="chipsContainer" class="mt-3"></div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+            <div class="album py-5 bg-light">
+                <div class="container">
+                    <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-xl-3 g-3">
+                        <div class='col-12'>
+                            <div style="padding: 20px; background-color: rgba(26, 47, 94, 0.1); border-radius: 8px; margin: 20px 0;">
+                                 <h2>📊 Umfragen und Evaluationen</h2>
+
+                                <p>Diese Sammlung enthält <strong>interaktive Befragungsinstrumente</strong> zur Evaluation von Kursen und Ausbildungsmaßnahmen – für Kursleitende und Teilnehmende.</p>
+                                <p>Die Umfragen dienen der Qualitätssicherung und ermöglichen strukturiertes Feedback zur Weiterentwicklung der Lernmaterialien und Unterrichtsgestaltung.</p>
+                            </div>
+                        </div>
+                        <div class='col'>
+                            <div class="card shadow-sm m-1" style="height: 100%" data-category="umfragen|teilnehmerbefragung">
+                                <div class="card-img-top" style="background-size: cover; height: 175px; background-image: url('https://upload.wikimedia.org/wikipedia/commons/d/d7/Questionnaire-checklist-completed.png'); background-position: center center; background-repeat: no-repeat;"></div>
+                                <div class="card-body" style="transform: rotate(0);"> <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/teilnehmerbefragung_hwk.md" target="_blank" class="link-dark stretched-link">
+            <h5 class="card-title">Teilnehmerbefragung ÜLU</h5>
+        </a>
+
+                                    <p class="card-text">Teilnehmerbefragung für ÜLU Kurse</p>
+                                    <p><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">Umfragen</span><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">Teilnehmerbefragung</span>
+
+                                    </p>
+                                </div>
+                                <div class="card-footer">
+                                    <div class="dropdown"> <a class="btn btn-secondary btn-sm dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+      Download ...
+    </a>
+
+                                        <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink" style="">
+                                            <li><a class="dropdown-item btn-sm" target="_blank" href="assets/pdf/05f8693ed.pdf">PDF</a>
+
+                                            </li>
+                                            <li><a class="dropdown-item btn-sm" href="assets/scorm12/05f8693ed.zip">SCORM 1.2</a>
+
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class='col'>
+                            <div class="card shadow-sm m-1" style="height: 100%" data-category="umfragen">
+                                <div class="card-body" style="transform: rotate(0);"> <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Befragungen/refs/heads/main/Kursleiter.md" target="_blank" class="link-dark stretched-link">
+            <h5 class="card-title">Beobachtungsbogen: Lernverhalten bei digitalen Befragungen</h5>
+        </a>
+
+                                    <p class="card-text">Beobachtungsbogen für Lehrkräfte</p>
+                                    <p><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">Umfragen</span>
+
+                                    </p>
+                                </div>
+                                <div class="card-footer">
+                                    <div class="dropdown"> <a class="btn btn-secondary btn-sm dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+      Download ...
+    </a>
+
+                                        <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink" style="">
+                                            <li><a class="dropdown-item btn-sm" target="_blank" href="assets/pdf/041356412.pdf">PDF</a>
+
+                                            </li>
+                                            <li><a class="dropdown-item btn-sm" href="assets/scorm12/041356412.zip">SCORM 1.2</a>
+
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class='col'>
+                            <div class="card shadow-sm m-1" style="height: 100%" data-category="umfragen">
+                                <div class="card-body" style="transform: rotate(0);"> <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Befragungen/refs/heads/main/Teilnehmende.md" target="_blank" class="link-dark stretched-link">
+            <h5 class="card-title">Befragung der Auszubildenden</h5>
+        </a>
+
+                                    <p class="card-text">Fragebogen für Auszubildende</p>
+                                    <p><span style="display: inline; white-space: break-spaces;" class="badge rounded-pill bg-light text-dark">Umfragen</span>
+
+                                    </p>
+                                </div>
+                                <div class="card-footer">
+                                    <div class="dropdown"> <a class="btn btn-secondary btn-sm dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+      Download ...
+    </a>
+
+                                        <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink" style="">
+                                            <li><a class="dropdown-item btn-sm" target="_blank" href="assets/pdf/5cd234fa.pdf">PDF</a>
+
+                                            </li>
+                                            <li><a class="dropdown-item btn-sm" href="assets/scorm12/5cd234fa.zip">SCORM 1.2</a>
+
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+        <footer class="text-muted py-3">
+            <div class="container">
+                <p class="float-end"> <a href="#" aria-label="Go to top">↑ Top</a>
+
+                </p>
+                <p>
+                    <div class="d-flex flex-wrap align-items-center justify-content-between gap-3 py-1 w-100">
+                        <div>
+                            <div class="text-uppercase small mb-1" style="letter-spacing:.07em;font-size:.72em;">Webseite</div> <a href="https://uelu-digital.de/" class="fw-semibold text-decoration-none" style="color:#C9A84C;">uelu-digital.de</a>
+
+                        </div>
+                        <div class="text-center">
+                            <div class="text-uppercase small mb-1" style="letter-spacing:.07em;font-size:.72em;">Gefördert durch</div>
+                            <img src="./assets/img/Kombi-EU-SN-horizontal.jpg" style="height:44px;max-width:100%;object-fit:contain;">
+                        </div>
+                        <div class="text-md-end">
+                            <div class="text-uppercase small mb-1" style="letter-spacing:.07em;font-size:.72em;">Unsere Partner</div>
+                            <div class="d-flex flex-wrap gap-2 align-items-center justify-content-md-end"> <a href="https://www.gkz-ev.de/"><img src="./assets/img/gkz.jpg" style="height:40px;object-fit:contain;border-radius:4px;opacity:.8;" class="img-fluid" alt="GKZ"></a>
+ <a href="https://www.hwk-dresden.de/"><img src="./assets/img/hwk.png" style="height:40px;object-fit:contain;border-radius:4px;opacity:.8;" class="img-fluid" alt="HWK Dresden"></a>
+ <a href="https://tu-freiberg.de/"><img src="./assets/img/tubaf.png" style="height:40px;object-fit:contain;border-radius:4px;opacity:.8;" class="img-fluid" alt="TU Bergakademie Freiberg"></a>
+
+                            </div>
+                        </div>
+                    </div>
+                </p>
+            </div>
+        </footer>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
+        <script>
+            // Compact index: [{t, g, i, u, s: [[sectionTitle, sectionContent, indentation], ...]}]
+            // Denormalize into flat records for Fuse
+            var SEARCH_INDEX = JSON.parse("[{\"t\":\"Teilnehmerbefragung ÜLU\",\"g\":[\"Umfragen\",\"Teilnehmerbefragung\"],\"i\":\"https://upload.wikimedia.org/wikipedia/commons/d/d7/Questionnaire-checklist-completed.png\",\"u\":\"https://LiaScript.github.io/course/?https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/demo/refs/heads/main/materials/teilnehmerbefragung_hwk.md\",\"s\":[[\"Teilnehmerbefragung ÜLU\",\"Das Bildungszentrum des Handwerks Gültig ab: 01.01.2019 Das müsste in der Kopfzeile stehen, damit die Formulare eindeutig zugeordnet werden können. Kurs: G-MBF/03 Zeitraum: 16.06.2025 – 27.06.2025 Bildungsstätte: BTZ Pirna Fachbereich: Farbtechnik Sehr geehrte Auszubildende, sehr geehrter Auszubildender, Sie nehmen an einer überbetrieblichen Lehrunterweisung der Handwerkskammer Dresden teil. Um unsere Lehrunterweisungen ständig weiter zu verbessern, bitten wir Sie um Ihre Einschätzung. Wir danken Ihnen für Ihre Unterstützung.\"],[\"Ihre Bewertung der überbetrieblichen Lehrunterweisung\",\"Nutzen der Lehrunterweisung für die Anwendung am Arbeitsplatz === [(1)] sehr gut [(2)] gut [(3)] mittelmäßig [(4)] schlecht Begründung: [[ ]] Ausstattung der Werkstätten bzw. Fachkabinette === [(1)] sehr gut [(2)] gut [(3)] mittelmäßig [(4)] schlecht Begründung: [[ ]] Angebote zur Pausenversorgung === [(1)] sehr gut [(2)] gut [(3)] mittelmäßig [(4)] schlecht Begründung: [[ ]] Unterkunft === Hinweis: In der Unterkunft ist kein Zimmerservice enthalten. Die Reinigung der Zimmer erfolgt eigenverantwortlich während des Aufenthalts. [(1)] sehr gut [(2)] gut [(3)] mittelmäßig [(4)] schlecht Begründung: [[ ]]\"],[\"Bewertung der Ausbildungsmeisterin / des Ausbildungsmeisters\",\"müsste auch vorausgefüllt sein Name: [[ ]] Verständlichkeit der theoretischen Erklärungen === [(1)] sehr gut [(2)] gut [(3)] mittelmäßig [(4)] schlecht Begründung: [[ ]] Nachvollziehbarkeit der praktischen Vorgehensweise === [(1)] sehr gut [(2)] gut [(3)] mittelmäßig [(4)] schlecht Begründung: [[ ]] Eingehen auf Fragen und Probleme der Teilnehmer === [(1)] sehr gut [(2)] gut [(3)] mittelmäßig [(4)] schlecht Begründung: [[ ]] Nützlichkeit der Unterrichtsmaterialien (wenn vorhanden) === [(1)] sehr gut [(2)] gut [(3)] mittelmäßig [(4)] schlecht Begründung: [[ ]]\"],[\"Ihre Anregungen und Hinweise\",\"Hinweise oder Verbesserungsvorschläge: [[ ]] Vielen Dank für Ihre Unterstützung!\"]]},{\"t\":\"Beobachtungsbogen: Lernverhalten bei digitalen Befragungen\",\"g\":[\"Umfragen\"],\"i\":\"\",\"u\":\"https://LiaScript.github.io/course/?https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Befragungen/refs/heads/main/Kursleiter.md\",\"s\":[[\"Beobachtungsbogen: Lernverhalten bei digitalen Befragungen\",\"Dieser Beobachtungsbogen dient der systematischen Erfassung, wie Auszubildende mit digitalen Befragungsinstrumenten (z.B. Feedbackfragebögen, themenspezifische Einschätzungen) umgehen. Ziel ist es, Rückschlüsse auf die Verständlichkeit, Zugänglichkeit und Nützlichkeit dieser digitalen Materialien zu ziehen und die Gestaltung künftiger Lernangebote zu verbessern. Hinweis zum Datenschutz: Die Ergebnisse werden anonymisiert verarbeitet und nicht mit einzelnen Personen in Verbindung gebracht. Es werden keine Namen notiert, nur wie die Bearbeitung insgesamt verlaufen ist.\"],[\"Beobachtungskontext\",\"Bitte kreuzen Sie die zutreffenden Rahmenbedingungen an. Dabei sind Mehrfachnennungen möglich: Die Befragung bezieht sich auf: [[1a]] Inhalte der Belehrung [[1b]] themenbezogene digitale Inhalte [[1c]] abschließendes Feedback zum ÜLU-Kurs Die Befragung wurde durchgeführt: [[2a]] während des Kurses [[2b]] unmittelbar vor dem Kursabschluss [[2c]] selbstständig außerhalb des Kurses Die Auszubildenden nutzten zur Beantwortung: [[3a]] eigene Mobiltelefone [[3b]] eigene Laptops oder Tablets [[3c]] Geräte der Ausbildungsstätte Dauer der Beobachtung: ___ Minuten Anzahl der beobachteten Auszubildenden, die den Fragebogen bearbeitet haben: ___ Sind Sie der Leiter des Kurses? [ ] Ja [ ] Nein\"],[\"Beobachtungen\",\"Verhalten der Auszubildenden [(trifft gar nicht zu)(trifft eher nicht zu)(teils/teils)(trifft eher zu)(trifft voll zu)] [ ] Die Auszubildenden wirken während der Bearbeitung konzentriert. [ ] Die Auszubildenden stellen inhaltliche oder technische Rückfragen. [ ] Die Auszubildenden bearbeiten den Fragebogen zielgerichtet. [ ] Die Auszubildenden tauschen sich untereinander über den Fragebogen aus. [ ] Die Auszubildenden navigieren ohne erkennbare Schwierigkeiten durch den digitalen Fragebogen. [ ] Die Auszubildenden lassen sich häufiger ablenken (z. B. Smartphone, Gesprächen) zu. Falls Sie besondere Beobachtungen gemacht haben, die nicht durch die obigen Aussagen abgedeckt sind, tragen Sie diese bitte hier ein:\"],[\"Bewertung\",\"Einschätzung durch die beobachtende Person [(trifft gar nicht zu)(trifft eher nicht zu)(teils/teils)(trifft eher zu)(trifft voll zu)] [ ] Die Fragen scheinen für die Auszubildenden verständlich formuliert zu sein. [ ] Die Auszubildenden bemühen sich um vollständige Bearbeitung. [ ] Es traten keine erkennbaren technischen Probleme bei der Nutzung des Fragebogens auf. [ ] Der Einsatz des digitalen Fragebogens passt gut zum Kursablauf. Falls Sie besondere Beobachtungen gemacht haben, die nicht durch die obigen Aussagen abgedeckt sind, tragen Sie diese bitte hier ein:\"]]},{\"t\":\"Befragung der Auszubildenden\",\"g\":[\"Umfragen\"],\"i\":\"\",\"u\":\"https://LiaScript.github.io/course/?https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Befragungen/refs/heads/main/Teilnehmende.md\",\"s\":[[\"Befragung der Auszubildenden\",\"Mit diesem Fragebogen wollen wir verstehen, welche Vor- und Nachteile digitale Lehrformate im Rahmen der ÜLU-Kurse mit sich bringen. Dazu werden Sie und Ihr Ausbilder im Kurs befragt. Die Ergebnisse werden anonym bearbeitet.\"],[\"Teil A: Soziodemografische Angaben\",\"Wie alt sind Sie? [[3a]] jünger als 18 Jahre [[3b]] 18 bis 20 Jahre [[3c]] 20 bis 25 Jahre [[3d]] älter als 25 Jahre Welches Geschlecht haben Sie? [[4a]] Männlich [[4b]] Weiblich [[4c]] Divers [[4d]] Möchte ich nicht angeben In welchem Ausbildungsjahr befinden Sie sich derzeit? [[1a]] 1. Jahr [[1b]] 2. Jahr [[1c]] 3. Jahr [[1d]] 4. Jahr Welchen Ausbildungsberuf erlernen Sie? (z.B. Elektroniker/in für Betriebstechnik) [[2]] Wie haben Sie diesen Fragebogen bearbeitet? Mit ... [[5a]] meinem Mobiltelefon [[5b]] einem eigenen Tablet oder Laptop [[5c]] einem Tablet oder Laptop des ÜLU-Standortes\"],[\"Teil B: Allgemeine Einstellungen zum digitalen Lernen\",\"[(trifft gar nicht zu)(trifft eher nicht zu)(teils/teils)(trifft eher zu)(trifft voll zu)] [ ] Ich lerne gerne mit digitalen Materialien. [ ] Digitale Lernangebote motivieren mich mehr als traditionelle Methoden. [ ] Ich kann mir Inhalte durch digitale Materialien besser einprägen. [ ] Ich finde mich mit digitalen Lernangeboten gut zurecht.\"],[\"Teil C: Spezifische Rückmeldungen (Belehrungen)\",\"[(trifft gar nicht zu)(trifft eher nicht zu)(teils/teils)(trifft eher zu)(trifft voll zu)] [ ] Die Inhalte der digitalen Belehrung waren verständlich aufbereitet. [ ] Die interaktiven Elemente haben mir geholfen, die Inhalte besser zu verstehen. [ ] Ich konnte die Belehrung in meinem eigenen Tempo durchgehen. [ ] Ich finde mich mit digitalen Lernangeboten gut zurecht. [ ] Ich würde es begrüßen, wenn Belehrungen auch zukünftig digital durchgeführt werden. [ ] Ich würde es begrüßen, in stärkerem Maße mit digitalen Materialien zu arbeiten.\"],[\"Teil C: Spezifische Rückmeldungen (Kursbegleitende Inhalte)\",\"toDo\"]]}]");
+            var FLAT_INDEX = [];
+            SEARCH_INDEX.forEach(function (course) {
+                for (var n = 0; n < course.s.length; n++) {
+                    var sec = course.s[n];
+                    FLAT_INDEX.push({
+                        courseTitle: course.t,
+                        sectionTitle: sec[0],
+                        sectionContent: sec[1],
+                        tags: course.g,
+                        image: course.i,
+                        url: course.u + '#' + (n + 1),
+                    });
+                }
+            });
+
+            var fuse = new Fuse(FLAT_INDEX, {
+                keys: [{
+                    name: 'courseTitle',
+                    weight: 0.35
+                }, {
+                    name: 'sectionTitle',
+                    weight: 0.30
+                }, {
+                    name: 'sectionContent',
+                    weight: 0.20
+                }, {
+                    name: 'tags',
+                    weight: 0.15
+                }, ],
+                includeScore: true,
+                includeMatches: true,
+                threshold: 0.4,
+                minMatchCharLength: 2,
+            });
+
+            function highlight(text, matches, key) {
+                if (!text || !matches) return escapeHtml(text || '');
+                var match = matches.find(function (m) {
+                    return m.key === key;
+                });
+                if (!match || !match.indices || !match.indices.length) return escapeHtml(text);
+                var result = '';
+                var last = 0;
+                var indices = match.indices.slice().sort(function (a, b) {
+                    return a[0] - b[0];
+                });
+                indices.forEach(function (pair) {
+                    result += escapeHtml(text.slice(last, pair[0]));
+                    result += '<mark class="search-highlight">' + escapeHtml(text.slice(pair[0], pair[1] + 1)) + '</mark>';
+                    last = pair[1] + 1;
+                });
+                result += escapeHtml(text.slice(last));
+                return result;
+            }
+
+            function escapeHtml(str) {
+                return String(str)
+                    .replace(/&/g, '&amp;')
+                    .replace(/</g, '&lt;')
+                    .replace(/>/g, '&gt;')
+                    .replace(/"/g, '&quot;');
+            }
+
+            function excerpt(text, maxLen) {
+                if (!text) return '';
+                if (text.length <= maxLen) return text;
+                return text.slice(0, maxLen) + '…';
+            }
+
+            function renderResults(query) {
+                var container = document.getElementById('searchResults');
+                if (!query || query.length < 2) {
+                    container.innerHTML = '<p class="text-muted px-3">Start typing to search…</p>';
+                    return;
+                }
+                var results = fuse.search(query, {
+                    limit: 20
+                });
+                if (!results.length) {
+                    container.innerHTML = '<p class="text-muted px-3">No results found.</p>';
+                    return;
+                }
+
+                var html = '';
+                var seenUrls = {};
+                results.forEach(function (r) {
+                    var item = r.item;
+                    var matches = r.matches;
+                    var baseUrl = item.url.split('#')[0];
+                    var seenUrl = seenUrls[baseUrl];
+                    seenUrls[baseUrl] = true;
+
+                    var imgHtml = item.image ? '<div class="flex-shrink-0 me-3" style="width:64px;height:48px;background-image:url(&quot;' + escapeHtml(item.image) + '&quot;);background-size:cover;background-position:center;border-radius:4px;"></div>' : '';
+
+                    var tagHtml = '';
+                    if (item.tags && item.tags.length) {
+                        tagHtml = '<div class="mt-1">' + item.tags.map(function (t) {
+                            return '<span class="badge rounded-pill bg-light text-dark me-1" style="font-size:0.7rem;">' + escapeHtml(t) + '</span>';
+                        }).join('') + '</div>';
+                    }
+
+                    html += '<a href="' + escapeHtml(item.url) + '" target="_blank" class="list-group-item list-group-item-action py-2 px-3">' +
+                        '<div class="d-flex align-items-start">' + imgHtml +
+                        '<div class="flex-grow-1 overflow-hidden">' +
+                        '<div class="d-flex align-items-baseline gap-2">' +
+                        '<div class="fw-semibold flex-shrink-0">' + highlight(item.sectionTitle, matches, 'sectionTitle') + '</div>' + (item.sectionTitle !== item.courseTitle ? '<div class="text-muted small text-truncate" style="min-width:0;">(' + highlight(item.courseTitle, matches, 'courseTitle') + ')</div>' : '') +
+                        '</div>' + (item.sectionContent ? '<div class="text-muted small text-truncate-multiline">' + highlight(excerpt(item.sectionContent, 160), matches, 'sectionContent') + '</div>' : '') + tagHtml +
+                        '</div>' +
+                        '</div>' +
+                        '</a>';
+                });
+                container.innerHTML = '<div class="list-group list-group-flush">' + html + '</div>';
+            }
+
+            document.addEventListener('DOMContentLoaded', function () {
+                var input = document.getElementById('searchInput');
+                var modal = document.getElementById('searchModal');
+
+                input.addEventListener('input', function () {
+                    renderResults(this.value.trim());
+                });
+
+                // Ctrl+K / Cmd+K shortcut
+                document.addEventListener('keydown', function (e) {
+                    if ((e.ctrlKey || e.metaKey) && e.key === 'k') {
+                        e.preventDefault();
+                        var bsModal = bootstrap.Modal.getOrCreateInstance(modal);
+                        bsModal.show();
+                    }
+                    if (e.key === 'Escape') {
+                        var bsModal = bootstrap.Modal.getInstance(modal);
+                        if (bsModal) bsModal.hide();
+                    }
+                });
+
+                modal.addEventListener('shown.bs.modal', function () {
+                    input.focus();
+                    input.select();
+                });
+
+                modal.addEventListener('hidden.bs.modal', function () {
+                    input.value = '';
+                    document.getElementById('searchResults').innerHTML = '<p class="text-muted px-3">Start typing to search…</p>';
+                });
+            });
+        </script>
+    </body>
+
+</html>
