@@ -101,13 +101,16 @@ Welche Holzart erkennst du hier?
 __Fülle den Lückentext aus.__
 ===
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 Eiche ist ein sehr wiederstandsfähiges Holz und lässt sich daher sehr gut für [[ Schneidbretter | (Außenbereiche) | Brandschutzverkleidungen]] verwenden.
 
+<!-- data-randomize data-show-partial-solution -->
 Lärche ist aufgrund seiner[[ groben Holzstruktur |   Astfreiheit   | (hohen Harzhaltigkeit) ]] für Außenverkleidungen sehr gut geeignet.
 
+<!-- data-randomize data-show-partial-solution -->
 Ahorn ist wegen seiner [[ breiten wuchses |   hellen Färbung   | (Härte) ]] für beanspruchte Arbeitsflächen nutzbar.
 
+<!-- data-randomize data-show-partial-solution -->
 Die Buche  wird sehr gerne aufgrund ihrer [[ wilden Wuchsform |   (gleichmäßigen Färbung)  | Langlebigkeit ]] für Furniere verwendet.
 
 ## Und weiter gehts mit dem Quiz

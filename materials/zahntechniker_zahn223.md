@@ -63,7 +63,7 @@ Biokompatible Materialien in der Zahntechnik sind besonders wichtig, weil sie im
 
 <!--style="color:red; font-size: huge"-->Hinweis: Erst nachdem alle richtigen Begriffe ins Antwortfeld gezogen worden sind, gibt es ein grünes Häckchen! 😄
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdropmultiple(@uid,Titan|Goldlegierungen|PEEK|Vollkeramik|Zirkonoxid,Nickel|Blei|Quecksilber|Amalgan)
 
 
@@ -146,7 +146,7 @@ Bei diesem Verfahren wird im Zusammenspiel von zwei Elektroden eine extrem hohe 
 
 <!--style="color:red; font-size: huge"-->Hinweis: Erst nachdem alle richtigen Begriffe ins Antwortfeld gezogen worden sind, gibt es ein grünes Häckchen! 😄
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdropmultiple(@uid,Löten|Kleben|Laserschweißen|Phaser,Umformen|Mechanisches Fügen|Einpressen|Reibungsschweißen)
 
 
@@ -285,7 +285,7 @@ Ziehe die richtigen Antworten in das Feld.
 
 <!--style="color:red; font-size: huge"-->Hinweis: Erst nachdem alle richtigen Begriffe ins Antwortfeld gezogen worden sind, gibt es ein grünes Häckchen! 😄
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdropmultiple(@uid,Adhäsion|Kohäsion,Adaption|Fusion)
 
 
@@ -333,7 +333,7 @@ Ziehe die richtigen Antworten in das Feld.
 
 <!--style="color:red; font-size: huge"-->Hinweis: Erst nachdem alle richtigen Begriffe ins Antwortfeld gezogen worden sind, gibt es ein grünes Häckchen! 😄
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdropmultiple(@uid,Laserpuls|Wärmeeinflusszone,Lichtbogenphase|Photonenschmelze)
 
 
@@ -375,7 +375,7 @@ Ziehe die richtigen Antworten in das Feld.
 
 <!--style="color:red; font-size: huge"-->Hinweis: Erst nachdem alle richtigen Begriffe ins Antwortfeld gezogen worden sind, gibt es ein grünes Häckchen! 😄
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdropmultiple(@uid,Plasmateilchen|Inertgas,Phasor-Technik|Photonenschweißen)
 
 ## 4. Gase im Zahntechniklabor
@@ -429,7 +429,7 @@ Ziehe die richtigen Antworten in das Feld.
 
 <!--style="color:red; font-size: huge"-->Hinweis: Erst nachdem alle richtigen Begriffe ins Antwortfeld gezogen worden sind, gibt es ein grünes Häckchen! 😄
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdropmultiple(@uid,Schutzgas Argon|Sauerstoff,Acetylen|Kohlendioxid|Stickstoff)
 
 ### 4.1 Gase, Arbeitsschutz & Sicherheit im Zahntechniklabor

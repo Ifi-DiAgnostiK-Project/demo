@@ -118,7 +118,7 @@ _https://www.ikz.de/ikz-praxis-archiv/p0108/010808.php _
 <!--style="font-weight: bolder; color: blue"-->Bringen Sie die vorbereitenden Arbeitsschritte in die richtige Reihenfolge. <br>
 Der erste Arbeitsschritt muss ganz oben stehen.
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdroporder(@uid,Ablängen|Entgraten|Kalibrieren|Reinigen)
 
 ### 2. Einsatzgebiete des Hart- und Weichlötens
@@ -126,7 +126,7 @@ Der erste Arbeitsschritt muss ganz oben stehen.
 <!--style="font-weight: bolder; color: blue"-->Entscheiden Sie, welche Fügetechnik für welchen Installationsbereich zulässig ist. <br>
 Beachten Sie, dass bei einigen Einsatzgebieten BEIDE Fügetechniken zulässig sind!
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 - [[Hartlöten] [Weichlöten]]
 - [    [ ]          [X]     ]  Trinkwasser Cu-Rohr weich (R220)
 - [    [X]          [X]     ]  Heizung
@@ -158,7 +158,7 @@ Beachten Sie, dass bei einigen Einsatzgebieten BEIDE Fügetechniken zulässig si
 3.2. Vervollständigen Sie den Satz, indem Sie die richtige Antwort markieren.
 ===
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 _Beim Biegen geschweißter Rohre ist darauf zu achten, dass die Rohrnaht in der [[ ( neutralen Faser ) | Innenseite | Außenseite | kürzeren Seite | längeren Seite ]] liegt._<!--style="color:blue; font-weight: bolder;"-->
 
 
@@ -259,13 +259,13 @@ Der erste Arbeitsschritt steht an oberster Stelle.
 
 Arbeitsvorbereitung<!--style="color:blue; font-weight: bolder;"-->
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdroporder(@uid,Anschlüsse prüfen|Ventile an den Gasflaschen öffnen|Arbeitsdruck mit dem Druckminderer einstellen|Sauerstoffventil öffnen|Acetylenventil am Brenner öffnen|Sauerstoff-Acetylen-Gemisch entzünden|Flamme einstellen)
 
 
 <!--style="color:blue; font-weight: bolder;"-->Nach dem Schweißen
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdroporder(@uid,Acetylventil am Brenner schließen|Sauerstoffventil am Brenner schließen|Flaschenventile schließen|Schläuche entlüften)
 
 ----

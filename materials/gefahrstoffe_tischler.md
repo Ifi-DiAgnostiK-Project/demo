@@ -125,7 +125,7 @@ _Rein Sikk, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via W
 
 ## 7. Ordnen Sie das Symbol der richtigen Bedeutung zu?
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 - [[@Gefahrstoffe.Aetzend_Reizend(10)] (@Gefahrstoffe.Reizend_Gesundheitsschaedlich(10)) [@Gefahrstoffe.Komprimierte_Gase(10)]]
 - [    [X]           [ ]             [ ]     ]  Kann schwere Haut- oder Augenschäden verursachen
 - [    [ ]           [X]             [ ]     ]  Kann die Gesundheit bei längerem Kontakt beeinträchtigen

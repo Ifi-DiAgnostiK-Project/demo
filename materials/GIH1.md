@@ -102,7 +102,7 @@ _Quelle: HWK Dresden, Florian Riefling_
 
 ----------------------
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdropmultiple(@uid,geringere Materialabtragung|Feinbearbeitung|Maßgenauigkeit herstellen|geforderte Oberflächengüte,Streit schlichten|Material nach Qualität sortieren|Werkzeug saubermachen)
 
 

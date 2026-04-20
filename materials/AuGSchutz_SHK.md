@@ -98,7 +98,7 @@ __Entscheiden Sie, welche Maßnahmen der Arbeitssicherheit und des Gesundheitssc
 <!-- class="highlight" -->
 __Welche Schutzausrüstung und Sicherheitsmaßnahmen sind beim Löten und nach Arbeitsende zu beachten? Ziehen Sie die richtigen Bilder ins Antwortfeld. 🤔__
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdropmultiple(@uid,@Gebotszeichen.Augenschutz.src|@Gebotszeichen.Handschuh.src|@Gebotszeichen.Schutzkleidung.src|@Brandschutzzeichen.Feuerloescher.src|@Gebotszeichen.Haende_waschen.src,@Gebotszeichen.Rettungsweste_benutzen.src|@Warnzeichen.Brandfoerdernde_Stoffe.src|@Warnzeichen.Heisse_Oberflaeche.src|@Warnzeichen.Laserstrahl.src|@Gebotszeichen.Kopfschutz.src)
 
 _Piktogramme Quelle: BGHM_

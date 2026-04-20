@@ -135,7 +135,7 @@ Ziehen Sie die einzelnen Arbeitsschritte in die richtige Reihenfolge.\
 An oberster Stelle steht der erste Arbeitsschritt.
 
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdroporder(@uid,Anschlussflächen abdecken und abkleben wie Türen - Fenster - Fußboden| Nicht tragfähige Beschichtung und Beläge von den Wand- und Deckenflächen entfernen.|Wand- und Deckenflächen nachwaschen.|Wand- und Deckenflächen spachteln.|Wand- und Deckenflächen schleifen und entstauben.|Wand- und Deckenflächen mit unpigmentierter sowie wasserverdünnter Grundbeschichtung grundieren.|Tapezieren von Raufaser an der Deckenfläche.|Makulatur oder Glattvlies kleben.|Decken- und Wandanschlüsse beschneiden und Zwischenbeschichtung applizieren.|Decken- und Wandanschlüsse beschneiden und Schlussbeschichtung applizieren.)
 
 </div>
@@ -171,7 +171,7 @@ Sie sollen in einem Raum Wände und Sockel gestalten. -- In welcher Reihenfolge 
 Ziehen Sie die einzelnen Arbeitsschritte in die richtige Reihenfolge.\
 An oberster Stelle steht der erste Arbeitsschritt.
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdroporder(@uid,Gestaltungswand: Flächengliederung abmessen und anzeichnen.|Farbflächen mit Strichzieher und Lineal beschneiden.|Farbflächen mit Pinsel deckend farbig auslegen.|Radius auf der rechten Seite anzeichnen und deckend farbig auslegen.|Kontrastlinien mit Lineal und Strichzieher ziehen.|Wickeltechnik über die gesamte Gestaltung mit Latexbindemittel -glänzend- ausführen.)
 
 
@@ -207,7 +207,7 @@ Sie sollen in einem Raum Wände und Sockel gestalten. -- In welcher Reihenfolge 
 Ziehen Sie die einzelnen Arbeitsschritte in die richtige Reihenfolge.\
 An oberster Stelle steht der erste Arbeitsschritt.
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdroporder(@uid,Sockelfläche einmessen und abkleben/abdecken.|Wickeltechnik zweifarbig im Sockelbereich ausführen.|Fläche der Wickeltechnik mit Strichzieher und Lineal einrahmen.|Abklebung und Abdeckung entfernen. Abfälle sachgerecht entsorgen und Werkzeuge und Arbeitsmittel reinigen.)
 
 </div>

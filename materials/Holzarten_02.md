@@ -47,7 +47,7 @@ _Quelle aller Holz-Abbildungen:_ _https://holzvomfach.de/fachwissen-holz/holz-ab
 
 <br>
 
-<!--data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 - [  [Laubholz]     [Nadelholz]  ]
 - [    (x)             ( )       ] __Ahorn__ @Hoelzer1.Ahorn(10)
 - [    ( )             (x)       ] __Weißtanne__ @Hoelzer1.Weisstanne(10)
@@ -110,7 +110,7 @@ Welche Hölzer sind typischerweise hell in der Farbe?
 
 
 
-<!--data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdropmultiple(@uid, Robinie|Tanne|Nussbaum|Edelkastanie,Fichte|Douglasie|Lärche)
 
 >_Auswertung stimmt nicht. Obwohl die richtigen Begriffe in den Box gezogen werden, kommt ein falsches Ergebnis._
@@ -125,7 +125,7 @@ _Quelle aller Holz-Abbildungen:_ _https://holzvomfach.de/fachwissen-holz/holz-ab
 
 ---------------------------
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 - [  [Hartholz]     [Weichholz]  ]
 - [    (x)             ( )       ] __Ulme (auch Rüster)__ @Hoelzer1.Ulme_Ruester(10)
 - [    ( )             (x)       ] __Linde__ @Hoelzer1.Linde(10)
@@ -174,7 +174,7 @@ _Quelle aller Holz-Abbildungen:_ _https://holzvomfach.de/fachwissen-holz/holz-ab
 <!--style="color:green"-->Auf welche Holzart treffen die Aussagen zu?
 ===
 
-<!--data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 [[ Robinie | (Eiche) | Teak]] ist wegen seiner auffälligen Fladerung (markante schmale Markstrahlen) und Härte beliebt für hochwertige Böden und rustikale Möbel.
 
 

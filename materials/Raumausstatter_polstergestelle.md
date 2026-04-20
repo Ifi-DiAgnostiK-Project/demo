@@ -93,6 +93,7 @@ Ziehen Sie den richtigen Begriff in das Antwortfeld.
 data-randomize
 data-max-trials="3"
 data-solution-button="off"
+data-show-partial-solution
 -->
 Holzgestelle bestehen aus [->[  (mehreren Holzteilen) | einem Holzteil ]].
 
@@ -217,6 +218,7 @@ Ordnen Sie den Zahlen 1 - 8 im Bild den jeweils richtigen Fachbegriff zu.
 data-randomize
 data-max-trials="3"
 data-solution-button="off"
+data-show-partial-solution
 -->
 <li> [[ (Vorderschwinge/-zarge) | Hinterschwinge/-zarge   | Seitenschwinge/-zarge  |  Füße |  Armlehnstütze/Vorderstollen |  Armlehnbrett/Armlehnfederbrett  |  Backenhölzer | Kopfleiste ]]</li>
 <li> [[ Vorderschwinge/-zarge | (Hinterschwinge/-zarge)   | Seitenschwinge/-zarge  |  Füße |  Armlehnstütze/Vorderstollen |  Armlehnbrett/Armlehnfederbrett  |  Backenhölzer | Kopfleiste  ]]</li>
@@ -250,6 +252,7 @@ Ziehen Sie den richtigen Begriff in das Antwortfeld.
 data-randomize
 data-max-trials="3"
 data-solution-button="off"
+data-show-partial-solution
 -->
 Eine der typischen Holzverbindungen im Polstergestellbau ist die [->[  (verleimte Dübelung) | Steckverbindung ]].
 

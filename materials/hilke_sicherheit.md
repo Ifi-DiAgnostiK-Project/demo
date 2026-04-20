@@ -185,7 +185,7 @@ Ordnen Sie das jeweilige Symbol im Bild 1, 2 und 3 der richtigen Bedeutung zu.
 __Ordnen Sie das jeweilige Symbol der richtigen Bedeutung zu.__
 ===
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 [[![Brandschutzpfeil rechts](https://github.com/vgoehler/DiAgnostiK_Bilder_Test/blob/main/img/Brandschutzzeichen/Richtungspfeil_Rechts.jpg?raw=true) <!-- style="width: 100px" -->]        (![Brandmeldetelefon](https://github.com/vgoehler/DiAgnostiK_Bilder_Test/blob/main/img/Brandschutzzeichen/Brandmeldetelefon.jpg?raw=true) <!-- style="width: 100px" -->)                 [![Brandmelder](https://github.com/vgoehler/DiAgnostiK_Bilder_Test/blob/main/img/Brandschutzzeichen/Brandmelder.jpg?raw=true) <!-- style="width: 100px" -->]]
 - [    ( )              ( )                      ( )     ]  Fluchtweg
 - [    (X)              ( )                      ( )     ]  Richtungspfeils rechts
@@ -207,7 +207,7 @@ Welches dieser Zeichen ist ein Rettungszeichen?
 __Welches dieser Zeichen ist ein Rettungszeichen?__
 ===
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 - [[![Erste Hilfe](https://github.com/vgoehler/DiAgnostiK_Bilder_Test/blob/main/img/Rettungszeichen/Erste_Hilfe.jpg?raw=true) <!-- style="width: 100px" -->] (![Warnzeichen Automatischer Anlauf](https://github.com/vgoehler/DiAgnostiK_Bilder_Test/blob/main/img/Warnzeichen/Automatischer_Anlauf.jpg?raw=true) <!-- style="width: 100px" -->) [![Brandmelder](https://github.com/vgoehler/DiAgnostiK_Bilder_Test/blob/main/img/Brandschutzzeichen/Brandmelder.jpg?raw=true) <!-- style="width: 100px" -->]]
 - [    [X]           [ ]             [ ]     ]  Rettungszeichen
 
@@ -224,7 +224,7 @@ Füllen Sie den Lückentext aus.
 __Füllen Sie den Lückentext aus.__
 ===
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 Das Rettungszeichen für den [[ Sammelpunkt | (Notausgang) | Sani-Kasten]] ist grün und zeigt eine laufende Person mit einem Pfeil.
 Rettungszeichen sind immer in der Farbe [[ rot |   blau   | (grün) ]] gehalten.
 
@@ -243,7 +243,7 @@ Ordnen Sie das jeweilige Symbol im Bild 1, 2 und 3 der richtigen Bedeutung zu.
 __Ordnen Sie das jeweilige Symbol der richtigen Bedeutung zu.__
 ===
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 -   [[![Rettungspfeil rechts](https://github.com/vgoehler/DiAgnostiK_Bilder_Test/blob/main/img/Rettungszeichen/Richtungspfeil_rechts.jpg?raw=true) <!-- style="width: 100px" -->]        (![öffentl. Schutzausrüstung](https://github.com/vgoehler/DiAgnostiK_Bilder_Test/blob/main/img/Rettungszeichen/%C3%96ffentliche_Rettungsausr%C3%BCstung.jpg?raw=true) <!-- style="width: 100px" -->)                 [![Arzt](https://github.com/vgoehler/DiAgnostiK_Bilder_Test/blob/main/img/Rettungszeichen/Arzt.jpg?raw=true) <!-- style="width: 100px" -->]]
 - [    ( )              ( )                      ( )     ]  Fluchtweg links
 - [    (X)              ( )                      ( )     ]  Fluchtweg rechts
@@ -267,7 +267,7 @@ Verbot von offenem Feuer
 3.1 __Ordnen Sie die Zeichen den passenden Beschreibungen zu.__
 ===
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 -   [[![Warnung elektr. Spannung](https://github.com/vgoehler/DiAgnostiK_Bilder_Test/blob/main/img/Warnzeichen/Elektrische_Spannung.jpg?raw=true) <!-- style="width: 100px" -->]        (![Handschuh](https://github.com/vgoehler/DiAgnostiK_Bilder_Test/blob/main/img/Gebotszeichen/Handschuh.jpg?raw=true) <!-- style="width: 100px" -->)                 [![Verbot offenes Feuer](https://github.com/vgoehler/DiAgnostiK_Bilder_Test/blob/main/img/Verbotszeichen/Keine_Offene_Flamme.jpg?raw=true) <!-- style="width: 100px" -->]]
 - [    (X)                                     ( )                                      ( )     ]  Warnung vor elektrischer Spannung
 - [    ( )                                     (X)                                      ( )     ]  Aufforderung, Handschuhe zu tragen
@@ -303,7 +303,7 @@ c) Feuerlöscher
 3.3 __Was bedeutet das folgende Zeichen?__
 ===
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @Brandschutzzeichen.Feuerloescher(10)
 
 - [( )] Brandmelder
@@ -332,7 +332,7 @@ Ordnen Sie die abgebildeten Sicherheitszeichen dem richtigen Begriff zu:
 3.5 __Ordnen Sie die abgebildeten Sicherheitszeichen dem richtigen Begriff zu:__
 ===
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution-->
 -   [[![Notruftelefon](https://github.com/vgoehler/DiAgnostiK_Bilder_Test/blob/main/img/Rettungszeichen/Notruftelefon.jpg?raw=true) <!-- style="width: 100px" -->]        (![Schutzhelm tragen](https://github.com/vgoehler/DiAgnostiK_Bilder_Test/blob/main/img/Gebotszeichen/Kopfschutz.jpg?raw=true) <!-- style="width: 100px" -->)                 [![Ätzend-reizend](https://github.com/vgoehler/DiAgnostiK_Bilder_Test/blob/main/img/Gefahrstoffe/%C3%84tzend_Reizend.gif?raw=true) <!-- style="width: 100px" -->]]
 - [    ( )              ( )                      ( )     ]  Warnung vor einer Gefahr
 - [    (X)              ( )                      ( )     ]  Notruftelefon
@@ -352,7 +352,7 @@ Wofür steht dieses Zeichen?
 
 ![Explosiv](https://github.com/vgoehler/DiAgnostiK_Bilder_Test/blob/main/img/Gefahrstoffe/Explosiv.gif?raw=true) <!-- style="width: 150px" -->
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 - [( )] Achtung: Komprimierte Gase!
 - [(X)] Achtung: Explosiv!
 - [( )] Achtung: Entzündlich!
@@ -517,7 +517,7 @@ Achtens. Ordnen Sie die Schilder den richtigen Begriffen zu!
 __8. Ordnen Sie die Schilder den richtigen Begriffen zu!__
 
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 -   [[![Warnzeichen](https://github.com/Ifi-DiAgnostiK-Project/Piktogramme/blob/main/img/Warnzeichen/Hei%C3%9Fe_Oberfl%C3%A4che.jpg?raw=true) <!-- style="width: 100px" -->]        (![Warnweste](https://github.com/Ifi-DiAgnostiK-Project/Piktogramme/blob/main/img/Gebotszeichen/Warnweste.jpg?raw=true) <!-- style="width: 100px" -->)                 [![Rauchen verboten](https://github.com/Ifi-DiAgnostiK-Project/Piktogramme/blob/main/img/Verbotszeichen/Rauchen_verboten.jpg?raw=true) <!-- style="width: 100px" -->]       (![Brandbekämpfung](https://github.com/Ifi-DiAgnostiK-Project/Piktogramme/blob/main/img/Brandschutzzeichen/Brandbek%C3%A4mpfung.jpg?raw=true) <!-- style="width: 100px" -->)                 [![Notausgang](https://github.com/Ifi-DiAgnostiK-Project/Piktogramme/blob/main/img/Rettungszeichen/Notausgang_rechts.jpg?raw=true) <!-- style="width: 100px" -->]       (![Entzündlich](https://github.com/Ifi-DiAgnostiK-Project/Piktogramme/blob/main/img/Gefahrstoffe/Entz%C3%BCndlich.gif?raw=true) <!-- style="width: 100px" -->)]
 - [    ( )              ( )                      ( )      (X)              ( )                      ( )     ]  Brandschutzzeichen
 - [    ( )              (X)                      ( )      ( )              ( )                      ( )     ]  Gebotszeichen
@@ -558,11 +558,13 @@ __10. Füllen Sie den Lückentext richtig aus:__
 
 >_Kann der Lückentext sinnvoll vorgelesen werden, dass die Lücken offensichtlich werden?_
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 Arbeits- und Gesundheitsschutz ist ein wichtiger Bestandteil im Berufsleben. Ziel ist es, die [[ (Sicherheit) | __Gefährdung__ | Unfall | __Krankheit__  ]] und Gesundheit aller Beschäftigten am Arbeitsplatz zu gewährleisten. Zu den wichtigsten Maßnahmen gehören die [[ __Pausenregelung__ |  (Gefährdungsbeurteilung) | __Urlaubsplanung__ | Gehaltsabrechnung  ]] und das Ergreifen geeigneter Schutzmaßnahmen.
 
+<!-- data-randomize data-show-partial-solution -->
 Eine wichtige Rolle spielt auch die [[ (__Unterweisung__) |  Entlassung | __Versetzung__ | Beförderung  ]] der Mitarbeiter und Mitarbeiterinnen. Sie müssen regelmäßig über Gefahren und Schutzmaßnahmen informiert werden. Das Tragen von persönlicher [[ __Freizeitkleidung__ |  Bürobedarf | __Werkzeug__ | (Schutzausrüstung)  ]] kann in bestimmten Bereichen vorgeschrieben sein.
 
+<!-- data-randomize data-show-partial-solution -->
 Arbeitgeber sind verpflichtet, Arbeitsunfälle und [[ Feiertage |  __Überstunden__ | Fehlzeiten | (__Berufskrankheiten__)  ]] zu melden. Beschäftigte sollten bei Gefahr sofort ihren [[ Kollegen |  __Hausmeister__ | (Vorgesetzten) | __Kunden__  ]] informieren.
 
 ---
@@ -577,7 +579,7 @@ Können Sie  diese Zuordnungsaufgabe lösen? - Ziehen Sie alle Gebotszeichen in 
 __11. Ziehen Sie alle Gebotszeichen in das Antwortfeld!__ 🤔
 
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdropmultiple(@uid,@Gebotszeichen.Uebergang.src,@Rettungszeichen.Arzt.src|@Leitern.Maximale_Belastung.src|@Warnzeichen.Absturzgefahr.src|@Brandschutzzeichen.Richtungspfeil_Rechts_unten.src|)
 
 >_Ich habe herausgefunden, dass Drag&Drop funktioniert, wenn ich ganz oben in der Internetleiste den Button "Seite neu laden" drücke._
@@ -801,7 +803,7 @@ Beachten Sie bei der Verwendung von Leitern immer die relevanten Sicherheitsrege
 ---
 __Können Sie die Bilder der richtigen Bedeutung zuordnen?__ 🤔
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 -   [[![!sicher Flächen Leiter](https://github.com/vgoehler/DiAgnostiK_Bilder_Test/blob/main/img/Leitern/Nur_an_sichere_Fl%C3%A4chen_anlegen.jpg?raw=true) <!-- style="width: 100px" -->]        (![Nicht übertreten](https://github.com/vgoehler/DiAgnostiK_Bilder_Test/blob/main/img/Leitern/Nicht_%C3%BCbertreten.jpg?raw=true) <!-- style="width: 100px" -->)                 [![sicherer Untergrund](https://github.com/vgoehler/DiAgnostiK_Bilder_Test/blob/main/img/Leitern/Ebener_und_tragf%C3%A4higer_Untergrund.jpg?raw=true) <!-- style="width: 100px" -->]]
 - [    ( )              ( )                      ( )     ]  Die obersten 3 Sprossen nicht benutzen
 - [    ( )              ( )                      ( )     ]  Nicht auf die obersten Sprossen treten
@@ -813,7 +815,7 @@ __Können Sie die Bilder der richtigen Bedeutung zuordnen?__ 🤔
 
 ---
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 -   [[![!Max Belastung](https://github.com/vgoehler/DiAgnostiK_Bilder_Test/blob/main/img/Leitern/Maximale_Belastung.jpg?raw=true) <!-- style="width: 100px" -->]        (![Nicht übersteigen](https://github.com/vgoehler/DiAgnostiK_Bilder_Test/blob/main/img/Leitern/Nicht_%C3%BCbersteigen.jpg?raw=true) <!-- style="width: 100px" -->)                 [![Anlegewinkel beachten](https://github.com/vgoehler/DiAgnostiK_Bilder_Test/blob/main/img/Leitern/Anlegewinkel_beachten.jpg?raw=true) <!-- style="width: 100px" -->]]
 - [    (X)              ( )                      ( )     ]  Maximale Belastung
 - [    ( )              (X)                      ( )     ]  Nicht übersteigen
@@ -823,7 +825,6 @@ __Können Sie die Bilder der richtigen Bedeutung zuordnen?__ 🤔
 
 ---
 
-<!-- data-randomize -->
 __Welches der Symbole warnt: Spreizsicherung einlegen!__ 🤔
 
 <section class="flex-container">
@@ -842,10 +843,8 @@ Bild c) @Leitern.Stahlspitzen_auf_nachgiebigem_Untergrund(10)
 - [[ ]] Bild b
 - [[ ]] Bild c
 
-
 ----
 
-<!-- data-randomize -->
 __Welches der Symbole zeigt an, dass die Leiter nicht als Anlegeleiter genutzt werden darf?__
 
 <section class="flex-container">
@@ -866,7 +865,6 @@ Bild c) @Leitern.Nicht_als_Anlegeleiter_nutzen(10)
 
 ---
 
-<!-- data-randomize -->
 __Welches der Symbole zeigt an, dass nicht übertreten werden darf?__
 
 <section class="flex-container">
@@ -887,7 +885,6 @@ Bild c) @Leitern.Nicht_uebertreten(10)
 
 ---
 
-<!-- data-randomize -->
 __Welches der Symbole zeigt an, dass die Leiter nur von einer Person genutzt werden darf?__ 🤔
 
 <section class="flex-container">
@@ -919,7 +916,7 @@ __Welche Symbole regeln den Umgang mit Leitern?__ 🤔
 > Die Bilder mit | aneinandreihen und immer die src Varianten verwenden `@Leitern.Anlegewinkel_beachten.src` z.B.
 > Ist aber noch sehr Buggy, ich frag mal Niklas !
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdropmultiple(@uid,@Leitern.Nur_eine_Person.src|@Leitern.Anlegewinkel_beachten.src|@Leitern.Mindestens_1_m_Ueberstand.src,@Warnzeichen.Hindernisse_am_Boden.src|@Warnzeichen.Automatischer_Anlauf.src|@Gebotszeichen.Handlauf.src|@Rettungszeichen.Erste_Hilfe.src)
 
 
@@ -927,7 +924,7 @@ __Welche Symbole regeln den Umgang mit Leitern?__ 🤔
 
 __Die Bilder gehören zu Warn-, Verbots- oder Gebotszeichen. Aber welche Symbole regeln den Umgang mit Leitern bei der Arbeit?__ 🤔
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdropmultiple(@uid,@Leitern.Witterungsbedingungen.src|@Leitern.Stahlspitzen_auf_nachgiebigem_Untergrund.src,@Verbotszeichen.Besteigen_fuer_Unbefugte_verboten.src|@Warnzeichen.Absturzgefahr.src|@Brandschutzzeichen.Feuerleiter.src|@Gebotszeichen.Uebergang.src)
 
 

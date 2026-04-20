@@ -95,7 +95,7 @@ In welcher Reihenfolge führen Sie die Verarbeitung von Wärme-Dämm-Verbund-Sys
 Ziehen Sie die Bilder der einzelnen Arbeitsschritte in die richtige Reihenfolge.\
 An oberster Stelle steht der erste Arbeitsschritt.
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdropsort(@uid,Untergrundprüfung / Fassade reinigen;@Maler_WDVS.1_1_Untergrundpruefung.src|lockeren Putz entfernen und nachputzen;@Maler_WDVS.1_2_Putzentfernen.src|Putzgrundierung aufbringen;@Maler_WDVS.1_3_Putzgrundierung.src)
 
 </div>
@@ -117,7 +117,7 @@ In welcher Reihenfolge führen Sie die Verarbeitung von Wärme-Dämm-Verbund-Sys
 Ziehen Sie die Bilder der einzelnen Arbeitsschritte in die richtige Reihenfolge.\
 An oberster Stelle steht der erste Arbeitsschritt.
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdropsort(@uid,Sockelschienen setzen;@Maler_WDVS.2_1_Sockelschienen_setzen.src|WDVS verkleben und Dübel setzen;@Maler_WDVS.2_2_WDVS_verkleben_Duebel.src|Eckschutzschienen setzen und Auftragen der Armierungsmasse sowie Armierungsgewebe einbetten;@Maler_WDVS.2_3_Armierungsmasse.src)
 
 
@@ -140,7 +140,7 @@ In welcher Reihenfolge führen Sie die Verarbeitung von Wärme-Dämm-Verbund-Sys
 Ziehen Sie die Bilder der einzelnen Arbeitsschritte in die richtige Reihenfolge.\
 An oberster Stelle steht der erste Arbeitsschritt.
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdroporder(@uid,Grundierung aufbringen;@Maler_WDVS.3_1_Grundierung.src|Strukturputz aufbringen;@Maler_WDVS.3_2_Strukturputz_aufbringen.src|Fassadenanstrich auftragen;@Maler_WDVS.3_3_Fassadenanstrich.src)
 
 
@@ -163,7 +163,7 @@ In welcher Reihenfolge führen Sie die Verarbeitung von Wärme-Dämm-Verbund-Sys
 Ziehen Sie die einzelnen Arbeitsschritte in die richtige Reihenfolge.\
 An oberster Stelle steht der erste Arbeitsschritt.
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdroporder(@uid, Untergrundvorbereitung|Sockelanschluss anbringen|Dämmplatten befestigen|Unterputz aufbauen|Oberputz aufbauen|Schlussbeschichtung)
 
 
@@ -184,6 +184,7 @@ Ordnen Sie den Zahlen 1 - 7 im Bild den jeweils richtigen Fachbegriff zu.
 data-randomize
 data-max-trials="3"
 data-solution-button="off"
+data-show-partial-solution
 -->
 <li> [[ Dämmstoff | Kleber   | Oberputz/Endbeschichtung  |  (Wand)  |  Grundierung |  Armierungsgewebe  |  Armierungsmasse ]]</li>
 <li> [[ Dämmstoff | (Kleber)   | Oberputz/Endbeschichtung  |  Wand  |  Grundierung |  Armierungsgewebe  |  Armierungsmasse ]]</li>
@@ -277,6 +278,7 @@ Welche m²-Zahl ist richtig?
 data-randomize
 data-max-trials="3"
 data-solution-button="off"
+data-show-partial-solution
 -->
 - [( )] 80 m²
 - [(X)] 84 m²
@@ -319,6 +321,7 @@ Wie viel kg Kleber-/Armierung benötigen Sie?
 data-randomize
 data-max-trials="3"
 data-solution-button="off"
+data-show-partial-solution
 -->
 - [(X)] 420 kg
 - [( )] 390 kg
@@ -358,6 +361,7 @@ Wie viel kg Strukturputz benötigen Sie?
 data-randomize
 data-max-trials="3"
 data-solution-button="off"
+data-show-partial-solution
 -->
 - [( )] 390 kg
 - [(X)] 210 kg

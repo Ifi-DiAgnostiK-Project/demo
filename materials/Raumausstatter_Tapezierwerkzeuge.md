@@ -82,7 +82,7 @@ Ordnen Sie die folgenden Aussagen in "richtig" und "falsch" ein.
 -----------
 
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 - [  [richtig]     (falsch) ]
 - [    (X)           ( )    ]  Der Andrückspachtel<!-- style="font-weight: bolder; font-size: 11pt; color: blue;"--> eignet sich nur für strapazierfähige Oberflächen wie Glasgewebe, Makulaturvlies oder Vliestapete.
 - [    ( )           (X)    ] Ein Cuttermesser<!-- style="font-weight: bolder; font-size: 11pt; color: blue;"--> ist beim Tapezieren nicht nötig, weil die Tapetenbahnen mit der Tapezierschere zugeschnitten werden.

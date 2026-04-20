@@ -110,9 +110,10 @@ Ordnen Sie die Maschinenbauteile 1 - 6 im Bild richtig zu.
 <br>
 
 <!--
-data-randomize
-data-solution-button="off"
-data-max-trials="3"
+  data-randomize
+  data-solution-button="off"
+  data-max-trials="3"
+  data-show-partial-solution
 -->
 1<!--style="color: blue; font-weight: bolder"-->  =  [[  Parallelanschlag | (Spaltkeil)   | Tischeinlage, auswechselbar  |   kurzer Quer- und Gehrungsschlag    | Schutzhaube mit Absauganschluss  |   Schutzhaubenträger   ]]
 ********************
@@ -123,6 +124,7 @@ data-max-trials="3"
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 2<!--style="color: blue; font-weight: bolder"-->  =  [[  Parallelanschlag |  Spaltkeil   | Tischeinlage, auswechselbar  |   kurzer Quer- und Gehrungsschlag    | (Schutzhaube mit Absauganschluss)  |   Schutzhaubenträger   ]]
 ********************
@@ -133,6 +135,7 @@ data-max-trials="3"
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 3<!--style="color: blue; font-weight: bolder"-->  =  [[  Parallelanschlag |  Spaltkeil    | Tischeinlage, auswechselbar  |   kurzer Quer- und Gehrungsschlag    | Schutzhaube mit Absauganschluss  |   (Schutzhaubenträger)   ]]
 ********************
@@ -143,6 +146,7 @@ data-max-trials="3"
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 4<!--style="color: blue; font-weight: bolder"-->  =  [[ (Parallelanschlag) |  Spaltkeil    | Tischeinlage, auswechselbar  |   kurzer Quer- und Gehrungsschlag    | Schutzhaube mit Absauganschluss  |    Schutzhaubenträger   ]]
 ********************
@@ -153,6 +157,7 @@ data-max-trials="3"
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 5<!--style="color: blue; font-weight: bolder"-->  =  [[  Parallelanschlag |  Spaltkeil    | Tischeinlage, auswechselbar  |   (kurzer Quer- und Gehrungsschlag)    | Schutzhaube mit Absauganschluss  |   Schutzhaubenträger   ]]
 ********************
@@ -163,6 +168,7 @@ data-max-trials="3"
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 6<!--style="color: blue; font-weight: bolder"-->  =  [[  Parallelanschlag |  Spaltkeil   | (Tischeinlage, auswechselbar)  |   kurz Quer- und Gehrungsschlag    | Schutzhaube mit Absauganschluss  |   Schutzhaubenträger   ]]
 ********************
@@ -195,6 +201,7 @@ Ordnen Sie die Maschinenbauteile 7 - 13 im Bild richtig zu.
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 7<!--style="color: blue; font-weight: bolder"-->  =  [[  Stellteile EIN - AUS, NOT - AUS | (Tischverlängerung)   | Drehzahlanzeige  |   Absauganschluss unten    | Schiebestock mit Halterung  |   Queranschlag   |   Besäumniederhalter -Klemmschuh-   ]]
 ********************
@@ -205,6 +212,7 @@ data-max-trials="3"
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 8<!--style="color: blue; font-weight: bolder"-->  =  [[  (Stellteile EIN - AUS, NOT - AUS) |  Tischverlängerung   | Drehzahlanzeige  |   Absauganschluss unten    | Schiebestock mit Halterung  |   Queranschlag   |   Besäumniederhalter -Klemmschuh-  ]]
 ********************
@@ -215,6 +223,7 @@ data-max-trials="3"
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 9<!--style="color: blue; font-weight: bolder"-->  =  [[   Stellteile EIN - AUS, NOT - AUS  |  Tischverlängerung   | (Drehzahlanzeige)  |   Absauganschluss unten    | Schiebestock mit Halterung  |   Queranschlag   |   Besäumniederhalter -Klemmschuh-  ]]
 ********************
@@ -225,6 +234,7 @@ data-max-trials="3"
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 10<!--style="color: blue; font-weight: bolder"-->  =  [[ (Absauganschluss unten) |  Spaltkeil    | Tischeinlage, auswechselbar  |   kurzer Quer- und Gehrungsschlag    | Schutzhaube mit Absauganschluss  |    Schutzhaubenträger   |   Besäumniederhalter -Klemmschuh-   ]]
 ********************
@@ -235,6 +245,7 @@ data-max-trials="3"
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 11<!--style="color: blue; font-weight: bolder"-->  =  [[  Parallelanschlag |  Spaltkeil    | Tischeinlage, auswechselbar  |   (Schiebestock mit Halterung)   |   Queranschlag   |   Besäumniederhalter -Klemmschuh-  | Drehzahlanzeige ]]
 ********************
@@ -245,6 +256,7 @@ data-max-trials="3"
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 12<!--style="color: blue; font-weight: bolder"-->  =  [[  Parallelanschlag |  Spaltkeil   | (Queranschlag)  |   kurz Quer- und Gehrungsschlag    | Schutzhaube mit Absauganschluss  |   Schutzhaubenträger  |     Stellteile EIN - AUS, NOT - AUS   ]]
 ********************
@@ -255,6 +267,7 @@ data-max-trials="3"
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 13<!--style="color: blue; font-weight: bolder"-->  =  [[  Parallelanschlag |  Spaltkeil   | (Besäumniederhalter -Klemmschuh-)  |   kurz Quer- und Gehrungsschlag    | Schutzhaube mit Absauganschluss  |   Schutzhaubenträger  |    Schiebestock mit Halterung   ]]
 ********************
@@ -303,6 +316,7 @@ Wenden Sie die Faustformel an!
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 Es ist eine Drehzahl von\
 <br>
@@ -405,6 +419,7 @@ Wie ist der Spaltkeilabstand zum Kreissägeblatt einzustellen?
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 Der Spaltkeil ist auf höchstens\
 <br>
@@ -436,6 +451,7 @@ Wie groß darf bei Tisch- und Formatkreissägen der Abstand des Spaltkeiles unte
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 Der Spaltkeilabstand unter der höchsten Sägezahnspitze darf höchstens\
 <br>
@@ -467,6 +483,7 @@ Wie wird der Parallelanschlag eingestellt?
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 - [(X)] Anschlag flach und vor das Sägeblatt zurückziehen, damit ein Klemmen des Werkstücks vermieden wird.
 - [( )] Anschlag flach und nach "Faustregel" - Sägeblattvorderkante 45° nach hinten.
@@ -595,6 +612,7 @@ Ziehen Sie die richtige Lösung in das leere Feld.
 data-randomize
 data-max-trials="3"
 data-solution-button="off"
+data-show-partial-solution
 -->
 @dragdropmultiple(@uid,Ausgangsdicke abzüglich Spanabnahme,Fertigdicke|Ausgangsdicke zuzüglich Spanabnahme)
 
@@ -616,6 +634,7 @@ Ordnen Sie die Maschinenbauteile 1 - 8 im Bild richtig zu.
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 1<!--style="color: blue; font-weight: bolder"-->  =  [[  (Stellteile EIN - AUS, NOT - AUS) |  Messerwelle   | Greiferrückschlagsicherung  |   Druckbalken    | Absaugung  |   Einzugswalze    |   Auszugswalze glatt/gummiert    |   Tischwalzen   ]]
 ********************
@@ -626,6 +645,7 @@ data-max-trials="3"
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 2<!--style="color: blue; font-weight: bolder"-->  =  [[  Stellteile EIN - AUS, NOT - AUS   |  (Messerwelle)   | Greiferrückschlagsicherung  |   Druckbalken    | Absaugung  |   Einzugswalze    |   Auszugswalze glatt/gummiert    |   Tischwalzen   ]]
 ********************
@@ -636,6 +656,7 @@ data-max-trials="3"
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 3<!--style="color: blue; font-weight: bolder"-->  =  [[  Stellteile EIN - AUS, NOT - AUS |  Messerwelle   |  (Greiferrückschlagsicherung)  |   Druckbalken    | Absaugung  |   Einzugswalze    |   Auszugswalze glatt/gummiert    |   Tischwalzen   ]]
 ********************
@@ -646,6 +667,7 @@ data-max-trials="3"
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 4<!--style="color: blue; font-weight: bolder"-->  =  [[  Stellteile EIN - AUS, NOT - AUS |  Messerwelle   | Greiferrückschlagsicherung  |   Druckbalken    | (Absaugung)  |   Einzugswalze    |   Auszugswalze glatt/gummiert    |   Tischwalzen   ]]
 ********************
@@ -656,6 +678,7 @@ data-max-trials="3"
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 5<!--style="color: blue; font-weight: bolder"-->  =  [[  Stellteile EIN - AUS, NOT - AUS |  Messerwelle   | Greiferrückschlagsicherung  |   (Druckbalken)    | Absaugung  |   Einzugswalze    |   Auszugswalze glatt/gummiert    |   Tischwalzen   ]]
 ********************
@@ -666,6 +689,7 @@ data-max-trials="3"
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 6<!--style="color: blue; font-weight: bolder"-->  =  [[  Stellteile EIN - AUS, NOT - AUS |  Messerwelle   | Greiferrückschlagsicherung  |   Druckbalken    | Absaugung  |   (Einzugswalze)    |   Auszugswalze glatt/gummiert    |   Tischwalzen   ]]
 ********************
@@ -676,6 +700,7 @@ data-max-trials="3"
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solutions
 -->
 7<!--style="color: blue; font-weight: bolder"-->  =  [[  Stellteile EIN - AUS, NOT - AUS |  Messerwelle   | Greiferrückschlagsicherung  |   Druckbalken    | Absaugung  |   Einzugswalze    |   (Auszugswalze glatt/gummiert)    |   Tischwalzen   ]]
 ********************
@@ -686,6 +711,7 @@ data-max-trials="3"
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 8<!--style="color: blue; font-weight: bolder"-->  =  [[  Stellteile EIN - AUS, NOT - AUS |  Messerwelle   | Greiferrückschlagsicherung  |   Druckbalken    | Absaugung  |   Einzugswalze    |   Auszugswalze glatt/gummiert    |   (Tischwalzen)   ]]
 ********************
@@ -724,6 +750,7 @@ Ziehen Sie die richtige Lösung in das leere Feld.
 data-randomize
 data-max-trials="3"
 data-solution-button="off"
+data-show-partial-solution
 -->
 @dragdropmultiple(@uid,wenn die Maschine Gliedereinzugswalzen und Gliederdruckbalken hat,wenn die Maschine Einzugswalze und Druckbalken hat|wenn die Maschine starre Einzugswalze und starren Druckbalken hat)
 
@@ -751,6 +778,7 @@ Ziehen Sie die richtige Lösung in das leere Feld.
 data-randomize
 data-max-trials="3"
 data-solution-button="off"
+data-show-partial-solution
 -->
 @dragdropmultiple(@uid,Schiebeholz,Zuführlade|Schiebestock)
 
@@ -795,7 +823,7 @@ Ordnen Sie die Abbildungen den korrekten Werkzeugbezeichnungen zu!
 
 _Abb.: BGHM_<!-- style="margin-left: 750px;" -->
 
-<!--data-randomize -->
+<!--data-randomize data-show-partial-solution -->
 - [  [Einteiliges Werkzeug]     [Verbundwerkzeug]        [Werkzeugsatz]     [zusammengesetztes Werkzeug]  ]
 - [           (x)                         ( )                  ( )                       ( )              ] ![Einteiliges_Werkzeug](../assets/img/3_zuegiger_bohrere.jpg)<!-- style="max-width: 150px;" -->
 - [           ( )                         (X)                  ( )                       ( )              ] ![Verbundwerkzeug](../assets/img/bohrer_fraes_kopf.jpg)<!-- style="max-width: 150px;" -->
@@ -814,7 +842,7 @@ Ordnen Sie die Abbildungen den korrekten Bauteilbezeichnungen zu!
 
 _Abb.: BGHM_<!-- style="margin-left: 750px;" -->
 
-<!--data-randomize -->
+<!--data-randomize data-show-partial-solution -->
 - [  [Druck- und Schutzvorrichtung]     [Bogenfeder]        [Vorschubapparat]     ]
 - [           (x)                         ( )                  ( )                ] ![Druck-_und_Schutzvorrichtung](../assets/img/Seitenfraese_mit_anderen_sicherheitsmechanismen.jpg)<!-- style="max-width: 200px;" -->
 - [           ( )                         (X)                  ( )                ] ![Bogenfeder](../assets/img/Seitenfraese_mit_sicherheitsmechanismen.jpg)<!-- style="max-width: 200px;" -->

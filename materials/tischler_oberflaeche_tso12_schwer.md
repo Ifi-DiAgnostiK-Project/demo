@@ -144,7 +144,7 @@ Wie lässt sich eine fleckige Beizfläche auf Weichholz vermeiden?
 Welcher Überzug eignet sich besonders gut für stark beanspruchte Flächen (z. B. Tischplatten)?\
 Ziehen Sie den richtigen Begriff ins Antwortfeld.
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdropmultiple(@uid,Zwei-Komponenten-PUR-Lacke,Schellack|Nitrocellulose-Lacke|Öle mit Naturharzanteil)
 
 </div>

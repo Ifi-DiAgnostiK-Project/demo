@@ -128,7 +128,7 @@ Das Zeichen mit einer laufenden Person und einem Pfeil auf grünem Hintergrund k
 <!-- class="highlight" -->
 __Ordnen Sie die abgebildeten Sicherheitszeichen dem richtigen Begriff zu:__
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 - [[@Rettungszeichen.Notruftelefon(10)] [@Gebotszeichen.Kopfschutz(10)] [@Gefahrstoffe.Aetzend_Reizend(10)]]
 - [ ( ) ( ) ( ) ]  Warnung vor einer Gefahr
 - [ (X) ( ) ( ) ]  Notruftelefon

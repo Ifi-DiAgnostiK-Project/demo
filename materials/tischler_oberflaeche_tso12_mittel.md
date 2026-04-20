@@ -144,7 +144,7 @@ Welche Gefahr besteht beim Beizen von Furnier?
 Welche Überzugsmittel bilden eine elastische, offenporige Schutzschicht?\
 Ziehen Sie den richtigen Begriff ins Antwortfeld.
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdropmultiple(@uid,Öle,Schellacke|Nitrocellulose-Lacke|Acrylharze)
 
 </div>

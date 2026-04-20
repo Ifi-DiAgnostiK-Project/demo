@@ -77,7 +77,7 @@ Testen Sie nun Ihr Wissen!
 
 __Ordnen Sie die Piktogramme der richtigen Bedeutung zu.__
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 - [[@Leitern.Nur_an_sichere_Flaechen_anlegen(10)] [@Leitern.Nicht_uebertreten(10)] [@Leitern.Ebener_und_tragfaehiger_Untergrund(10)]]
 - [ ( ) ( ) ( ) ]  Die obersten 3 Sprossen nicht benutzen
 - [ ( ) ( ) ( ) ]  Nicht auf die obersten Sprossen treten
@@ -107,7 +107,7 @@ __Ordnen Sie die Piktogramme der richtigen Bedeutung zu.__
 <!-- class="highlight"-->
 __Ordnen Sie die Piktogramme der richtigen Bedeutung zu.__
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution-->
 - [[@Leitern.Maximale_Belastung(10)] [@Leitern.Nicht_uebersteigen(10)] [@Leitern.Anlegewinkel_beachten(10)]]
 - [ (X) ( ) ( ) ]  Maximale Belastung
 - [ ( ) (X) ( ) ]  Nicht übersteigen
@@ -231,7 +231,7 @@ __Welches der Symbole zeigt an, dass die Leiter nur von einer Person genutzt wer
 __Welche Symbole regeln den Umgang mit Leitern? 🤔__
 
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdropmultiple(@uid,@Leitern.Nur_eine_Person.src|@Leitern.Anlegewinkel_beachten.src|@Leitern.Mindestens_1_m_Ueberstand.src,@Warnzeichen.Hindernisse_am_Boden.src|@Warnzeichen.Automatischer_Anlauf.src|@Gebotszeichen.Handlauf.src|@Rettungszeichen.Erste_Hilfe.src)
 
 

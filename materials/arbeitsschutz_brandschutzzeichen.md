@@ -175,7 +175,7 @@ Wie sehen Brandschutzzeichen typischerweise aus?
 
 Ordnen Sie das jeweilige Symbol der richtigen Bedeutung zu.
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 - [[@Brandschutzzeichen.Richtungspfeil_Rechts(10)] [@Brandschutzzeichen.Brandmeldetelefon(10)] [@Brandschutzzeichen.Brandmelder(10)]]
 - [ ( ) ( ) ( ) ]  Fluchtweg
 - [ (X) ( ) ( ) ]  Richtungspfeils rechts

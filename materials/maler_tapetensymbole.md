@@ -133,7 +133,7 @@ Was sagt diese Nummer aus?
 Welche Symbole geben die Wasser-  und Waschbeständigkeit an?\
 Ziehen Sie die richtigen Piktogramme ins Antwortfeld.
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdropmultiple(@uid,@Pflegeeigenschaft.Wasserbestaendig_bis_zum_Zeitpunkt_der_Verarbeitung.src|@Pflegeeigenschaft.Waschbestaendig.src,@Reinigungssymbole.Professionelle_Reinigung_Grundsymbol.src|@Waschsymbole.Waschen_Grundsymbol.src|@Farbbestaendigkeit_gegen_Licht.Ausgezeichnet_Lichtbestaendig.src)
 
 </div>
@@ -146,7 +146,7 @@ Ziehen Sie die richtigen Piktogramme ins Antwortfeld.
 Welche Symbole sagen etwas über die Lichtbeständigkeit aus?\
 Ziehen Sie die richtigen Piktogramme ins Antwortfeld.
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdropmultiple(@uid,@Farbbestaendigkeit_gegen_Licht.Ausgezeichnet_Lichtbestaendig.src|@Farbbestaendigkeit_gegen_Licht.Befriedigend_Lichtbestaendig.src, @Trocknersymbole.Trocknen_Grundsymbol.src|@Pflegeeigenschaft.Waschbestaendig.src|@Verschiedenes.Dupliert.src)
 
 </div>
@@ -161,7 +161,7 @@ Ziehen Sie die richtigen Piktogramme ins Antwortfeld.
 Welche Symbole geben Hinweise zur Verarbeitung<!-- style="font-weight: bolder; font-size: 13pt; color: magenta;"-->  der Tapete?\
 Ziehen Sie die richtigen Piktogramme ins Antwortfeld.
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdropmultiple(@uid,@Verarbeitung.Wand_einkleistern.src|@Verarbeitung.Vorgekleistert.src|@Verarbeitung.Tapete_einkleistern.src,@Verfahren_fuer_das_Entfernen.Nass_zu_entfernen.src|@Verfahren_fuer_das_Entfernen.Spaltbar_trocken_abziehbar.src|@Verschiedenes.Stossfest.src)
 
 </div>
@@ -174,7 +174,7 @@ Ziehen Sie die richtigen Piktogramme ins Antwortfeld.
 Welche Symbole zeigen das Verfahren für das Entfernen<!-- style="font-weight: bolder; font-size: 13pt; color: magenta;"-->  der Wandbekleidung an?\
 Ziehen Sie die richtigen Piktogramme ins Antwortfeld.
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdropmultiple(@uid,@Verfahren_fuer_das_Entfernen.Nass_zu_entfernen.src|@Verfahren_fuer_das_Entfernen.Spaltbar_trocken_abziehbar.src,@Bleichsymbole.Chlor_oder_Sauerstoffbleichen.src|@Verschiedenes.Stossfest.src|@Verarbeitung.Wand_einkleistern.src)
 
 </div>
@@ -189,7 +189,7 @@ Ziehen Sie die richtigen Piktogramme ins Antwortfeld.
 Es gibt Symbole, welche den Ansatz des Musters beschreiben. Welche sind das?\
 Ziehen Sie die richtigen Piktogramme ins Antwortfeld.
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdropmultiple(@uid,@Ansatz_des_Musters.Ansatzfrei.src|@Ansatz_des_Musters.Gestuerztes_Kleben.src|@Ansatz_des_Musters.Gerader_Ansatz.src, @Farbbestaendigkeit_gegen_Licht.Befriedigend_Lichtbestaendig.src|@Verschiedenes.Dupliert.src)
 
 </div>
@@ -202,7 +202,7 @@ Ziehen Sie die richtigen Piktogramme ins Antwortfeld.
 Welche Symbole gehören nicht<!-- style="font-weight: bolder; font-size: 13pt; color: magenta;"-->  in die Kategorien "Wasser & Licht", "Verarbeitung und Entfernen", "Ansatz des Musters?" oder "Pflegeeigenschaft"?\
 Ziehen Sie die Piktogramme, die "Spezialaussagen" liefern, ins Antwortfeld.
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdropmultiple(@uid,@Verschiedenes.Dupliert.src|@Verschiedenes.Doppelnahtschnitt.src|@Verschiedenes.Stossfest.src, @Pflegeeigenschaft.Hochscheuerbestaendig.src|@Bleichsymbole.Chlor_oder_Sauerstoffbleichen.src)
 
 </div>
@@ -315,7 +315,7 @@ Ordnen Sie den richtigen Begriff dem leeren Textfeld zu, um die Aussage passend 
 
 <br>
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution-->
 Die Chargennummer wird auch [->[ (Anfertigungsnummer) | Tapetennummer ]] genannt.  und kennzeichnet die [->[ (Herstellungsserie) | Produktionszahl ]].
 
 
@@ -323,7 +323,7 @@ Die Chargennummer wird auch [->[ (Anfertigungsnummer) | Tapetennummer ]] genannt
 
 <br>
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 Die Anfertigungsnummer kennzeichnet die [->[ (Herstellungsserie) | Produktionszahl ]] einer Tapete.
 
 </div>

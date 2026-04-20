@@ -297,6 +297,7 @@ Ziehen Sie die richtige Lösung in das leere Feld.
 data-randomize
 data-max-trials="3"
 data-solution-button="off"
+data-show-partial-solution
 -->
 @dragdropmultiple(@uid,Ablängen von Massivholz,Zuschnitt von Kunststoffen|Zuschnitt von Plattenwerkstoffen|Besäumen von Massivholz)
 
@@ -392,6 +393,7 @@ Ziehen Sie die richtige Lösung in das leere Feld.
 data-randomize
 data-max-trials="3"
 data-solution-button="off"
+data-show-partial-solution
 -->
 @dragdropmultiple(@uid,Hände mit geschlossenen Fingern flach auf das Werkstück legen,das Werkstück nur mit den Fingerspitzen schieben|das Werkstück nur am hinteren Ende festhalten und nachschieben|mit einer locker geballten Hand schieben)
 
@@ -436,6 +438,7 @@ Wie groß darf bei Tisch- und Formatkreissägen der Abstand des Spaltkeiles zum 
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 Der Spaltkeilabstand zum Kreissägeblatt darf höchstens\
 <br>
@@ -467,6 +470,7 @@ Wie groß darf bei Tisch- und Formatkreissägen der Abstand des Spaltkeiles unte
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 Der Spaltkeilabstand unter der höchsten Sägezahnspitze darf höchstens\
 <br>
@@ -563,6 +567,7 @@ Ziehen Sie die richtige Lösung in das leere Feld.
 data-randomize
 data-max-trials="3"
 data-solution-button="off"
+data-show-partial-solution
 -->
 @dragdropmultiple(@uid,Hilfsanschlag,Schiebestock|Anlagewinkel|angefertigte Schablone|Spannlade)
 
@@ -616,6 +621,7 @@ Ordnen Sie die Maschinenbauteile 1 - 5 im Bild richtig zu.
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 1<!--style="color: blue; font-weight: bolder"-->  =  [[   Fräsanschlag mit Schutzkasten   |  (Fräsanschlaglineal)   |   Werkzeugverdeckung vor dem Anschlag  |   Spindelarretierung    | Höhenverstellung der Spindel   ]]
 ********************
@@ -626,6 +632,7 @@ data-max-trials="3"
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 2<!--style="color: blue; font-weight: bolder"-->  =  [[   (Tischverlängerung)   |  Fräsanschlaglineal   |    Werkzeugverdeckung vor dem Anschlag  |   Spindelarretierung    | Höhenverstellung der Spindel   ]]
 ********************
@@ -636,6 +643,7 @@ data-max-trials="3"
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 3<!--style="color: blue; font-weight: bolder"-->  =  [[    Tischverlängerung    |  Fräsanschlaglineal   |   (Absaugung/Absauganschluss)  |   Spindelarretierung    |  Höhenverstellung der Spindel   ]]
 ********************
@@ -646,6 +654,7 @@ data-max-trials="3"
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 4<!--style="color: blue; font-weight: bolder"-->  =  [[   Fräsanschlag mit Schutzkasten   | Fräsanschlaglineal   |   Druck- und Schutzvorrichtung  |    Spindelarretierung    | Höhenverstellung der Spindel   ]]
 ********************
@@ -656,6 +665,7 @@ data-max-trials="3"
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 5<!--style="color: blue; font-weight: bolder"-->  =  [[   (Fräsanschlag mit Schutzkasten)   | Fräsanschlaglineale   |    Werkzeugverdeckung vor dem Anschlag  |   Spindelarretierung    |   Höhenverstellung der Spindel   ]]
 ********************
@@ -799,6 +809,7 @@ Wenden Sie die Faustformel an!
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 Es ist eine Drehzahl von\
 <br>
@@ -856,6 +867,7 @@ Es sind mehrere Antworten richtig!
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 - [[ ]] Frässchablone zum Anlaufringfräser
 - [[ ]] Schiebeholz
@@ -892,6 +904,7 @@ Ziehen Sie die richtige Lösung in das leere Feld.
 data-randomize
 data-max-trials="3"
 data-solution-button="off"
+data-show-partial-solution
 -->
 @dragdropmultiple(@uid,mit einem rechtwinkligen Hilfsmittel wie z. B. einem Holzklotz,mit Anstrichen z. B. per Bleistift am Frästisch|mit Anstrichen z. B. per Bleistift am Fräsanschlag|durch eine Leere)
 
@@ -911,6 +924,7 @@ Ziehen Sie die richtige Lösung in das leere Feld.
 data-randomize
 data-max-trials="3"
 data-solution-button="off"
+data-show-partial-solution
 -->
 @dragdropmultiple(@uid,Spannlade,Fräshilfe|Schiebeholz|Schablone|Schiebestock)
 

@@ -292,7 +292,7 @@ Welche Aussagen zu Reihen- und Parallelschaltungen von Widerständen sind korrek
 Ordnen Sie zu, ob die jeweilige Aussage zur Reihen- oder Parallelschaltung gehört?   🤔
 
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 - [[Reihenschaltung] (Parallelschaltung) ]
 - [       [X]              [ ]           ]  Die Stromstärke ist in jedem Bauteil gleich.
 - [       [ ]              [X]           ]  Die Spannung ist in jedem Zweig gleich groß.

@@ -67,7 +67,7 @@ Wir wünschen Ihnen viel Erfolg beim Beantworten der Fragen!
 <!-- class="highlight"-->
 Ordnen Sie die Abkürzungen dem richtigen Bereich zu!
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 - [[3D Druck]    (Dateiformat) ]
 - [    (X)           ( )       ]  SLS
 - [    (X)           ( )       ]  FDM

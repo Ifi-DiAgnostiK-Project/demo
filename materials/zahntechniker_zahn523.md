@@ -67,27 +67,27 @@ Ordnen Sie den Zahlen 1 - 6 im Bild den jeweils richtigen Fachbegriff zu.
 
 <br>
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 1<!--style="color: green; font-weight: bolder"-->  =  [[ Teleskoprand | (Okklusalfläche)   | Okklusale Phase  |   Zervikaler Rand |  Zervikale Stufe |  Gefräßte Fläche]]
 
 <br>
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 2<!--style="color: green; font-weight: bolder"-->  =  [[ Teleskoprand | Okklusalfläche   | (Okklusale Phase)  |   Zervikaler Rand |  Zervikale Stufe |  Gefräßte Fläche]]
 
 <br>
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 3<!--style="color: green; font-weight: bolder"-->  =  [[ Teleskoprand | Okklusalfläche   | Okklusale Phase  |   Zervikaler Rand |  Zervikale Stufe |  (Gefräßte Fläche) ]]
 <br>
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 4<!--style="color: green; font-weight: bolder"-->  =  [[ Teleskoprand | Okklusalfläche   | Okklusale Phase  |   Zervikaler Rand |  (Zervikale Stufe) |  Gefräßte Fläche]]
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 5<!--style="color: green; font-weight: bolder"-->  =  [[ Teleskoprand | Okklusalfläche   | Okklusale Phase  |   (Zervikaler Rand) |  Zervikale Stufe |  Gefräßte Fläche]]
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 6<!--style="color: green; font-weight: bolder"-->  =  [[ (Teleskoprand) | Okklusalfläche   | Okklusale Phase  |   Zervikaler Rand |  Zervikale Stufe |  Gefräßte Fläche]]
 
 </div>

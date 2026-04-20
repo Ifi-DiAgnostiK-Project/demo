@@ -77,7 +77,7 @@ Viel Erfolg!
 
 ---
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 Das Rettungszeichen für den [[ Sammelpunkt | (Notausgang) | Sani-Kasten]] ist grün und zeigt eine laufende Person mit einem Pfeil.\
 Rettungszeichen sind immer in der Farbe [[ rot |   blau   | (grün) ]] gehalten.
 
@@ -94,7 +94,7 @@ __Ordnen Sie die Piktogramme ihrer jeweiligen Bedeutung zu.__
 
 --------------
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 - [[ @Rettungszeichen.Richtungspfeil_rechts(10) ] [@Rettungszeichen.Oeffentliche_Rettungsausruestung(10) ] [ @Rettungszeichen.Arzt(10) ]]
 - [ ( ) ( ) ( ) ]  Fluchtweg links
 - [ (X) ( ) ( ) ]  Fluchtweg rechts

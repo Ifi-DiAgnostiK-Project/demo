@@ -145,7 +145,7 @@ Welche Kombination ergibt auf Nadelholz eine besonders warme, rustikale Oberflä
 Welche Oberflächenbehandlung würden Sie für ein Massivholzbrett mit natürlicher Haptik empfehlen?\
 Ziehen Sie den richtigen Begriff ins Antwortfeld.
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdropmultiple(@uid,Hartöl - evtl. mit Wachs kombiniert,PUR-Lack|Polyesterlack|UV-Lack)
 
 </div>

@@ -332,6 +332,7 @@ Ziehen Sie die richtige Lösung in das leere Feld.
 data-randomize
 data-max-trials="3"
 data-solution-button="off"
+data-show-partial-solution
 -->
 @dragdropmultiple(@uid,Querschnittsägeblatt mit negativem Spanwinkel ≤ 0°/≤ 5°,Längsschnittsägeblatt|Trapezzahnsägeblatt|Querschnittsägeblatt|Hohlzahnsägeblatt)
 
@@ -404,6 +405,7 @@ Bei welchem Abstand zum Sägeblatt ist ein Hilfsmittel oder bei Bedarf ein zweit
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 Bei Abständen von weniger als\
 <br>
@@ -567,6 +569,7 @@ Welche Schnittgeschwindigkeit ist einzustellen?
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 Die Schnittgeschwindigkeit sollte im Bereich von\
 <br>

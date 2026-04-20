@@ -71,7 +71,7 @@ Setzen Sie den jeweils richtigen Begriff an die passende Stelle.
 Welche ~~fünf~~ Kategorien bilden die grundlegenden Pflegesymbole auf Textilien?\
 Ziehen Sie die richtigen Begriffe ins Antwortfeld.
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdropmultiple(@uid,Waschen|Bleichen|Trocknen|Bügeln|Professionelle Textilpflege,Nähen|Färben|Schleudern|Verpacken)
 
 
@@ -133,7 +133,7 @@ Was bedeutet dieses Symbol?
 Welches Symbol steht für Waschen?\
 Ziehen Sie das richtige Piktrogramm ins Antwortfeld.
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdropmultiple(@uid,@Waschsymbole.Waschen_Grundsymbol.src, @Reinigungssymbole.Professionelle_Reinigung_Grundsymbol.src|@Bleichsymbole.Chlor_oder_Sauerstoffbleichen.src|@Reinigungssymbole.Professionelle_Nassreinigung_schonend.src|@Trocknersymbole.Trocknen_Grundsymbol.src)
 
 <section class="flex-container border">
@@ -235,7 +235,7 @@ Was bedeutet dieses Symbol?
 Welche Symbole stehen für das Trocknen im Wäschetrockner?\
 Ziehen Sie die richtigen Piktrogramme ins Antwortfeld.
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdropmultiple(@uid,@Trocknersymbole.Trommeltrocknen_normale_Temperatur.src|@Trocknersymbole.Trommeltrocknen_niedrige_Temperatur.src, @Trocknersymbole.Trocknen_Waescheleine_im_Schatten.src|@Trocknersymbole.Trocknen_Liegend_Tropfnass.src|@Reinigungssymbole.Professionelle_Nassreinigung.src)
 
 
@@ -264,7 +264,7 @@ Was bedeutet dieses Symbol?
 Welches Symbol steht für die Professionelle Nassreinigung?\
 Ziehen Sie das richtige Piktrogramm ins Antwortfeld.
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdropmultiple(@uid,@Reinigungssymbole.Professionelle_Nassreinigung_schonend.src, @Reinigungssymbole.Nicht_Trockenreinigen.src|@Reinigungssymbole.Trockenreinigung_mit_Kohlenwasserstoffloesungsmittel_schonend.src|@Reinigungssymbole.Trockenreinigung_mit_Perchlorethylen.src)
 
 
@@ -275,7 +275,7 @@ Ziehen Sie das richtige Piktrogramm ins Antwortfeld.
 <!-- class="highlight" -->
 Was bedeutet dieses Symbol?
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 - [( )] Professionelle Nassreinigung
 - [(X)] Professionelle Trockenreinigung mit Perchlorethylen, Dibutoxymethan und Kohlenwasserstoffen - schonend
 - [( )] Professionelle Trockenreinigung nur mit Kohlenwasserstoffen

@@ -178,7 +178,7 @@ Welche Art der Klammergestaltung sollte hier genutzt werden?
 
 <!--style="color: blue; font-weight: bolder"-->Ziehen Sie die jeweils richtige Antwort in das entsprechende Feld.
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 Das Akronym NEM<!--style="color: green; font-weight: bolder"--> steht für [->[  Edelmetall | (Nichtedelmetalllegierung) ]] und EM<!--style="color: green; font-weight: bolder"--> für  [->[  (Edelmetalllegierung) | Elektromagnet ]].
 
 </div>
@@ -189,7 +189,7 @@ Das Akronym NEM<!--style="color: green; font-weight: bolder"--> steht für [->[ 
 
 <!--style="color: blue; font-weight: bolder"-->Ziehen Sie die jeweils richtige Antwort in das entsprechende Feld.
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 Die Abkürzung CoCr<!--style="color: green; font-weight: bolder"--> steht für [->[  (Cobalt-Chrom-Legierung) | Kupfer-Chrom-Legierung ]] und Ti<!--style="color: green; font-weight: bolder"--> für  [->[  Zinn | (Titan) ]].
 
 </div>
@@ -201,7 +201,7 @@ Die Abkürzung CoCr<!--style="color: green; font-weight: bolder"--> steht für [
 
 <!--style="color: blue; font-weight: bolder"-->Ziehen Sie die jeweils richtige Antwort in das entsprechende Feld.
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 Das Kürzel PMMA<!--style="color: green; font-weight: bolder"--> steht für [->[  Plymerisiertes Metall-Matrix-Aluminium | (Polymethylmethacrylat)) ]] und RPD<!--style="color: green; font-weight: bolder"--> für  [->[  (Removable Partial Denture) | Rigid Permanent Denture]].
 
 </div>

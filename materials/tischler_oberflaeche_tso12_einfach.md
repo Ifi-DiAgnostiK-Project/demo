@@ -62,7 +62,7 @@ Wir wünschen Ihnen viel Erfolg und Spaß beim Beantworten der Fragen!
 Was gehört zu den vorbereitenden Maßnahmen vor dem Ölen einer Holzoberfläche?\
 Ziehen Sie den richtigen Begriff ins Antwortfeld.
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdropmultiple(@uid,Schleifen,Lackieren|Bohren|Zinken)
 
 
@@ -134,7 +134,7 @@ Welche Art von Beize wirkt durch eine chemische Reaktion mit dem Holz?
 Welcher Stoff gehört zu den natürlichen Überzugsmitteln?\
 Ziehen Sie den richtigen Begriff ins Antwortfeld.
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution-->
 @dragdropmultiple(@uid,Leinöl,Acrylharz|Nitrolack|PU-Lack)
 
 </div>
@@ -206,7 +206,7 @@ Was ist eine typische Methode zur Mattierung einer Holzoberfläche?
 Welches Verfahren ist ~~nicht~~ typisch für den Lackauftrag?\
 Ziehen Sie den entsprechenden Begriff ins Antwortfeld.
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdropmultiple(@uid,Hobeln,Fluten|Spritzen|Tauchen)
 
 </div>
@@ -221,7 +221,7 @@ Ziehen Sie den entsprechenden Begriff ins Antwortfeld.
 Welche Energieform wird bei der UV-Härtung verwendet?\
 Ziehen Sie den richtigen Begriff ins Antwortfeld.
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdropmultiple(@uid,Ultraviolettes Licht,Warmluft|Mikrowellen|Wasserdampf)
 
 </div>

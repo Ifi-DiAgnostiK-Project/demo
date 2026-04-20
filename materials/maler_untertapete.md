@@ -84,7 +84,7 @@ Sie sollen das konkrete Aufmaß für den Raum erstellen und alle benötigten Ger
 <!-- class="highlight" -->
 Bringen Sie den Arbeitsablauf zur Verarbeitung von Untertapeten in eine richtige Reihenfolge!
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdroporder(@uid,Aufmaß der Flächen und Mengen - Berechnung des Materials der Makulatur|Bereitstellen der Geräte und Werkzeuge|Untergründe prüfen und vorbereiten|Altanstriche bzw. Alttapteten entfernen|spachteln und schleifen|Kleber für Kleistergerät ansetzen|Kleistergerät mit Kleber und Tapete bestücken|Tapeten einkleistern|Tapeten verkleben: erst Decke - dann Wand|Anschlüsse an Wand - Decken - Scheuerleisten sauber abschneiden)
 
 </div>
@@ -172,7 +172,7 @@ Ordnen Sie die angegebenen Werkzeuge und Materialien richtig zu.\
 <br>
 "NEIN" bedeutet, dass das Werkzeug oder Material nicht für diesen Arbeitsprozess verwendet wird.
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 - [    [JA]           [NEIN]  ]
 - [    (x)             ( )       ] @Maler_Werkzeuge.Tapezierbuerste(15)
 - [    ( )             (x)       ] @Maler_Werkzeuge.Malerstock2(15)

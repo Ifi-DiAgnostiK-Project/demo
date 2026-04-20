@@ -233,6 +233,7 @@ Ziehen Sie die richtige Lösung in das leere Feld.
 data-randomize
 data-max-trials="3"
 data-solution-button="off"
+data-show-partial-solution
 -->
 @dragdropmultiple(@uid,Der Unternehmer.,Die Berufsgenossenschaften.|Der im Lärmbereich Beschäftigte.|Die Regelungen variieren von Betrieb zu Betrieb.)
 
@@ -257,6 +258,7 @@ Ab welcher Höhe sind Absturzsicherungen notwendig?
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 Absturzsicherungen sind bei Absturzhöhen ab\
 <br>
@@ -291,6 +293,7 @@ Ziehen Sie die richtige Antwort in das Antwortfeld.
 data-randomize
 data-max-trials="3"
 data-solution-button="off"
+data-show-partial-solution
 -->
 @dragdropmultiple(@uid,Sicherheitsgeschirr mit Anschlageinrichtung,Auffangeinrichtung - z. B. Netz|Hubarbeitsbühne|fahrbares Gerüst)
 
@@ -417,6 +420,7 @@ Welche Maßeinheit hat  $r$  in dieser Formel?
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 $r$ wird in  [[solution]]  angegeben.
 ********************
@@ -452,6 +456,7 @@ Bei welchem Arbeitsgang darf der Spaltkeil an der Tisch- und Formatkreissäge au
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 - [( )] beim Sägen von Plattenwerkstoffen
 - [( )] beim Verdecktsägen
@@ -500,6 +505,7 @@ Wenden Sie die Faustformel an!
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 Es ist eine Drehzahl von\
 <br>
@@ -735,6 +741,7 @@ Die Werkzeugverdeckung soll den Schneidenkreis des Fräswerkzeuges im Arbeitsber
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 mindestens jedoch um  [[solution]] mm.
 ********************
@@ -793,6 +800,7 @@ Ziehen Sie die richtigen Antworten in das Antwortfeld.
 data-randomize
 data-max-trials="3"
 data-solution-button="off"
+data-show-partial-solution
 -->
 @dragdropmultiple(@uid,erhöhte Lärmbelästigung|Bruchgefahr,erhöhte Rückschlaggefahr|raue Oberflächen)
 
@@ -806,6 +814,7 @@ Ziehen Sie die richtigen Antworten in das Antwortfeld.
 data-randomize
 data-max-trials="3"
 data-solution-button="off"
+data-show-partial-solution
 -->
 @dragdropmultiple(@uid,erhöhte Rückschlaggefahr,raue Oberflächen|erhöhte Lärmbelästigung|Bruchgefahr)
 
@@ -819,6 +828,7 @@ Ziehen Sie die einzelnen Arbeitsschritte in die richtige Reihenfolge.
 data-randomize
 data-max-trials="3"
 data-solution-button="off"
+data-show-partial-solution
 -->
 @dragdroporder(@uid,Tischverlängerung mit Queranschlägen anbringen.|Anschlag parallel zu den Tischverlängerungen einstellen.|Einsetzpunkt ermitteln.|Als Rückschlagsicherung Queranschlag gegen das Ende des Werkstücks oder die Spannlade schieben und festspannen.|Aussetzpunkt ermitteln.|Queranschlag der hinteren Tischverlängerung als Vorschubbegrenzung an den Werkstückanfang oder die Spannlade schieben und festspannen.|Das Fräswerkzeug vor dem Anschlag durch Bogenfeder oder Druckschuh oder Schutz- und Druckvorrichtung  -ohne Andruckeinstellung - verdecken.)
 
@@ -915,6 +925,7 @@ Wenden Sie die Faustformel an!
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 Es ist eine Drehzahl von\
 <br>
@@ -968,6 +979,7 @@ Ziehen Sie die einzelnen Arbeitsschritte in die richtige Reihenfolge.
 data-randomize
 data-max-trials="3"
 data-solution-button="off"
+data-show-partial-solution
 -->
 @dragdroporder(@uid,Vor dem Aufspannen Drehzahlbereich des Fräswerkzeugs ermitteln.|Fräswerkzeug entsprechend der Drehrichtung auflegen.|Zwischenringe auswählen - dabei das Gewinde der Fräserdorn-Mutter voll ausnutzen.|Fräserdorn-Mutter mit geeignetem Werkzeug anziehen.|Fräshöhe einstellen.|Frästiefe einstellen.|Anschlagöffnung so weit wie möglich schließen.|Obere Werkzeugverdeckung anbringen.)
 

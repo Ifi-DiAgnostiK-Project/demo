@@ -141,9 +141,9 @@ Diese Näherungen sind praktisch, wenn exakte irrationale Zahlen im Alltag oder 
 
 ## 🧠 Quiz: Verstehst du den Goldenen Schnitt?
 
-
 Welche der folgenden Zahlenpaare stehen im ungefähren Verhältnis des Goldenen Schnitts?
 ===
+
 <!-- data-randomize -->
 - [[ ]] 2 : 3
 - [[x]] 3 : 5

@@ -125,23 +125,23 @@ Ordnen Sie den Zahlen 1 - 6 im Bild den jeweils richtigen Fachbegriff zu.
 
 <br>
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 2<!--style="color: red; font-weight: bolder"-->  =  [[ (Klammerunterarm) | Klammerspitze   | Klammeroberarm  |     Klammerschulter |  Appendix  |  Auflage ]]
 
 <br>
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 3<!--style="color: red; font-weight: bolder"-->  =  [[Klammerunterarm | Klammerspitze  | (Klammeroberarm)  |      Klammerschulter |  Appendix  |  Auflage ]]
 
 <br>
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 4<!--style="color: red; font-weight: bolder"-->  =  [[Klammerunterarm | Klammerspitze   | Klammeroberarm  |     (Klammerschulter) |  Appendix  |  Auflage ]]
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 5<!--style="color: red; font-weight: bolder"-->  =  [[Klammerunterarm | Klammerspitze   | Klammeroberarm  |     Klammerschulter |  Appendix  |  (Auflage) ]]
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 6<!--style="color: red; font-weight: bolder"-->  =  [[Klammerunterarm | Klammerspitze   | Klammeroberarm  |     Klammerschulter |  (Appendix)  |  Auflage ]]
 
 
@@ -165,22 +165,22 @@ Ordnen Sie den Zahlen 1 - 4 im Bild den jeweils richtigen Fachbegriff zu.
 
 <br>
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 1<!--style="color: blue; font-weight: bolder"-->  =  [[ Dreiecksklammer | (Labialbogen)   | Pfeilklammer  |   Adamsklammer ]]
 
 <br>
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 2<!--style="color: blue; font-weight: bolder"-->  =  [[ Dreiecksklammer | Labialbogen   |  (Pfeilklammer)  |   Adamsklammer ]]
 
 <br>
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 3<!--style="color: blue; font-weight: bolder"-->  =  [[ (Dreiecksklammer) | Labialbogen   | Pfeilklammer  |   Adamsklammer ]]
 
 <br>
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 4<!--style="color: blue; font-weight: bolder"-->  =  [[ Dreiecksklammer | Labialbogen   | Pfeilklammer  |   (Adamsklammer) ]]
 
 </div>
@@ -222,7 +222,7 @@ In welcher Reihenfolge führen Sie die Herstellung einer aktiven Platte korrekt 
 Ziehen Sie die einzelnen Arbeitsschritte in die richtige Reihenfolge.\
 An oberster Stelle seht der erste Arbeitsschritt.
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdroporder(@uid,Modelltradierung|Halteelemente biegen|Dehnschraube platzieren|Halteelemente am Modell fixieren|Modell wässern und isolieren|Kunststoff streuen|Polymerisieren|Ausarbeiten der Platte|Politur und Fertigstellung)
 
 </div>
@@ -244,7 +244,7 @@ Welche Aussagen treffen auf Interimsprothesen (Sofortprothesen) zu?
 
 <!--style="color: red"-->Es sind mehrere Antworten möglich.
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 - [[X]] Wundverschluss nach Exraktion
 - [[X]] Erhalt der Sprachfunktion
 - [[X]] Erhalt der Bisshöhe

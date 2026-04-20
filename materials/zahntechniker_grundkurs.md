@@ -65,22 +65,22 @@ Ordnen Sie den Zahlen 1 - 4 im Bild den jeweils richtigen Fachbegriff zu.
 
 <br>
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 1<!--style="color: green; font-weight: bolder"-->  =  [[palatinal | (mesial)   | distal  |   bukkal]]
 
 <br>
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 2<!--style="color: green; font-weight: bolder"-->  =  [[palatinal | mesial   |  (distal)  |   bukkal]]
 
 <br>
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 3<!--style="color: green; font-weight: bolder"-->  =  [[ (lingual) | mesial   | distal  |   bukkal]]
 
 <br>
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 4<!--style="color: green; font-weight: bolder"-->  =  [[lingual | mesial   | distal  |   (bukkal) ]]
 
 </div>
@@ -101,14 +101,14 @@ Ordnen Sie den Zahlen 1 - 4 im Bild den jeweils richtigen Fachbegriff zu.
 Ziehen Sie die jeweils richtige Antwort in das entsprechende Feld.
 
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 Die Zahl 1<!--style="color: red; font-weight: bolder"--> bezeichnet [->[  (den Bennetwinkel) | die Kondylführung ]].
 <br>
 Die Zahl 2<!--style="color: red; font-weight: bolder"--> meint  [->[  (die Kondylartrommel) | die Fixierschraube ]].
 
 ------------
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 Die Zahl 3<!--style="color: red; font-weight: bolder"--> zeigt zum [->[  (Stützstift) | Quersteg]]. <br>
 Die Zahl 4<!--style="color: red; font-weight: bolder"--> bezeichnet den [->[  (Inzisalzeiger) | Inzisalstift ]].
 
@@ -160,7 +160,7 @@ Welche Begriffe werden synonym für "Kauebene" verwendet?
 <div class="flex-child">
 
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 Mittels CAD<!--style="color: green; font-weight: bolder"--> erfolgt die [->[  (digitale Konstruktion) | automatisierte Fertigung ]] von Objekten.
 
 </div>
@@ -170,7 +170,7 @@ Mittels CAD<!--style="color: green; font-weight: bolder"--> erfolgt die [->[  (d
 <div class="flex-child">
 
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 Mit Hilfe von CAM<!--style="color: green; font-weight: bolder"--> erfolgt die [->[  (maschinelle Fertigung) | digitale Planung und Gestaltung ]] des Zahnersatzes.
 
 </div>

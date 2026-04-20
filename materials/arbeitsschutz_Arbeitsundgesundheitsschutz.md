@@ -380,7 +380,7 @@ Beschäftigte sollten bei Gefahr sofort ihren [[ Kollegen |  __Hausmeister__ | (
 <!-- class="highlight" -->
 Ziehen Sie alle Piktogramme, welche Warnzeichen abbilden, in das Antwortfeld!
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdropmultiple(@uid,@Warnzeichen.Absturzgefahr.src|@Warnzeichen.Flurfoerderzeugen.src|@Warnzeichen.Magnetische_Felder.src,@Verbotszeichen.Zutritt_fuer_Unbefugte_verboten.src|@Verbotszeichen.Rauchen_verboten.src|@Verbotszeichen.Mit_Wasser_loeschen_verboten.src)
 
 

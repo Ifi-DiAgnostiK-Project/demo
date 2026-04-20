@@ -83,7 +83,7 @@ Welche Aussagen treffen für Handmaschinen zu (Mehrfachauswahl möglich)?
 -----------
 
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 - [  [richtig]     (falsch) ]
 - [    (X)           ( )    ] Alle mit integrierter Absaugeinrichtung müssen abgesaugt werden.
 - [    ( )           (X)    ] Vor dem Beseitigen von Störungen reicht es aus, die Anlaufautomatik des Staubsaugers abzuschalten.
@@ -141,6 +141,7 @@ Wie muss der Spaltkeil in Handkreissägemaschinen eingestellt sein?
 data-randomize
 data-solution-button="off"
 data-max-trials="3"
+data-show-partial-solution
 -->
 Der Abstand von den Zahnspitzen des Sägeblatts zum Spaltkeil darf max.\
 <br>
@@ -169,7 +170,7 @@ Ordnen Sie die Abbildungen den korrekten Bezeichnungen der Zahnform zu!
 
 _Abb.: BGHM_<!-- style="margin-left: 750px;" -->
 
-<!--data-randomize -->
+<!--data-randomize data-show-partial-solution -->
 - [  [Flachzahn]     [Wechselzahn, viele Zähne]  [Hohl-Trapez-Zahn]     [Wechselzahn, wenig Zähne]  ]
 - [    (x)                         ( )                ( )                          ( )              ] @Tischler_TSM.Flachzahn_HM_Kreissaegeblatt(10)
 - [    ( )                         (X)                ( )                          ( )              ] @Tischler_TSM.Wechselzahn_viele_Zaehne_HM_Kreissaegeblatt(10)
@@ -185,7 +186,7 @@ _Abb.: BGHM_<!-- style="margin-left: 750px;" -->
 <!-- class="highlight"-->
 Ziehen Sie die jeweils passende Abbildung der Zahnform in das Feld links neben das geeignete Material und dem Arbeitsgang.
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdropsort(@uid,Massivholz - Rohzuschnitt in Faserrichtung;@Tischler_TSM.Flachzahn_HM_Kreissaegeblatt.src|Massivholz - in und quer zur Faserrichtung;@Tischler_TSM.Wechselzahn_wenig_Zaehne_HM_Kreissaegeblatt.src|Furnierte Platten und Massivholz - quer zur Faserrichtung;@Tischler_TSM.Wechselzahn_viele_Zaehne_HM_Kreissaegeblatt.src|Beschichtete Platten;@Tischler_TSM.Hohl_Trapez_Zahn_HM_Kreissaegeblatt.src)
 
 
@@ -323,7 +324,7 @@ Ordnen Sie die Abbildungen den korrekten Bezeichnungen der verschiedenen Messerw
 
 _Abb.: BGHM_<!-- style="margin-left: 750px;" -->
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdropsort(@uid,Keilleiste;@Tischler_TSM.Keilleistenmesserwelle_Abrichthobelmaschine.src|Spiralmeserwelle mit Wendemessern;@Tischler_TSM.Spiralmesserwelle_mit_Wendemessern_Abrichthobelmaschine.src|Messerwelle mit formschlüssiger Messerbefestigung;@Tischler_TSM.Messerwelle_mit_formschluessiger_Messerbefestigung_Abrichthobelmaschine.src)
 
 <!--style="background-color:#FFA500;color: white"-->

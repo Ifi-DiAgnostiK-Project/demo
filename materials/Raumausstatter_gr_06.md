@@ -122,7 +122,7 @@ Ordnen Sie richtig zu!
 -----------------
 
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 - [[Polsteruntergrund - ja] (Polsteruntergrund - nein)]
 - [    ( )                       (X)                  ]  Leisten
 - [    (X)                       ( )                  ]  Holzplatte
@@ -141,7 +141,7 @@ Ziehen Sie die zutreffenden Begriffe für Polsteruntergründe ins Antwortfeld:
 
 ----------------
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 @dragdropmultiple(@uid,Federkorb|Gurtung|Wellenfedern|Holzplatte,Polsterpappe|Gummikokos|Leisten)
 
 
@@ -230,7 +230,7 @@ Ordnen Sie richtig zu!
 
 ----------------------
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 - [[Tapezierwerkzeug - ja] (Tapezierwerkzeug - nein)]
 - [               ( )           (X)                 ]  Zuschneidetisch
 - [               ( )           (X)                 ]  Stecknadel
@@ -247,7 +247,7 @@ Ordnen Sie auch auch hier richtig zu:
 
 ----------------------
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 - [[Tapezierwerkzeug - ja] (Tapezierwerkzeug - nein)]
 - [               (X)           ( )                 ]  Lot
 - [               (X)           ( )                 ]  Spachtel

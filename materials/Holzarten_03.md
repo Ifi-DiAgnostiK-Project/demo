@@ -60,7 +60,7 @@ _Quelle aller Holz-Abbildungen:_ _https://holzvomfach.de/fachwissen-holz/holz-ab
 <!--style="color:green"-->Ordnen Sie die Baumarten richtig zu.
 ===
 
-<!--data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 - [  [Laubholz]     [Nadelholz]  ]
 - [    (x)             ( )       ] __Ahorn__ @Hoelzer2.Ahorn(10)
 - [    ( )             (x)       ] __Weißtanne__ @Hoelzer1.Weisstanne(10)
@@ -76,16 +76,16 @@ _Quelle aller Holz-Abbildungen:_ _https://holzvomfach.de/fachwissen-holz/holz-ab
 
 <div class="flex-child" style="min-width: 250px">
 
-<!--data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 [[ (Robinie) | Fichte | Birke | Nussbaum ]]  ist besonders witterungsbeständig mit einem anfangs grünlichen Holz.
 
-<!--data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 [[ Robinie | Fichte | Birke | (Nussbaum) ]]  hat ein dunkelbraunes, hartes Holz, welches sich für edle Möbel eignet.
 
-<!--data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 [[  Robinie | (Fichte) | Birke | Nussbaum ]]  hat ein sehr weiches Holz, welches harzhaltig ist mit Harzkanälen.
 
-<!--data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 [[  Robinie | Fichte | (Birke) | Nussbaum ]]  eignet sich mit dem hellen, mittelharten Holz für Möbel- und Sperrholzverarbeitung.
 
 </div>

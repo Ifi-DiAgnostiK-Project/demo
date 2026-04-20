@@ -284,7 +284,7 @@ Ordnen Sie die folgenden Aussagen in "richtig" und "falsch" ein.
 -----------
 
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 - [  [richtig]     (falsch) ]
 - [    (X)           ( )    ]  Holzverbindungen im Polstergestellbau müssen hohe Belastungen aushalten.
 - [    ( )           (X)    ]  Die überplattete Verbindung wird ausschließlich bei Vollholz- bzw. Sichtholzgestellen verwendet.

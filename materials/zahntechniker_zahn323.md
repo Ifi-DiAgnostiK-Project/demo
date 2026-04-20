@@ -64,24 +64,24 @@ Ordnen Sie den Zahlen 1 - 5 im Bild den jeweils richtigen Fachbegriff zu.
 
 <br>
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution  -->
 1<!--style="color: red; font-weight: bolder"-->  =  [[ Okklusionsebene/Lippenschlusslinie | (Gesichtsmitte)   | Eckzahnpunkte  |   Schneidezahnlinie |  Lachlinie ]]
 
 <br>
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 2<!--style="color: red; font-weight: bolder"-->  =  [[ Okklusionsebene/Lippenschlusslinie | Gesichtsmitte   | Eckzahnpunkte  |   Schneidezahnlinie |  (Lachlinie) ]]
 
 <br>
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 3<!--style="color: red; font-weight: bolder"-->  =  [[Okklusionsebene/Lippenschlusslinie | Gesichtsmitte   | (Eckzahnpunkte)  |   Schneidezahnlinie |  Lachlinie ]]
 <br>
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 4<!--style="color: red; font-weight: bolder"-->  =  [[ (Okklusionsebene/Lippenschlusslinie) | Gesichtsmitte   | Eckzahnpunkte  |   Schneidezahnlinie |  Lachlinie ]]
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 5<!--style="color: red; font-weight: bolder"-->  =  [[Okklusionsebene/Lippenschlusslinie | Gesichtsmitte   | Eckzahnpunkte  |   (Schneidezahnlinie) |  Lachlinie ]]
 
 
@@ -183,10 +183,10 @@ Welche Aussagen sind richtig?
 <!-- class="highlight"-->
 Ordnen Sie die richtigen Begriffe den Aussagen zu!
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 Die Ruheschwebelage ist eine [->[ (muskulär) | aktiv ]] bestimmte Lage des [->[  Oberkiefers | (Unterkiefers) ]].
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 Sie ist [->[ identisch | (nicht identisch) ]] mit der Zentrik. Sie wird genutzt, um die [->[ (Bisshöhe) | Kaubewegung ]] bei der Herstellung von Vollprothesen festzustellen.
 
 
@@ -223,10 +223,10 @@ Wie kann die Ruheschwebelage in der Praxis bestimmt oder überprüft werden?
 Wann wird die Stützstiftregistrierung eingesetzt?\
 Ordnen Sie die richtigen Begriffe den Aussagen zu!
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 Die Methode wird besonders bei [->[ (zahnlosen) | vollbezahnten ]] Patienten eingesetzt, um die  [->[ (zentrische) | okkulare ]] Kieferrelation zu bestimmen.
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 Sie gehört zu einer [->[ enddiagnostischen | (funktionsdiagnostischen) ]] Untersuchung  [->[ (vor) | nach ]] der Herstellung von Vollprothesen.
 
 </div>
@@ -286,29 +286,29 @@ Ordnen Sie den Zahlen 1 - 6 im Bild den jeweils richtigen Fachbegriff zu.
 
 <br>
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 1<!--style="color: red; font-weight: bolder"-->  =  [[ Außenkorrektur | (Innenkorrektur)   | Frontale Kieferkammmitte  |   Modellmitte |  Mitte der Umschlagfalte  |  6er-Position ]]
 
 <br>
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 2<!--style="color: red; font-weight: bolder"-->  =  [[ (Außenkorrektur) | Innenkorrektur   | Frontale Kieferkammmitte  |   Modellmitte |  Mitte der Umschlagfalte  |  6er-Position ]]
 
 
 <br>
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 3<!--style="color: red; font-weight: bolder"-->  =  [[ Außenkorrektur | Innenkorrektur   | Frontale Kieferkammmitte  |   (Modellmitte) |  Mitte der Umschlagfalte  |  6er-Position ]]
 
 <br>
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 4<!--style="color: red; font-weight: bolder"-->  =  [[ Außenkorrektur | Innenkorrektur   | Frontale Kieferkammmitte  |   Modellmitte |  Mitte der Umschlagfalte  |  (6er-Position) ]]
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 5<!--style="color: red; font-weight: bolder"-->  =  [[ Außenkorrektur | Innenkorrektur   | (Frontale Kieferkammmitte)  |   Modellmitte |  Mitte der Umschlagfalte  |  6er-Position ]]
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 6<!--style="color: red; font-weight: bolder"-->  =  [[ Außenkorrektur | Innenkorrektur   | Frontale Kieferkammmitte  |   Modellmitte |  (Mitte der Umschlagfalte)  |  6er-Position ]]
 
 

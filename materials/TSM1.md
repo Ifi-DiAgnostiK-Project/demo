@@ -204,7 +204,7 @@ d. Flachzahn für Rohzuschnitt in Faserrichtung
 7. __Welche Kreissägeblätter sind abgebildet?__
 ===
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 -   [[![Flachzahn](../assets/img/BGHM_Kreissaegeblatt_Flachzahn.jpg)  <!-- style="width: 300px" -->]        (![Hohl-Trapez-Zahn](../assets/img/BGHM_Kreissaegeblatt_Hohl-Trapez-Zahn.jpg)  <!-- style="width: 300px" -->)]
 - [    ( )              (X)       ]  Hohl-Trapez-Zahn für beschichtete Platten
 - [    ( )              ( )       ]  Wechselzahn für Massivholz, in und quer zur Faserrichtung
@@ -223,7 +223,7 @@ Welche Piktogramme bezeichnen Teile der persönlichen Schutzausrüstung?
 8. __Welche Piktogramme bezeichnen Teile der persönlichen Schutzausrüstung (PSA)?__
 ===
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 -   [[ @Gebotszeichen.Kopfschutz(10) ]  (@Rettungszeichen.Defibrillator(10))  [@Leitern.Gespannte_Spreizvorrichtung(10)]  [ @Gebotszeichen.Atemschutz(10) ] ]
 - [   [X]    [ ]    [ ]   [X]     ]  Teile der PSA
 
@@ -246,7 +246,7 @@ Welche persönlichen Schutzausrüstung (PSA) wird an Handkreissägen benötigt?
 ===
 
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 - [ [@Gebotszeichen.Augenschutz(10)] [@Gebotszeichen.Handschuh(10)] [@Gebotszeichen.Gehoerschutz(10)] [@Gebotszeichen.Fussschutz(10)] ]
 - [      [X]    [ ]    [X]   [X]     ]  erforderliche PSA
 
@@ -393,13 +393,13 @@ Füllen Sie den Lückentext aus.
 
 >_Kann der Lückentext sinnvoll vorgelesen werden, dass die Lücken offensichtlich werden? Funktioniert Randomize?_
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 Bei Verdecktschnitten an der Tisch- und Formatkreissäge ist der __Spaltkeil__ wie folgt einzustellen: [[ unter die Tischebene | (__höchstens 2 mm unter der höchsten Sägezahnspitze__) | Der Spaltkeil ist auszubauen ]].
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 Als Hilfsmittel sind beim Abrichten kurzer Werkstücke zu verwenden: [[ (Schiebeholz oder Zuführlade) | __Schiebestock__ | Hilfsanschlag ]].
 
-<!-- data-randomize -->
+<!-- data-randomize data-show-partial-solution -->
 Der Schneidenüberstand an der Messerwelle der Abrichthobelmaschine darf höchstens: [[ (1,1 mm) | __2-3 mm__ | max. 5 mm ]] sein.
 
 ---
